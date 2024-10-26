@@ -239,3 +239,35 @@ User connected with ID: 1cad158f-16c8-4a06-8afc-03887783a7ce
   Rn3SAvo3aq7NV4siAABL: '66f35dab-224d-46ee-94d3-17160e92c505'
 }
 User connected with ID: 66f35dab-224d-46ee-94d3-17160e92c505
+User with ID 1cad158f-16c8-4a06-8afc-03887783a7ce disconnected
+User with ID 66f35dab-224d-46ee-94d3-17160e92c505 disconnected
+{ '98v7IwhdhRE7pblbAABO': 'e6585609-d01b-4711-b2f5-1fb178b90afd' }
+User connected with ID: e6585609-d01b-4711-b2f5-1fb178b90afd
+{
+  '98v7IwhdhRE7pblbAABO': 'e6585609-d01b-4711-b2f5-1fb178b90afd',
+  'Va8GSWhoUz-rivj1AABP': '596cfadc-7326-4665-b8cf-14915c7266e4'
+}
+User connected with ID: 596cfadc-7326-4665-b8cf-14915c7266e4
+User with ID e6585609-d01b-4711-b2f5-1fb178b90afd disconnected
+User with ID 596cfadc-7326-4665-b8cf-14915c7266e4 disconnected
+{ aKSX4tz6T_QvommqAABS: '62bb6c70-2cad-4243-9c5a-82a076bbea59' }
+User connected with ID: 62bb6c70-2cad-4243-9c5a-82a076bbea59
+User with ID 62bb6c70-2cad-4243-9c5a-82a076bbea59 disconnected
+{ 'pWn-T3sRhcFKthG6AABV': '92b56d8b-60c8-41f2-9ea9-9f734275643f' }
+User connected with ID: 92b56d8b-60c8-41f2-9ea9-9f734275643f
+{
+  'pWn-T3sRhcFKthG6AABV': '92b56d8b-60c8-41f2-9ea9-9f734275643f',
+  'iMJPxbBwT-6LpCYtAABY': 'd2d7d895-3aab-4b76-97f1-d6f63882e61a'
+}
+User connected with ID: d2d7d895-3aab-4b76-97f1-d6f63882e61a
+User d2d7d895-3aab-4b76-97f1-d6f63882e61a: hi
+User 92b56d8b-60c8-41f2-9ea9-9f734275643f: hello  bhai
+{
+  'pWn-T3sRhcFKthG6AABV': '92b56d8b-60c8-41f2-9ea9-9f734275643f',
+  'iMJPxbBwT-6LpCYtAABY': 'd2d7d895-3aab-4b76-97f1-d6f63882e61a',
+  'GrXs6ssh-O-zl4IRAABb': 'e00cda81-952b-4766-b12c-13753a275ddf'
+}
+User connected with ID: e00cda81-952b-4766-b12c-13753a275ddf
+User e00cda81-952b-4766-b12c-13753a275ddf: kya kar rahe ho bhen ke loudo
+User e00cda81-952b-4766-b12c-13753a275ddf: lol
+User e00cda81-952b-4766-b12c-13753a275ddf: this is working now
