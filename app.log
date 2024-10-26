@@ -271,3 +271,862 @@ User connected with ID: e00cda81-952b-4766-b12c-13753a275ddf
 User e00cda81-952b-4766-b12c-13753a275ddf: kya kar rahe ho bhen ke loudo
 User e00cda81-952b-4766-b12c-13753a275ddf: lol
 User e00cda81-952b-4766-b12c-13753a275ddf: this is working now
+User 92b56d8b-60c8-41f2-9ea9-9f734275643f: sahi hai yaar
+{
+  'pWn-T3sRhcFKthG6AABV': '92b56d8b-60c8-41f2-9ea9-9f734275643f',
+  'iMJPxbBwT-6LpCYtAABY': 'd2d7d895-3aab-4b76-97f1-d6f63882e61a',
+  'GrXs6ssh-O-zl4IRAABb': 'e00cda81-952b-4766-b12c-13753a275ddf',
+  qr5Od9gQuqS87T47AABd: '21ff55ba-de35-49d5-8c5f-2b11ae3710fa'
+}
+User connected with ID: 21ff55ba-de35-49d5-8c5f-2b11ae3710fa
+User 21ff55ba-de35-49d5-8c5f-2b11ae3710fa: Hi
+User with ID 92b56d8b-60c8-41f2-9ea9-9f734275643f disconnected
+{
+  'iMJPxbBwT-6LpCYtAABY': 'd2d7d895-3aab-4b76-97f1-d6f63882e61a',
+  'GrXs6ssh-O-zl4IRAABb': 'e00cda81-952b-4766-b12c-13753a275ddf',
+  qr5Od9gQuqS87T47AABd: '21ff55ba-de35-49d5-8c5f-2b11ae3710fa',
+  'TldIzDIYx5r-1rhIAABg': 'ff36cfa7-5b13-444c-8440-80a2a588b78a'
+}
+User connected with ID: ff36cfa7-5b13-444c-8440-80a2a588b78a
+User with ID d2d7d895-3aab-4b76-97f1-d6f63882e61a disconnected
+{
+  'GrXs6ssh-O-zl4IRAABb': 'e00cda81-952b-4766-b12c-13753a275ddf',
+  qr5Od9gQuqS87T47AABd: '21ff55ba-de35-49d5-8c5f-2b11ae3710fa',
+  'TldIzDIYx5r-1rhIAABg': 'ff36cfa7-5b13-444c-8440-80a2a588b78a',
+  '3GrdGm4TSkx1fC60AABj': '9ba8934a-2722-4b56-b4fd-8512539bf2af'
+}
+User connected with ID: 9ba8934a-2722-4b56-b4fd-8512539bf2af
+User with ID e00cda81-952b-4766-b12c-13753a275ddf disconnected
+{
+  qr5Od9gQuqS87T47AABd: '21ff55ba-de35-49d5-8c5f-2b11ae3710fa',
+  'TldIzDIYx5r-1rhIAABg': 'ff36cfa7-5b13-444c-8440-80a2a588b78a',
+  '3GrdGm4TSkx1fC60AABj': '9ba8934a-2722-4b56-b4fd-8512539bf2af',
+  Fkm7vc3i8zr2FV8hAABm: '1ac0ab55-5cef-4f08-9492-ed5c2a97363c'
+}
+User connected with ID: 1ac0ab55-5cef-4f08-9492-ed5c2a97363c
+User 21ff55ba-de35-49d5-8c5f-2b11ae3710fa: Yo
+User with ID 21ff55ba-de35-49d5-8c5f-2b11ae3710fa disconnected
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ 'bXTeoMdGmhh1-0lfAAAB': 'dc7c6421-3d8d-4f05-b58b-60acaf56f6e2' }
+User connected with ID: dc7c6421-3d8d-4f05-b58b-60acaf56f6e2
+{
+  'bXTeoMdGmhh1-0lfAAAB': 'dc7c6421-3d8d-4f05-b58b-60acaf56f6e2',
+  '94a5qXIWv8lK-re-AAAD': '90b4817e-487f-4fa1-8b91-f3487285b56a'
+}
+User connected with ID: 90b4817e-487f-4fa1-8b91-f3487285b56a
+{
+  'bXTeoMdGmhh1-0lfAAAB': 'dc7c6421-3d8d-4f05-b58b-60acaf56f6e2',
+  '94a5qXIWv8lK-re-AAAD': '90b4817e-487f-4fa1-8b91-f3487285b56a',
+  Iv8C6inFeenhIEvAAAAF: '01ddb864-1fae-4bad-9121-7ead2b7a59d3'
+}
+User connected with ID: 01ddb864-1fae-4bad-9121-7ead2b7a59d3
+User 01ddb864-1fae-4bad-9121-7ead2b7a59d3: hi
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 120305c7-cb26-484d-bab3-3ebeb302ea8d
+{ '22Ok9o_IGGz5Re68AAAB': '120305c7-cb26-484d-bab3-3ebeb302ea8d' }
+User connected with ID: 86cc669e-8082-4f89-bbac-6a62a9f75965
+{
+  '22Ok9o_IGGz5Re68AAAB': '120305c7-cb26-484d-bab3-3ebeb302ea8d',
+  tafQaSREFIu5B8jlAAAD: '86cc669e-8082-4f89-bbac-6a62a9f75965'
+}
+User connected with ID: 27dc8278-556b-490d-b3ba-12748366452c
+{
+  '22Ok9o_IGGz5Re68AAAB': '120305c7-cb26-484d-bab3-3ebeb302ea8d',
+  tafQaSREFIu5B8jlAAAD: '86cc669e-8082-4f89-bbac-6a62a9f75965',
+  IdeF3kkw3snniuXnAAAF: '27dc8278-556b-490d-b3ba-12748366452c'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 1b95e329-7d0d-4501-ba5b-b62b6f886db0
+{ oTJD3iiOCKCjc05SAAAB: '1b95e329-7d0d-4501-ba5b-b62b6f886db0' }
+User connected with ID: 5b5e4815-d844-4973-8858-057ac1b18827
+{
+  oTJD3iiOCKCjc05SAAAB: '1b95e329-7d0d-4501-ba5b-b62b6f886db0',
+  gqcp5bssSQFdhVzjAAAD: '5b5e4815-d844-4973-8858-057ac1b18827'
+}
+User connected with ID: aec4bc27-40ff-4c7a-a130-224039782717
+{
+  oTJD3iiOCKCjc05SAAAB: '1b95e329-7d0d-4501-ba5b-b62b6f886db0',
+  gqcp5bssSQFdhVzjAAAD: '5b5e4815-d844-4973-8858-057ac1b18827',
+  wZkFkWKcV_I516M6AAAF: 'aec4bc27-40ff-4c7a-a130-224039782717'
+}
+User 1b95e329-7d0d-4501-ba5b-b62b6f886db0: yo
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 8e5e5e0d-acd9-467b-8b42-fae6a5523d08
+{ TJZc3YKrHJT_EKiwAAAB: '8e5e5e0d-acd9-467b-8b42-fae6a5523d08' }
+User connected with ID: 40c602a4-afab-46b3-9e74-84be02c9e3ee
+{
+  TJZc3YKrHJT_EKiwAAAB: '8e5e5e0d-acd9-467b-8b42-fae6a5523d08',
+  MHXiPzB2ZxgKBQIkAAAD: '40c602a4-afab-46b3-9e74-84be02c9e3ee'
+}
+User connected with ID: bb0d0cdf-6fcf-43a7-869e-a707dd974c05
+{
+  TJZc3YKrHJT_EKiwAAAB: '8e5e5e0d-acd9-467b-8b42-fae6a5523d08',
+  MHXiPzB2ZxgKBQIkAAAD: '40c602a4-afab-46b3-9e74-84be02c9e3ee',
+  rMIeYcBZuW_oYxLJAAAF: 'bb0d0cdf-6fcf-43a7-869e-a707dd974c05'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: cf6c3a3e-9ec3-40c4-9cac-a2b9682626ca
+{ 'Jp139zNH-R-3ZfqrAAAB': 'cf6c3a3e-9ec3-40c4-9cac-a2b9682626ca' }
+User connected with ID: 24ad66e7-ddaa-4c62-9abd-439e185db42d
+{
+  'Jp139zNH-R-3ZfqrAAAB': 'cf6c3a3e-9ec3-40c4-9cac-a2b9682626ca',
+  eos1q_qgcRZfWZ8qAAAD: '24ad66e7-ddaa-4c62-9abd-439e185db42d'
+}
+User connected with ID: 163bf3d7-f3cd-447c-8cca-122bf31b3682
+{
+  'Jp139zNH-R-3ZfqrAAAB': 'cf6c3a3e-9ec3-40c4-9cac-a2b9682626ca',
+  eos1q_qgcRZfWZ8qAAAD: '24ad66e7-ddaa-4c62-9abd-439e185db42d',
+  'mBp8vS-fPVTReSxIAAAF': '163bf3d7-f3cd-447c-8cca-122bf31b3682'
+}
+User with ID 163bf3d7-f3cd-447c-8cca-122bf31b3682 disconnected
+User with ID 24ad66e7-ddaa-4c62-9abd-439e185db42d disconnected
+User with ID cf6c3a3e-9ec3-40c4-9cac-a2b9682626ca disconnected
+User connected with ID: 46ccc211-3068-46b5-ab77-345ade7cf5ac
+{ '9YE9isBqY3tXCTXkAAAK': '46ccc211-3068-46b5-ab77-345ade7cf5ac' }
+User connected with ID: 8544923b-1687-4a11-b791-c404960d6cba
+{
+  '9YE9isBqY3tXCTXkAAAK': '46ccc211-3068-46b5-ab77-345ade7cf5ac',
+  oN3xx_V7jmIR3DSqAAAM: '8544923b-1687-4a11-b791-c404960d6cba'
+}
+User connected with ID: 8e49a8a8-c5f6-4f25-b714-966a968078c1
+{
+  '9YE9isBqY3tXCTXkAAAK': '46ccc211-3068-46b5-ab77-345ade7cf5ac',
+  oN3xx_V7jmIR3DSqAAAM: '8544923b-1687-4a11-b791-c404960d6cba',
+  'RxjNa-9SZz9HvxJUAAAN': '8e49a8a8-c5f6-4f25-b714-966a968078c1'
+}
+User with ID 46ccc211-3068-46b5-ab77-345ade7cf5ac disconnected
+User connected with ID: 8f8249f9-640c-4f0f-b963-1f62612d9fea
+{
+  oN3xx_V7jmIR3DSqAAAM: '8544923b-1687-4a11-b791-c404960d6cba',
+  'RxjNa-9SZz9HvxJUAAAN': '8e49a8a8-c5f6-4f25-b714-966a968078c1',
+  'YUWztJv4dJW-1rHVAAAQ': '8f8249f9-640c-4f0f-b963-1f62612d9fea'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: c1d91ca3-552c-4633-bbfd-51ee22af52e3
+{ '7RCyqwhKAz3zGs3rAAAB': 'c1d91ca3-552c-4633-bbfd-51ee22af52e3' }
+User connected with ID: 8689ecb4-7006-4347-ae4b-b474377ab117
+{
+  '7RCyqwhKAz3zGs3rAAAB': 'c1d91ca3-552c-4633-bbfd-51ee22af52e3',
+  WEVlhctFxIDJFtxqAAAD: '8689ecb4-7006-4347-ae4b-b474377ab117'
+}
+User connected with ID: 866268c3-9242-4bde-b278-190fec9855d2
+{
+  '7RCyqwhKAz3zGs3rAAAB': 'c1d91ca3-552c-4633-bbfd-51ee22af52e3',
+  WEVlhctFxIDJFtxqAAAD: '8689ecb4-7006-4347-ae4b-b474377ab117',
+  bvLKTuskGs5A1iq0AAAF: '866268c3-9242-4bde-b278-190fec9855d2'
+}
+User with ID c1d91ca3-552c-4633-bbfd-51ee22af52e3 disconnected
+User connected with ID: 4e0f0385-9eea-4a9e-bf24-8077cd298575
+{
+  WEVlhctFxIDJFtxqAAAD: '8689ecb4-7006-4347-ae4b-b474377ab117',
+  bvLKTuskGs5A1iq0AAAF: '866268c3-9242-4bde-b278-190fec9855d2',
+  GiRvBlyMNUYqp5ApAAAI: '4e0f0385-9eea-4a9e-bf24-8077cd298575'
+}
+Abhijit
+{
+  WEVlhctFxIDJFtxqAAAD: '8689ecb4-7006-4347-ae4b-b474377ab117',
+  bvLKTuskGs5A1iq0AAAF: '866268c3-9242-4bde-b278-190fec9855d2',
+  GiRvBlyMNUYqp5ApAAAI: 'Abhijit'
+}
+User 4e0f0385-9eea-4a9e-bf24-8077cd298575: hi
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: e2ee1486-4329-4575-bd89-28433eaf14ba
+{ 'f6KuOlCwH95eRs-fAAAB': 'e2ee1486-4329-4575-bd89-28433eaf14ba' }
+User connected with ID: 05effdbb-9b64-4b30-aa1a-4c90d1b9fe14
+{
+  'f6KuOlCwH95eRs-fAAAB': 'e2ee1486-4329-4575-bd89-28433eaf14ba',
+  F9AworU2puDv2zOHAAAD: '05effdbb-9b64-4b30-aa1a-4c90d1b9fe14'
+}
+User connected with ID: 13c1764d-2740-42be-93f2-263ba9013148
+{
+  'f6KuOlCwH95eRs-fAAAB': 'e2ee1486-4329-4575-bd89-28433eaf14ba',
+  F9AworU2puDv2zOHAAAD: '05effdbb-9b64-4b30-aa1a-4c90d1b9fe14',
+  xmW1pLQ6oZchxmiDAAAF: '13c1764d-2740-42be-93f2-263ba9013148'
+}
+User with ID 05effdbb-9b64-4b30-aa1a-4c90d1b9fe14 disconnected
+User with ID e2ee1486-4329-4575-bd89-28433eaf14ba disconnected
+User connected with ID: bea27cf6-1d30-46a0-b303-44da3bc6e111
+{
+  xmW1pLQ6oZchxmiDAAAF: '13c1764d-2740-42be-93f2-263ba9013148',
+  cwjYdIlDB_NyoNbVAAAI: 'bea27cf6-1d30-46a0-b303-44da3bc6e111'
+}
+User with ID 13c1764d-2740-42be-93f2-263ba9013148 disconnected
+User connected with ID: 6d82c182-2c2c-4722-b381-8f28204b818a
+{
+  cwjYdIlDB_NyoNbVAAAI: 'bea27cf6-1d30-46a0-b303-44da3bc6e111',
+  '6Gljm1UA57_n6YmuAAAL': '6d82c182-2c2c-4722-b381-8f28204b818a'
+}
+Abhijit
+{
+  cwjYdIlDB_NyoNbVAAAI: 'bea27cf6-1d30-46a0-b303-44da3bc6e111',
+  '6Gljm1UA57_n6YmuAAAL': 'Abhijit'
+}
+Priya
+{ cwjYdIlDB_NyoNbVAAAI: 'Priya', '6Gljm1UA57_n6YmuAAAL': 'Abhijit' }
+User Abhijit: hi
+User Priya: Hello
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 66ba096a-b83a-4ddf-aa75-c3a7dd1bb0bd
+{ '0i_lDsJya0ltUcxVAAAB': '66ba096a-b83a-4ddf-aa75-c3a7dd1bb0bd' }
+User connected with ID: 94591ca5-2f1e-46c5-bab9-ce90ee684481
+{
+  '0i_lDsJya0ltUcxVAAAB': '66ba096a-b83a-4ddf-aa75-c3a7dd1bb0bd',
+  DcY0zKqwpZQI7o71AAAD: '94591ca5-2f1e-46c5-bab9-ce90ee684481'
+}
+User with ID 66ba096a-b83a-4ddf-aa75-c3a7dd1bb0bd disconnected
+User connected with ID: 0f1d2e3b-200c-4821-a7d1-ce0a46e8b0de
+{
+  DcY0zKqwpZQI7o71AAAD: '94591ca5-2f1e-46c5-bab9-ce90ee684481',
+  ZNi2ZMkkBYhxvN_uAAAG: '0f1d2e3b-200c-4821-a7d1-ce0a46e8b0de'
+}
+User with ID 94591ca5-2f1e-46c5-bab9-ce90ee684481 disconnected
+User connected with ID: 02af4219-0fa9-4cd0-ba2b-7f73ff9a537b
+{
+  ZNi2ZMkkBYhxvN_uAAAG: '0f1d2e3b-200c-4821-a7d1-ce0a46e8b0de',
+  'tM3dh_N4AsZMq_-gAAAJ': '02af4219-0fa9-4cd0-ba2b-7f73ff9a537b'
+}
+Abhijit
+{
+  ZNi2ZMkkBYhxvN_uAAAG: 'Abhijit',
+  'tM3dh_N4AsZMq_-gAAAJ': '02af4219-0fa9-4cd0-ba2b-7f73ff9a537b'
+}
+Abhijit said Hi
+Priya
+{ ZNi2ZMkkBYhxvN_uAAAG: 'Abhijit', 'tM3dh_N4AsZMq_-gAAAJ': 'Priya' }
+Priya said Yo
+Charu
+{ ZNi2ZMkkBYhxvN_uAAAG: 'Abhijit', 'tM3dh_N4AsZMq_-gAAAJ': 'Charu' }
+Charu said hello
+Abhijit
+{ ZNi2ZMkkBYhxvN_uAAAG: 'Abhijit', 'tM3dh_N4AsZMq_-gAAAJ': 'Abhijit' }
+Abhijit
+{ ZNi2ZMkkBYhxvN_uAAAG: 'Abhijit', 'tM3dh_N4AsZMq_-gAAAJ': 'Abhijit' }
+Abhijit said hi
+Abhijit said hi2
+Abhijit said lol
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: f1e392d9-e660-470e-88fd-8edb6a4c1023
+{ NcQjljMtXsSh0HsbAAAB: 'f1e392d9-e660-470e-88fd-8edb6a4c1023' }
+User connected with ID: 6cf7b878-9bba-4dda-98f5-00664aa86089
+{
+  NcQjljMtXsSh0HsbAAAB: 'f1e392d9-e660-470e-88fd-8edb6a4c1023',
+  'V32c-4PnOCdEmAicAAAD': '6cf7b878-9bba-4dda-98f5-00664aa86089'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 9c3801eb-ebe5-4661-b371-b8ead044e0ab
+{ lxATMtCPQb8spmD0AAAB: '9c3801eb-ebe5-4661-b371-b8ead044e0ab' }
+User connected with ID: aa2cca24-9073-4385-ae7e-7d2fe00fa96a
+{
+  lxATMtCPQb8spmD0AAAB: '9c3801eb-ebe5-4661-b371-b8ead044e0ab',
+  dTD1QA1gdjVbJP7BAAAD: 'aa2cca24-9073-4385-ae7e-7d2fe00fa96a'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 6ff40332-add9-4d13-bda7-047b65e55f64
+{ DZ0AaEWT8c1I_T2eAAAB: '6ff40332-add9-4d13-bda7-047b65e55f64' }
+User connected with ID: c9c7347f-8fe1-4f5b-be22-e775716b1a86
+{
+  DZ0AaEWT8c1I_T2eAAAB: '6ff40332-add9-4d13-bda7-047b65e55f64',
+  'Ud-WFSnU60AI_4s1AAAD': 'c9c7347f-8fe1-4f5b-be22-e775716b1a86'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+User connected with ID: 63bc9400-efdd-4394-8ea4-9f97c6ba0eeb
+{ IFYkwy6JUskkWjGzAAAB: '63bc9400-efdd-4394-8ea4-9f97c6ba0eeb' }
+User connected with ID: f01b139d-7558-40c8-bf0e-b0b849ed29f5
+{
+  IFYkwy6JUskkWjGzAAAB: '63bc9400-efdd-4394-8ea4-9f97c6ba0eeb',
+  '4mlvAZLSPxyWBQfiAAAD': 'f01b139d-7558-40c8-bf0e-b0b849ed29f5'
+}
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: d47be326-1427-4173-96a5-909a7bd56739
+{ '-96pqtC6PL-MXkUpAAAB': 'd47be326-1427-4173-96a5-909a7bd56739' }
+User connected with ID: ca8600d8-104a-4fb4-a669-1157e1ffaa83
+{
+  '-96pqtC6PL-MXkUpAAAB': 'd47be326-1427-4173-96a5-909a7bd56739',
+  WwQK7ja7ambewrCIAAAD: 'ca8600d8-104a-4fb4-a669-1157e1ffaa83'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 35731a8c-aca7-4c46-97f9-c8b14f5d837f
+{ '8HJBucXfOIQxAyFUAAAB': '35731a8c-aca7-4c46-97f9-c8b14f5d837f' }
+User connected with ID: 4e8167c2-9b51-45da-81f3-c990c46a778c
+{
+  '8HJBucXfOIQxAyFUAAAB': '35731a8c-aca7-4c46-97f9-c8b14f5d837f',
+  tSA9CEGLzWO1rakHAAAD: '4e8167c2-9b51-45da-81f3-c990c46a778c'
+}
+User with ID 4e8167c2-9b51-45da-81f3-c990c46a778c disconnected
+User with ID 35731a8c-aca7-4c46-97f9-c8b14f5d837f disconnected
+User connected with ID: 0e0a3003-967a-401b-ab5f-f23f854f716e
+{ 'zWMCbCD-KDYanbA7AAAG': '0e0a3003-967a-401b-ab5f-f23f854f716e' }
+User connected with ID: 5469cd70-b254-4499-b65a-244e59cfa892
+{
+  'zWMCbCD-KDYanbA7AAAG': '0e0a3003-967a-401b-ab5f-f23f854f716e',
+  Chh4cY8jpM9J2uC0AAAJ: '5469cd70-b254-4499-b65a-244e59cfa892'
+}
+0e0a3003-967a-401b-ab5f-f23f854f716e changed name to hi
+{
+  'zWMCbCD-KDYanbA7AAAG': 'hi',
+  Chh4cY8jpM9J2uC0AAAJ: '5469cd70-b254-4499-b65a-244e59cfa892'
+}
+hi said: Abhijit
+hi said: dasf
+hi said: dsfa
+5469cd70-b254-4499-b65a-244e59cfa892 said: sdhfj
+5469cd70-b254-4499-b65a-244e59cfa892 said: dfsj
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: e7d4bbcc-2b04-4e81-89a3-242ecce8a58f
+{ VEGMuho5h4gR00vqAAAB: 'e7d4bbcc-2b04-4e81-89a3-242ecce8a58f' }
+User connected with ID: b706838e-f564-4688-8ad1-5ad6d5b29999
+{
+  VEGMuho5h4gR00vqAAAB: 'e7d4bbcc-2b04-4e81-89a3-242ecce8a58f',
+  B_LUvXnj1Ga8EgoJAAAD: 'b706838e-f564-4688-8ad1-5ad6d5b29999'
+}
+e7d4bbcc-2b04-4e81-89a3-242ecce8a58f said: adsf
+b706838e-f564-4688-8ad1-5ad6d5b29999 said: sfad
+b706838e-f564-4688-8ad1-5ad6d5b29999 said: dfs
+b706838e-f564-4688-8ad1-5ad6d5b29999 said: dsf
+User with ID e7d4bbcc-2b04-4e81-89a3-242ecce8a58f disconnected
+User connected with ID: a4cb915b-44b2-400b-b71b-31c2a6386886
+{
+  B_LUvXnj1Ga8EgoJAAAD: 'b706838e-f564-4688-8ad1-5ad6d5b29999',
+  di_7bO_4_dTdEsjnAAAG: 'a4cb915b-44b2-400b-b71b-31c2a6386886'
+}
+User with ID b706838e-f564-4688-8ad1-5ad6d5b29999 disconnected
+User connected with ID: d05eec92-d0ec-472f-8ae0-b76319b719cf
+{
+  di_7bO_4_dTdEsjnAAAG: 'a4cb915b-44b2-400b-b71b-31c2a6386886',
+  LAn4UevcDFWyyMnDAAAJ: 'd05eec92-d0ec-472f-8ae0-b76319b719cf'
+}
+a4cb915b-44b2-400b-b71b-31c2a6386886 changed name to Abhijit
+{
+  di_7bO_4_dTdEsjnAAAG: 'Abhijit',
+  LAn4UevcDFWyyMnDAAAJ: 'd05eec92-d0ec-472f-8ae0-b76319b719cf'
+}
+Abhijit said: hi
+d05eec92-d0ec-472f-8ae0-b76319b719cf changed name to Priya
+{ di_7bO_4_dTdEsjnAAAG: 'Abhijit', LAn4UevcDFWyyMnDAAAJ: 'Priya' }
+Priya said: hi
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:6
+import { setupSocketEvents } from './socketEvents.js'; // Import the setup function
+         ^^^^^^^^^^^^^^^^^
+SyntaxError: The requested module './socketEvents.js' does not provide an export named 'setupSocketEvents'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:146:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:229:5)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 0b71cf9b-2e14-4c8d-a18e-713a5ac1fe62
+{ rAxGmsLijeWw4mdHAAAB: '0b71cf9b-2e14-4c8d-a18e-713a5ac1fe62' }
+User connected with ID: 3c250e96-2de9-4c9f-921a-e39b3337bda0
+{
+  rAxGmsLijeWw4mdHAAAB: '0b71cf9b-2e14-4c8d-a18e-713a5ac1fe62',
+  i0KwBiJuGmngtN3SAAAD: '3c250e96-2de9-4c9f-921a-e39b3337bda0'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 1a719a2a-7490-49a2-947d-cbb4997e57e4
+{ qR1BOXsfeo3I1v4_AAAB: '1a719a2a-7490-49a2-947d-cbb4997e57e4' }
+User connected with ID: 058399dc-2ee5-4ec1-8082-27d3526f5c8f
+{
+  qR1BOXsfeo3I1v4_AAAB: '1a719a2a-7490-49a2-947d-cbb4997e57e4',
+  A6jOwd3NMuztbUSlAAAD: '058399dc-2ee5-4ec1-8082-27d3526f5c8f'
+}
+User with ID 058399dc-2ee5-4ec1-8082-27d3526f5c8f disconnected
+User connected with ID: cbdf5f25-ff81-49a3-a0ca-1b88d1cc1592
+{
+  qR1BOXsfeo3I1v4_AAAB: '1a719a2a-7490-49a2-947d-cbb4997e57e4',
+  '86QomJJqGjILJSr-AAAG': 'cbdf5f25-ff81-49a3-a0ca-1b88d1cc1592'
+}
+User with ID 1a719a2a-7490-49a2-947d-cbb4997e57e4 disconnected
+User connected with ID: a5e686b1-af56-459c-9580-8a392ad6cf06
+{
+  '86QomJJqGjILJSr-AAAG': 'cbdf5f25-ff81-49a3-a0ca-1b88d1cc1592',
+  nIBHwOsYSogZIpYbAAAJ: 'a5e686b1-af56-459c-9580-8a392ad6cf06'
+}
+abhi
+{
+  '86QomJJqGjILJSr-AAAG': 'abhi',
+  nIBHwOsYSogZIpYbAAAJ: 'a5e686b1-af56-459c-9580-8a392ad6cf06'
+}
+abhi said hi
+priya
+{ '86QomJJqGjILJSr-AAAG': 'abhi', nIBHwOsYSogZIpYbAAAJ: 'priya' }
+priya said hi
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: e35f9955-cc06-4d9d-a8e2-de57e18fffd3
+{ _dAuRXVmNTsboZAwAAAB: 'e35f9955-cc06-4d9d-a8e2-de57e18fffd3' }
+User connected with ID: 341f9eb6-74c6-42a3-9e92-7aadedcf8ca3
+{
+  _dAuRXVmNTsboZAwAAAB: 'e35f9955-cc06-4d9d-a8e2-de57e18fffd3',
+  CCr6mCxNSm8zpX7IAAAD: '341f9eb6-74c6-42a3-9e92-7aadedcf8ca3'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: cc15c997-2be0-4984-8a67-279c3ba241d1
+{ QYhCqfhAQa0Ee8aqAAAB: 'cc15c997-2be0-4984-8a67-279c3ba241d1' }
+User connected with ID: e8bfa232-0c39-4c9c-86ca-11db8260980a
+{
+  QYhCqfhAQa0Ee8aqAAAB: 'cc15c997-2be0-4984-8a67-279c3ba241d1',
+  UQo5ZRvIrbKYFqrhAAAD: 'e8bfa232-0c39-4c9c-86ca-11db8260980a'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 3a236572-15d0-415f-85ae-a82a4c6f04ab
+{ CjDiT9BfLt7iLrdOAAAB: '3a236572-15d0-415f-85ae-a82a4c6f04ab' }
+User connected with ID: 581fbdf8-1671-4463-af08-08b7682f37d7
+{
+  CjDiT9BfLt7iLrdOAAAB: '3a236572-15d0-415f-85ae-a82a4c6f04ab',
+  hmAL1KdOMJ4KzfXeAAAD: '581fbdf8-1671-4463-af08-08b7682f37d7'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:34
+    socketController(socket);
+    ^
+
+ReferenceError: socketController is not defined
+    at Namespace.<anonymous> (file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:34:5)
+    at Namespace.emit (node:events:519:28)
+    at Namespace.emitReserved (C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\typed-events.js:56:22)
+    at Namespace._doConnect (C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\namespace.js:276:14)
+    at C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\namespace.js:238:22
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:34
+    socketController(socket);
+    ^
+
+ReferenceError: socketController is not defined
+    at Namespace.<anonymous> (file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:34:5)
+    at Namespace.emit (node:events:519:28)
+    at Namespace.emitReserved (C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\typed-events.js:56:22)
+    at Namespace._doConnect (C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\namespace.js:276:14)
+    at C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\namespace.js:238:22
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:34
+    socketController(socket);
+    ^
+
+ReferenceError: socketController is not defined
+    at Namespace.<anonymous> (file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:34:5)
+    at Namespace.emit (node:events:519:28)
+    at Namespace.emitReserved (C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\typed-events.js:56:22)
+    at Namespace._doConnect (C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\namespace.js:276:14)
+    at C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\namespace.js:238:22
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:8
+const app = express();
+^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+    at async link (node:internal/modules/esm/module_job:87:21)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:8
+const app = express();
+^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+    at async link (node:internal/modules/esm/module_job:87:21)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+node:internal/modules/run_main:129
+    triggerUncaughtException(
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\controllers\socketController' imported from C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\index.js
+Did you mean to import "./controllers/socketController.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:265:11)
+    at moduleResolve (node:internal/modules/esm/resolve:933:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:542:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:510:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
+    at link (node:internal/modules/esm/module_job:95:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/controllers/socketController'
+}
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+node:internal/modules/run_main:129
+    triggerUncaughtException(
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\controllers\socketController' imported from C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\index.js
+Did you mean to import "./controllers/socketController.js"?
+    at finalizeResolution (node:internal/modules/esm/resolve:265:11)
+    at moduleResolve (node:internal/modules/esm/resolve:933:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:542:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:510:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
+    at link (node:internal/modules/esm/module_job:95:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/controllers/socketController'
+}
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 769770a6-252c-45c8-9a27-0c38f17b1fe5
+{ iEZbQZ7YRVA1P5E8AAAB: '769770a6-252c-45c8-9a27-0c38f17b1fe5' }
+User connected with ID: 1d2c0281-7566-492e-829a-9d1bfccd8d72
+{
+  iEZbQZ7YRVA1P5E8AAAB: '769770a6-252c-45c8-9a27-0c38f17b1fe5',
+  '7PI9RfICWS7I_vzRAAAD': '1d2c0281-7566-492e-829a-9d1bfccd8d72'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: f0211912-e8bd-495c-85ce-24dc8136dd9a
+{ kR9qXgec4rUtq0eLAAAB: 'f0211912-e8bd-495c-85ce-24dc8136dd9a' }
+User connected with ID: fd9f37f7-454e-41bc-9fb6-22ec9583647c
+{
+  kR9qXgec4rUtq0eLAAAB: 'f0211912-e8bd-495c-85ce-24dc8136dd9a',
+  VJVCEqXKh0Ppl2NMAAAD: 'fd9f37f7-454e-41bc-9fb6-22ec9583647c'
+}
+User with ID f0211912-e8bd-495c-85ce-24dc8136dd9a disconnected
+User with ID fd9f37f7-454e-41bc-9fb6-22ec9583647c disconnected
+User connected with ID: f5e27f82-d5eb-433e-a931-8a6e180d06d3
+{ 'uwqJ2w0Ml6-hvFxcAAAG': 'f5e27f82-d5eb-433e-a931-8a6e180d06d3' }
+User connected with ID: 3208ab53-fc93-4346-b7ab-4e80da12c19f
+{
+  'uwqJ2w0Ml6-hvFxcAAAG': 'f5e27f82-d5eb-433e-a931-8a6e180d06d3',
+  '4GsjT1_jYODTczuRAAAI': '3208ab53-fc93-4346-b7ab-4e80da12c19f'
+}
+abhijit
+{
+  'uwqJ2w0Ml6-hvFxcAAAG': 'abhijit',
+  '4GsjT1_jYODTczuRAAAI': '3208ab53-fc93-4346-b7ab-4e80da12c19f'
+}
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/controllers/socketController.js:21
+        io.emit('chat message', fullMessage);  // Emit to all connected clients
+        ^
+
+ReferenceError: io is not defined
+    at Socket.<anonymous> (file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/controllers/socketController.js:21:9)
+    at Socket.emit (node:events:519:28)
+    at Socket.emitUntyped (C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\ASUS\OneDrive\Desktop\Liars Bar\liars-bar-backend\node_modules\socket.io\dist\socket.js:697:39
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 2bb25af6-28fa-4400-a996-1cf9bb1611ef
+{ 'N7hlbnuXfxP-3_tOAAAB': '2bb25af6-28fa-4400-a996-1cf9bb1611ef' }
+2bb25af6-28fa-4400-a996-1cf9bb1611ef said hello
+User connected with ID: 95377598-b98f-455e-babf-452ec9b75273
+{
+  'N7hlbnuXfxP-3_tOAAAB': '2bb25af6-28fa-4400-a996-1cf9bb1611ef',
+  C_AYO6seR0m0D32VAAAD: '95377598-b98f-455e-babf-452ec9b75273'
+}
+User with ID 2bb25af6-28fa-4400-a996-1cf9bb1611ef disconnected
+User connected with ID: f9c49f23-f1df-4c84-832c-93a5795927f6
+{
+  C_AYO6seR0m0D32VAAAD: '95377598-b98f-455e-babf-452ec9b75273',
+  vH6E6JB8Xykkf1PTAAAG: 'f9c49f23-f1df-4c84-832c-93a5795927f6'
+}
+User with ID 95377598-b98f-455e-babf-452ec9b75273 disconnected
+User connected with ID: 6cc3e2ad-414f-4bc9-8566-ec8e3983f35e
+{
+  vH6E6JB8Xykkf1PTAAAG: 'f9c49f23-f1df-4c84-832c-93a5795927f6',
+  YFVPchXKmJACx3QsAAAJ: '6cc3e2ad-414f-4bc9-8566-ec8e3983f35e'
+}
+Abhijit
+{
+  vH6E6JB8Xykkf1PTAAAG: 'Abhijit',
+  YFVPchXKmJACx3QsAAAJ: '6cc3e2ad-414f-4bc9-8566-ec8e3983f35e'
+}
+Abhijit said hi
+priya
+{ vH6E6JB8Xykkf1PTAAAG: 'Abhijit', YFVPchXKmJACx3QsAAAJ: 'priya' }
+priya said hi Abhijit
+User with ID Abhijit disconnected
+User connected with ID: a9499457-9694-4fae-8a12-be0fb01fb16d
+{
+  YFVPchXKmJACx3QsAAAJ: 'priya',
+  Ax3MuJv7sdf59_FqAAAM: 'a9499457-9694-4fae-8a12-be0fb01fb16d'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 5c2f1a1b-9d30-4b66-bbbc-1a44d34829fc
+{ myr58BvlFBCfFkZTAAAB: '5c2f1a1b-9d30-4b66-bbbc-1a44d34829fc' }
+User connected with ID: cd8224c8-eb1c-41aa-81de-912265501637
+{
+  myr58BvlFBCfFkZTAAAB: '5c2f1a1b-9d30-4b66-bbbc-1a44d34829fc',
+  'traTh3r2oQFu4D-XAAAD': 'cd8224c8-eb1c-41aa-81de-912265501637'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32
+socketController(socket, io);
+                 ^
+
+ReferenceError: socket is not defined
+    at file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32
+socketController(socket, io);
+                 ^
+
+ReferenceError: socket is not defined
+    at file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32
+socketController(socket, io);
+                 ^
+
+ReferenceError: socket is not defined
+    at file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32
+socketController(socket, io);
+                 ^
+
+ReferenceError: socket is not defined
+    at file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32
+socketController(socket, io);
+                 ^
+
+ReferenceError: socket is not defined
+    at file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32
+socketController(socket, io);
+                 ^
+
+ReferenceError: socket is not defined
+    at file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32:18
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/controllers/socketController.js:7
+    io.on('connection', (socket) => {
+       ^
+
+TypeError: Cannot read properties of undefined (reading 'on')
+    at socketController (file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/controllers/socketController.js:7:8)
+    at file:///C:/Users/ASUS/OneDrive/Desktop/Liars%20Bar/liars-bar-backend/index.js:32:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: fcc1385d-ac60-4d5c-9bcc-e9d8b02c288a
+{ WOmsuiol73k6S7UGAAAB: 'fcc1385d-ac60-4d5c-9bcc-e9d8b02c288a' }
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: aeaff844-0cd9-4657-bebb-35de3955d57d
+{ YaJeJdqLOQAJTIuAAAAB: 'aeaff844-0cd9-4657-bebb-35de3955d57d' }
+User connected with ID: 33dd7cfd-8538-4b4b-8d2c-562f8394544e
+{
+  YaJeJdqLOQAJTIuAAAAB: 'aeaff844-0cd9-4657-bebb-35de3955d57d',
+  IQH98q_PC5Vp9fR5AAAD: '33dd7cfd-8538-4b4b-8d2c-562f8394544e'
+}
+User with ID 33dd7cfd-8538-4b4b-8d2c-562f8394544e disconnected
+User connected with ID: 0353b207-3bf6-45d4-b336-c6a261ef3296
+{
+  YaJeJdqLOQAJTIuAAAAB: 'aeaff844-0cd9-4657-bebb-35de3955d57d',
+  'Qc_gJNMn2d-Epi96AAAG': '0353b207-3bf6-45d4-b336-c6a261ef3296'
+}
+User with ID aeaff844-0cd9-4657-bebb-35de3955d57d disconnected
+User connected with ID: b620352d-6c7a-4b8c-9cdc-30c594764678
+{
+  'Qc_gJNMn2d-Epi96AAAG': '0353b207-3bf6-45d4-b336-c6a261ef3296',
+  r_3K0WofXAsvUtmjAAAJ: 'b620352d-6c7a-4b8c-9cdc-30c594764678'
+}
+Abhijit
+{
+  'Qc_gJNMn2d-Epi96AAAG': 'Abhijit',
+  r_3K0WofXAsvUtmjAAAJ: 'b620352d-6c7a-4b8c-9cdc-30c594764678'
+}
+Abhijit said hi
+Priya
+{ 'Qc_gJNMn2d-Epi96AAAG': 'Abhijit', r_3K0WofXAsvUtmjAAAJ: 'Priya' }
+Priya said hi
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: 7ee03914-6acb-478a-9d69-54c51d3e739e
+{ myAo1dJjlxlY11XlAAAB: '7ee03914-6acb-478a-9d69-54c51d3e739e' }
+User connected with ID: 02866d06-f718-40e2-965f-eaadeeb6156a
+{
+  myAo1dJjlxlY11XlAAAB: '7ee03914-6acb-478a-9d69-54c51d3e739e',
+  sCHJYa1NAGNBF0dOAAAD: '02866d06-f718-40e2-965f-eaadeeb6156a'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+User connected with ID: b764d02c-6f7b-4b2a-ae5b-3f7efefc4f01
+{ V1IRERAiGcWE0wo3AAAB: 'b764d02c-6f7b-4b2a-ae5b-3f7efefc4f01' }
+User connected with ID: 48214ad5-7d67-45e3-a7a6-f0a5a890ce68
+{
+  V1IRERAiGcWE0wo3AAAB: 'b764d02c-6f7b-4b2a-ae5b-3f7efefc4f01',
+  qKvPsqaxLcM6RygVAAAD: '48214ad5-7d67-45e3-a7a6-f0a5a890ce68'
+}
+User with ID b764d02c-6f7b-4b2a-ae5b-3f7efefc4f01 disconnected
+User with ID 48214ad5-7d67-45e3-a7a6-f0a5a890ce68 disconnected
+User connected with ID: 44cb315e-591f-484d-880e-826b8682e144
+{ '-u7ZNGVzgHWTZtQDAAAH': '44cb315e-591f-484d-880e-826b8682e144' }
+User connected with ID: 41a615e1-6ab9-46be-9424-c78fe602df3f
+{
+  '-u7ZNGVzgHWTZtQDAAAH': '44cb315e-591f-484d-880e-826b8682e144',
+  t_eZUtqqhlox7AsMAAAJ: '41a615e1-6ab9-46be-9424-c78fe602df3f'
+}
+User with ID 41a615e1-6ab9-46be-9424-c78fe602df3f disconnected
+User connected with ID: 0acee01e-bd54-4151-ba9b-5abcc9a36ed8
+{
+  '-u7ZNGVzgHWTZtQDAAAH': '44cb315e-591f-484d-880e-826b8682e144',
+  '7aia0Lcege1LmfTkAAAM': '0acee01e-bd54-4151-ba9b-5abcc9a36ed8'
+}
+User with ID 44cb315e-591f-484d-880e-826b8682e144 disconnected
+User connected with ID: d5d7c8de-0ced-4b9f-9b00-058f71818ec6
+{
+  '7aia0Lcege1LmfTkAAAM': '0acee01e-bd54-4151-ba9b-5abcc9a36ed8',
+  '7PAs6XDqGUtTTe_4AAAP': 'd5d7c8de-0ced-4b9f-9b00-058f71818ec6'
+}
+hi
+{
+  '7aia0Lcege1LmfTkAAAM': '0acee01e-bd54-4151-ba9b-5abcc9a36ed8',
+  '7PAs6XDqGUtTTe_4AAAP': 'hi'
+}
+hi said hisdaf
+0acee01e-bd54-4151-ba9b-5abcc9a36ed8 said asdjfl
+User with ID 0acee01e-bd54-4151-ba9b-5abcc9a36ed8 disconnected
+User with ID hi disconnected
