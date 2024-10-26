@@ -1,0 +1,241 @@
+[33m[nodemon] 3.1.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ E7w37_TYw2IJvYe4AAAB: '04eddc26-55b9-4d72-9c98-d31fc32f471f' }
+User connected with ID: 04eddc26-55b9-4d72-9c98-d31fc32f471f
+{
+  E7w37_TYw2IJvYe4AAAB: '04eddc26-55b9-4d72-9c98-d31fc32f471f',
+  vNmSFJywOPulBFiAAAAD: '53d8b1a7-0979-42ae-bbc1-fd0e428f54eb'
+}
+User connected with ID: 53d8b1a7-0979-42ae-bbc1-fd0e428f54eb
+User with ID 04eddc26-55b9-4d72-9c98-d31fc32f471f disconnected
+User with ID 53d8b1a7-0979-42ae-bbc1-fd0e428f54eb disconnected
+{ AxSq5_ADfgqwDB7YAAAG: '78be21ef-7007-4200-b67b-e78ba8957634' }
+User connected with ID: 78be21ef-7007-4200-b67b-e78ba8957634
+{
+  AxSq5_ADfgqwDB7YAAAG: '78be21ef-7007-4200-b67b-e78ba8957634',
+  'J-4FU-g0rKarKdVlAAAH': '37bc3c06-92ad-43f0-8c32-25f1767c4f83'
+}
+User connected with ID: 37bc3c06-92ad-43f0-8c32-25f1767c4f83
+{
+  AxSq5_ADfgqwDB7YAAAG: '78be21ef-7007-4200-b67b-e78ba8957634',
+  'J-4FU-g0rKarKdVlAAAH': '37bc3c06-92ad-43f0-8c32-25f1767c4f83',
+  TohA_URr_WqR36fEAAAJ: 'f7c520fa-236a-4d5e-8828-2b91060d07f0'
+}
+User connected with ID: f7c520fa-236a-4d5e-8828-2b91060d07f0
+{
+  AxSq5_ADfgqwDB7YAAAG: '78be21ef-7007-4200-b67b-e78ba8957634',
+  'J-4FU-g0rKarKdVlAAAH': '37bc3c06-92ad-43f0-8c32-25f1767c4f83',
+  TohA_URr_WqR36fEAAAJ: 'f7c520fa-236a-4d5e-8828-2b91060d07f0',
+  '7CQYlqK2xK-3QS-ZAAAL': '4189d6fd-a444-474a-a95c-83909c57046f'
+}
+User connected with ID: 4189d6fd-a444-474a-a95c-83909c57046f
+User with ID 78be21ef-7007-4200-b67b-e78ba8957634 disconnected
+User with ID 4189d6fd-a444-474a-a95c-83909c57046f disconnected
+User with ID f7c520fa-236a-4d5e-8828-2b91060d07f0 disconnected
+User with ID 37bc3c06-92ad-43f0-8c32-25f1767c4f83 disconnected
+{ JsREp_QKojpL9y6xAAAN: 'b2aab5ff-c435-4d8e-a18f-ea3f548b2f8d' }
+User connected with ID: b2aab5ff-c435-4d8e-a18f-ea3f548b2f8d
+{
+  JsREp_QKojpL9y6xAAAN: 'b2aab5ff-c435-4d8e-a18f-ea3f548b2f8d',
+  '2h8PdPLtCZVoOn15AAAP': '85363b63-e3a0-4e11-a892-010adc2814e8'
+}
+User connected with ID: 85363b63-e3a0-4e11-a892-010adc2814e8
+User with ID b2aab5ff-c435-4d8e-a18f-ea3f548b2f8d disconnected
+User with ID 85363b63-e3a0-4e11-a892-010adc2814e8 disconnected
+{ aSZ1Pg2egV2TJPLzAAAS: '1a07cf48-4735-433e-bcba-d5f87364f6a9' }
+User connected with ID: 1a07cf48-4735-433e-bcba-d5f87364f6a9
+{
+  aSZ1Pg2egV2TJPLzAAAS: '1a07cf48-4735-433e-bcba-d5f87364f6a9',
+  VFEmX9Tsh32zc2W8AAAT: '830dd4cc-782d-4ebd-897f-3ccd7c49d969'
+}
+User connected with ID: 830dd4cc-782d-4ebd-897f-3ccd7c49d969
+User with ID 1a07cf48-4735-433e-bcba-d5f87364f6a9 disconnected
+User with ID 830dd4cc-782d-4ebd-897f-3ccd7c49d969 disconnected
+{ q7BS8SZSUBlstVJqAAAW: '96c722f3-d0c4-4ab5-99f0-b68af4f3aeff' }
+User connected with ID: 96c722f3-d0c4-4ab5-99f0-b68af4f3aeff
+{
+  q7BS8SZSUBlstVJqAAAW: '96c722f3-d0c4-4ab5-99f0-b68af4f3aeff',
+  'TeGVtxFfUu7-oT3oAAAX': '9e148772-d2e0-4f30-b12a-1d5ec6a08143'
+}
+User connected with ID: 9e148772-d2e0-4f30-b12a-1d5ec6a08143
+User with ID 96c722f3-d0c4-4ab5-99f0-b68af4f3aeff disconnected
+User with ID 9e148772-d2e0-4f30-b12a-1d5ec6a08143 disconnected
+{ UJhkeSygeC6bAiylAAAa: '6a21c3f5-d4c2-4109-8932-842e69bea8cd' }
+User connected with ID: 6a21c3f5-d4c2-4109-8932-842e69bea8cd
+{
+  UJhkeSygeC6bAiylAAAa: '6a21c3f5-d4c2-4109-8932-842e69bea8cd',
+  vcAOI2e3mITW2plXAAAb: '43cce942-1741-4a65-a596-0758e4218abe'
+}
+User connected with ID: 43cce942-1741-4a65-a596-0758e4218abe
+User with ID 6a21c3f5-d4c2-4109-8932-842e69bea8cd disconnected
+User with ID 43cce942-1741-4a65-a596-0758e4218abe disconnected
+{ '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d' }
+User connected with ID: f7cb698a-5ed1-4224-8384-51165578ba4d
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a'
+}
+User connected with ID: 566bb84e-15e1-4db9-a1ee-b7ffe6c3267a
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  '7NmIoZtgEw6JZdElAAAh': 'cc2ade02-25ed-4f75-a64a-9f01f4250cab'
+}
+User connected with ID: cc2ade02-25ed-4f75-a64a-9f01f4250cab
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  '7NmIoZtgEw6JZdElAAAh': 'cc2ade02-25ed-4f75-a64a-9f01f4250cab',
+  KuCq1B2LtkHC4hHpAAAj: 'e2918cd1-e3e2-4b39-a379-4b96cb35b5af'
+}
+User connected with ID: e2918cd1-e3e2-4b39-a379-4b96cb35b5af
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  '7NmIoZtgEw6JZdElAAAh': 'cc2ade02-25ed-4f75-a64a-9f01f4250cab',
+  KuCq1B2LtkHC4hHpAAAj: 'e2918cd1-e3e2-4b39-a379-4b96cb35b5af',
+  puGY4v67yII34OY_AAAl: 'd9e23291-44c6-4a45-a39b-5dc7883f1eaa'
+}
+User connected with ID: d9e23291-44c6-4a45-a39b-5dc7883f1eaa
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  '7NmIoZtgEw6JZdElAAAh': 'cc2ade02-25ed-4f75-a64a-9f01f4250cab',
+  KuCq1B2LtkHC4hHpAAAj: 'e2918cd1-e3e2-4b39-a379-4b96cb35b5af',
+  puGY4v67yII34OY_AAAl: 'd9e23291-44c6-4a45-a39b-5dc7883f1eaa',
+  lx3hurA8W5X4X_BmAAAn: 'd41ebe24-dce6-4ed6-86d3-c10bad37bd8d'
+}
+User connected with ID: d41ebe24-dce6-4ed6-86d3-c10bad37bd8d
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  '7NmIoZtgEw6JZdElAAAh': 'cc2ade02-25ed-4f75-a64a-9f01f4250cab',
+  KuCq1B2LtkHC4hHpAAAj: 'e2918cd1-e3e2-4b39-a379-4b96cb35b5af',
+  puGY4v67yII34OY_AAAl: 'd9e23291-44c6-4a45-a39b-5dc7883f1eaa',
+  lx3hurA8W5X4X_BmAAAn: 'd41ebe24-dce6-4ed6-86d3-c10bad37bd8d',
+  'EIAmBJ-uEDCncINJAAAq': 'f404fd36-c41c-4663-8381-1ca9ea404f82'
+}
+User connected with ID: f404fd36-c41c-4663-8381-1ca9ea404f82
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  '7NmIoZtgEw6JZdElAAAh': 'cc2ade02-25ed-4f75-a64a-9f01f4250cab',
+  KuCq1B2LtkHC4hHpAAAj: 'e2918cd1-e3e2-4b39-a379-4b96cb35b5af',
+  puGY4v67yII34OY_AAAl: 'd9e23291-44c6-4a45-a39b-5dc7883f1eaa',
+  lx3hurA8W5X4X_BmAAAn: 'd41ebe24-dce6-4ed6-86d3-c10bad37bd8d',
+  'EIAmBJ-uEDCncINJAAAq': 'f404fd36-c41c-4663-8381-1ca9ea404f82',
+  slfJtqjWEOxJGphzAAAr: '9188bc70-84b9-4da8-8caf-dbe3c9f15298'
+}
+User connected with ID: 9188bc70-84b9-4da8-8caf-dbe3c9f15298
+User with ID cc2ade02-25ed-4f75-a64a-9f01f4250cab disconnected
+User with ID 9188bc70-84b9-4da8-8caf-dbe3c9f15298 disconnected
+User with ID f404fd36-c41c-4663-8381-1ca9ea404f82 disconnected
+User with ID e2918cd1-e3e2-4b39-a379-4b96cb35b5af disconnected
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  puGY4v67yII34OY_AAAl: 'd9e23291-44c6-4a45-a39b-5dc7883f1eaa',
+  lx3hurA8W5X4X_BmAAAn: 'd41ebe24-dce6-4ed6-86d3-c10bad37bd8d',
+  '4NLcwINL5-SCtJcAAAAt': '4dc9fc1b-d3cc-4883-92b0-c3c72e7fbf6e'
+}
+User connected with ID: 4dc9fc1b-d3cc-4883-92b0-c3c72e7fbf6e
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  puGY4v67yII34OY_AAAl: 'd9e23291-44c6-4a45-a39b-5dc7883f1eaa',
+  lx3hurA8W5X4X_BmAAAn: 'd41ebe24-dce6-4ed6-86d3-c10bad37bd8d',
+  '4NLcwINL5-SCtJcAAAAt': '4dc9fc1b-d3cc-4883-92b0-c3c72e7fbf6e',
+  oyCczVmoi1uOac3qAAAv: '0bf0f9a6-a0f5-4d84-8952-f7c6fd659313'
+}
+User connected with ID: 0bf0f9a6-a0f5-4d84-8952-f7c6fd659313
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  puGY4v67yII34OY_AAAl: 'd9e23291-44c6-4a45-a39b-5dc7883f1eaa',
+  lx3hurA8W5X4X_BmAAAn: 'd41ebe24-dce6-4ed6-86d3-c10bad37bd8d',
+  '4NLcwINL5-SCtJcAAAAt': '4dc9fc1b-d3cc-4883-92b0-c3c72e7fbf6e',
+  oyCczVmoi1uOac3qAAAv: '0bf0f9a6-a0f5-4d84-8952-f7c6fd659313',
+  WZ4KclYYMUHGG9YbAAAx: 'e2aaa56e-b876-4e7a-a8ca-28179c61f4cc'
+}
+User connected with ID: e2aaa56e-b876-4e7a-a8ca-28179c61f4cc
+{
+  '2WPOKxkX3XAiYuz8AAAd': 'f7cb698a-5ed1-4224-8384-51165578ba4d',
+  SME1AqHnsuNg1li1AAAf: '566bb84e-15e1-4db9-a1ee-b7ffe6c3267a',
+  puGY4v67yII34OY_AAAl: 'd9e23291-44c6-4a45-a39b-5dc7883f1eaa',
+  lx3hurA8W5X4X_BmAAAn: 'd41ebe24-dce6-4ed6-86d3-c10bad37bd8d',
+  '4NLcwINL5-SCtJcAAAAt': '4dc9fc1b-d3cc-4883-92b0-c3c72e7fbf6e',
+  oyCczVmoi1uOac3qAAAv: '0bf0f9a6-a0f5-4d84-8952-f7c6fd659313',
+  WZ4KclYYMUHGG9YbAAAx: 'e2aaa56e-b876-4e7a-a8ca-28179c61f4cc',
+  bisQP_XlWLbcF8yfAAAz: 'c041229f-78ab-42a6-99ca-7c087ffcb1ce'
+}
+User connected with ID: c041229f-78ab-42a6-99ca-7c087ffcb1ce
+User with ID 4dc9fc1b-d3cc-4883-92b0-c3c72e7fbf6e disconnected
+User with ID c041229f-78ab-42a6-99ca-7c087ffcb1ce disconnected
+User with ID e2aaa56e-b876-4e7a-a8ca-28179c61f4cc disconnected
+User with ID 0bf0f9a6-a0f5-4d84-8952-f7c6fd659313 disconnected
+User with ID f7cb698a-5ed1-4224-8384-51165578ba4d disconnected
+User with ID d41ebe24-dce6-4ed6-86d3-c10bad37bd8d disconnected
+User with ID d9e23291-44c6-4a45-a39b-5dc7883f1eaa disconnected
+User with ID 566bb84e-15e1-4db9-a1ee-b7ffe6c3267a disconnected
+{ 'H07fPxvP7Sp-_vUYAAA2': '46a89fd2-2075-4886-b058-4c8968e05063' }
+User connected with ID: 46a89fd2-2075-4886-b058-4c8968e05063
+{
+  'H07fPxvP7Sp-_vUYAAA2': '46a89fd2-2075-4886-b058-4c8968e05063',
+  '1x3JkLDDVdjMQ35eAAA3': 'dd3d25a2-070c-43c9-a8a9-4d0c634e8b6a'
+}
+User connected with ID: dd3d25a2-070c-43c9-a8a9-4d0c634e8b6a
+{
+  'H07fPxvP7Sp-_vUYAAA2': '46a89fd2-2075-4886-b058-4c8968e05063',
+  '1x3JkLDDVdjMQ35eAAA3': 'dd3d25a2-070c-43c9-a8a9-4d0c634e8b6a',
+  'ksACR3KD-c5umsphAAA5': '9cd0231f-e8e7-404e-8857-69e30f266093'
+}
+User connected with ID: 9cd0231f-e8e7-404e-8857-69e30f266093
+{
+  'H07fPxvP7Sp-_vUYAAA2': '46a89fd2-2075-4886-b058-4c8968e05063',
+  '1x3JkLDDVdjMQ35eAAA3': 'dd3d25a2-070c-43c9-a8a9-4d0c634e8b6a',
+  'ksACR3KD-c5umsphAAA5': '9cd0231f-e8e7-404e-8857-69e30f266093',
+  Mg6NXKiq9si8G5vhAAA7: '25f699a9-95d3-4f0c-be28-27a1076483fc'
+}
+User connected with ID: 25f699a9-95d3-4f0c-be28-27a1076483fc
+User with ID 46a89fd2-2075-4886-b058-4c8968e05063 disconnected
+User with ID 25f699a9-95d3-4f0c-be28-27a1076483fc disconnected
+User with ID 9cd0231f-e8e7-404e-8857-69e30f266093 disconnected
+User with ID dd3d25a2-070c-43c9-a8a9-4d0c634e8b6a disconnected
+{ 'BZLzSbenx2A-YCfRAAA9': '0868ae7b-d9b7-4fcf-81fa-84b187a79024' }
+User connected with ID: 0868ae7b-d9b7-4fcf-81fa-84b187a79024
+{
+  'BZLzSbenx2A-YCfRAAA9': '0868ae7b-d9b7-4fcf-81fa-84b187a79024',
+  '4yMc8a43YzCJ6C4hAAA_': '8b711e90-8045-4cb9-9438-7922fb8d1b03'
+}
+User connected with ID: 8b711e90-8045-4cb9-9438-7922fb8d1b03
+User with ID 0868ae7b-d9b7-4fcf-81fa-84b187a79024 disconnected
+User with ID 8b711e90-8045-4cb9-9438-7922fb8d1b03 disconnected
+{ hZ_kg98ZzLn5f3wYAABB: '853ccf2f-c403-441f-8a29-86c159558410' }
+User connected with ID: 853ccf2f-c403-441f-8a29-86c159558410
+{
+  hZ_kg98ZzLn5f3wYAABB: '853ccf2f-c403-441f-8a29-86c159558410',
+  SbTkVEFbNc2EUKs6AABD: 'e338ccd8-a869-4ace-a3bf-9cf8da6f8010'
+}
+User connected with ID: e338ccd8-a869-4ace-a3bf-9cf8da6f8010
+User with ID 853ccf2f-c403-441f-8a29-86c159558410 disconnected
+User with ID e338ccd8-a869-4ace-a3bf-9cf8da6f8010 disconnected
+{ '6oDtLQV8KzYQXBdsAABF': 'a2197472-474b-44f2-9233-3887ef2c578c' }
+User connected with ID: a2197472-474b-44f2-9233-3887ef2c578c
+{
+  '6oDtLQV8KzYQXBdsAABF': 'a2197472-474b-44f2-9233-3887ef2c578c',
+  _fKUfREWO3_4QzbXAABH: 'b3ebe85b-d5c9-43df-8f45-5e7524424dae'
+}
+User connected with ID: b3ebe85b-d5c9-43df-8f45-5e7524424dae
+User with ID a2197472-474b-44f2-9233-3887ef2c578c disconnected
+User with ID b3ebe85b-d5c9-43df-8f45-5e7524424dae disconnected
+{ 'AQGmMYrB-6ELTzCxAABJ': '1cad158f-16c8-4a06-8afc-03887783a7ce' }
+User connected with ID: 1cad158f-16c8-4a06-8afc-03887783a7ce
+{
+  'AQGmMYrB-6ELTzCxAABJ': '1cad158f-16c8-4a06-8afc-03887783a7ce',
+  Rn3SAvo3aq7NV4siAABL: '66f35dab-224d-46ee-94d3-17160e92c505'
+}
+User connected with ID: 66f35dab-224d-46ee-94d3-17160e92c505
