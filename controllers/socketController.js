@@ -56,14 +56,23 @@ export const socketController = (io) => {
             io.to(roomName).emit('chatMessage', joinMessage);
         })
 
-        socket.on('joinParty', ({roomName}) => {
-            console.log('joinParty Entry');
-            socket.join(roomName);
-            const joinMessage = `${users[socket.id]} has joined the ${roomName}`;
-            console.log(joinMessage);
-            console.log('socket.rooms',socket.rooms);
-            console.log('roomsList',roomsList);
-            io.to(roomName).emit('chatMessage', joinMessage);
+        socket.on('joinParty', ({ roomName }) => {
+            if (socket.rooms.length === 2 && [...socket.rooms].contain(defaultRoom)) {
+                console.log('joinParty Entry');
+                socket.join(roomName);
+                socket.leave(defaultRoom);
+                const joinMessage = `${users[socket.id]} has joined the ${roomName}`;
+                console.log(joinMessage);
+                console.log('socket.rooms', socket.rooms);
+                console.log('roomsList', roomsList);
+                io.to(roomName).emit('chatMessage', joinMessage);
+            }
+            else {
+                const errorMsg = 'already in a room';
+                console.log(errorMsg);
+                io.to( socket.id).emit('errorMsg', errorMsg);
+                io.emit('chatMessage', errorMsg);
+            }
         })
 
         socket.on('leaveParty', (roomName) => {
