@@ -522,3 +522,1607 @@ roomName room1
 7d2289ee-6afb-43a9-aaec-526bfab2ed6d has joined the room1
 socket.rooms Set(2) { 't1Qn_ZVAA0Mr0rJ-AAAH', 'room1' }
 roomsList [ 'defaultRoom', 'room1' ]
+User with ID 7d2289ee-6afb-43a9-aaec-526bfab2ed6d disconnected
+User with ID 3820cdc5-401d-4d3f-90d3-4aebced78a01 disconnected
+User with ID 06ad4656-5a38-4964-8d0b-59277722d6fc disconnected
+{ '2vdNhYBRn7OaqNpzAAAP': 'a0ae7b56-872a-4b6b-bb08-49b87a8049ff' }
+User connected with ID: a0ae7b56-872a-4b6b-bb08-49b87a8049ff
+{
+  '2vdNhYBRn7OaqNpzAAAP': 'a0ae7b56-872a-4b6b-bb08-49b87a8049ff',
+  x4zP_VEuL6fpItPYAAAR: 'b72dccf8-11f9-4559-8e86-286415f7f850'
+}
+User connected with ID: b72dccf8-11f9-4559-8e86-286415f7f850
+{
+  '2vdNhYBRn7OaqNpzAAAP': 'a0ae7b56-872a-4b6b-bb08-49b87a8049ff',
+  x4zP_VEuL6fpItPYAAAR: 'b72dccf8-11f9-4559-8e86-286415f7f850',
+  t3VU4HpItQko1jKLAAAT: 'b58b92e2-f4a2-43ea-b1cf-ec32e401b3e0'
+}
+User connected with ID: b58b92e2-f4a2-43ea-b1cf-ec32e401b3e0
+User with ID b58b92e2-f4a2-43ea-b1cf-ec32e401b3e0 disconnected
+User with ID a0ae7b56-872a-4b6b-bb08-49b87a8049ff disconnected
+User with ID b72dccf8-11f9-4559-8e86-286415f7f850 disconnected
+{ '95bgIuAXCDiZQXniAAAW': 'd0719496-c8d2-41b5-a329-bc5af3db3ffa' }
+User connected with ID: d0719496-c8d2-41b5-a329-bc5af3db3ffa
+{
+  '95bgIuAXCDiZQXniAAAW': 'd0719496-c8d2-41b5-a329-bc5af3db3ffa',
+  J_8kKAp8YEuZByTuAAAY: '9f478e2f-2df3-4f1f-9009-180ce66f7d26'
+}
+User connected with ID: 9f478e2f-2df3-4f1f-9009-180ce66f7d26
+{
+  '95bgIuAXCDiZQXniAAAW': 'd0719496-c8d2-41b5-a329-bc5af3db3ffa',
+  J_8kKAp8YEuZByTuAAAY: '9f478e2f-2df3-4f1f-9009-180ce66f7d26',
+  XW6MJLBBVMRcYa8IAAAa: 'bf53a70d-cb35-4e1a-95ab-302321cb63c4'
+}
+User connected with ID: bf53a70d-cb35-4e1a-95ab-302321cb63c4
+User with ID 9f478e2f-2df3-4f1f-9009-180ce66f7d26 disconnected
+{
+  '95bgIuAXCDiZQXniAAAW': 'd0719496-c8d2-41b5-a329-bc5af3db3ffa',
+  XW6MJLBBVMRcYa8IAAAa: 'bf53a70d-cb35-4e1a-95ab-302321cb63c4',
+  '4ZfU3EKJhgM3IY2PAAAc': 'cae3b13d-c119-4d0f-8ea6-6cf777bb2f5d'
+}
+User connected with ID: cae3b13d-c119-4d0f-8ea6-6cf777bb2f5d
+User with ID d0719496-c8d2-41b5-a329-bc5af3db3ffa disconnected
+User with ID cae3b13d-c119-4d0f-8ea6-6cf777bb2f5d disconnected
+User with ID bf53a70d-cb35-4e1a-95ab-302321cb63c4 disconnected
+{ LdCfschrs9M6EaF4AAAf: 'ae4e8c0b-7710-4d37-9578-2b25c3f8bd2a' }
+User connected with ID: ae4e8c0b-7710-4d37-9578-2b25c3f8bd2a
+{
+  LdCfschrs9M6EaF4AAAf: 'ae4e8c0b-7710-4d37-9578-2b25c3f8bd2a',
+  MfGcvgHG5BoLv_vDAAAh: '2c1179a7-eb87-47f6-bff9-ef699db21098'
+}
+User connected with ID: 2c1179a7-eb87-47f6-bff9-ef699db21098
+{
+  LdCfschrs9M6EaF4AAAf: 'ae4e8c0b-7710-4d37-9578-2b25c3f8bd2a',
+  MfGcvgHG5BoLv_vDAAAh: '2c1179a7-eb87-47f6-bff9-ef699db21098',
+  vvVYw_ddZyOM6uoeAAAj: 'c391b62a-befa-452a-8d2b-da96395c4801'
+}
+User connected with ID: c391b62a-befa-452a-8d2b-da96395c4801
+User with ID c391b62a-befa-452a-8d2b-da96395c4801 disconnected
+User with ID 2c1179a7-eb87-47f6-bff9-ef699db21098 disconnected
+{
+  LdCfschrs9M6EaF4AAAf: 'ae4e8c0b-7710-4d37-9578-2b25c3f8bd2a',
+  OKqHE8fjYnxrqYpsAAAl: '7d53ba21-2dd5-4ef9-8300-9fa30d68c72f'
+}
+User connected with ID: 7d53ba21-2dd5-4ef9-8300-9fa30d68c72f
+User with ID ae4e8c0b-7710-4d37-9578-2b25c3f8bd2a disconnected
+{
+  OKqHE8fjYnxrqYpsAAAl: '7d53ba21-2dd5-4ef9-8300-9fa30d68c72f',
+  sTQXL_9AzEWzSkLqAAAo: '78a88e6f-9f9c-4509-863d-8a6fbacb5d4d'
+}
+User connected with ID: 78a88e6f-9f9c-4509-863d-8a6fbacb5d4d
+{
+  OKqHE8fjYnxrqYpsAAAl: '7d53ba21-2dd5-4ef9-8300-9fa30d68c72f',
+  sTQXL_9AzEWzSkLqAAAo: '78a88e6f-9f9c-4509-863d-8a6fbacb5d4d',
+  'B-t_L6cXkKnIOcCQAAAq': '17f5394b-7675-4f30-b097-3dd14bd161ca'
+}
+User connected with ID: 17f5394b-7675-4f30-b097-3dd14bd161ca
+User with ID 7d53ba21-2dd5-4ef9-8300-9fa30d68c72f disconnected
+User with ID 78a88e6f-9f9c-4509-863d-8a6fbacb5d4d disconnected
+User with ID 17f5394b-7675-4f30-b097-3dd14bd161ca disconnected
+{ pEiDlhrRN_YDppNXAAAs: 'adb235a6-4ae9-4c37-9b35-2d36ca975e8c' }
+User connected with ID: adb235a6-4ae9-4c37-9b35-2d36ca975e8c
+{
+  pEiDlhrRN_YDppNXAAAs: 'adb235a6-4ae9-4c37-9b35-2d36ca975e8c',
+  '5RMYCYxZrLH5R9wgAAAu': '1f66ef95-1562-4d06-9299-431b590c37f2'
+}
+User connected with ID: 1f66ef95-1562-4d06-9299-431b590c37f2
+{
+  pEiDlhrRN_YDppNXAAAs: 'adb235a6-4ae9-4c37-9b35-2d36ca975e8c',
+  '5RMYCYxZrLH5R9wgAAAu': '1f66ef95-1562-4d06-9299-431b590c37f2',
+  'JjKvNvZdonrsQyH-AAAw': 'e403c99e-8d8f-4c2e-b53e-078ad954acc7'
+}
+User connected with ID: e403c99e-8d8f-4c2e-b53e-078ad954acc7
+User with ID e403c99e-8d8f-4c2e-b53e-078ad954acc7 disconnected
+User with ID 1f66ef95-1562-4d06-9299-431b590c37f2 disconnected
+User with ID adb235a6-4ae9-4c37-9b35-2d36ca975e8c disconnected
+{ SxZK9WfOj1aWivHKAAAy: '2c0f621c-26db-4b00-8647-3088002a0529' }
+User connected with ID: 2c0f621c-26db-4b00-8647-3088002a0529
+{
+  SxZK9WfOj1aWivHKAAAy: '2c0f621c-26db-4b00-8647-3088002a0529',
+  Wx0Ymi3lJ5MJstDpAAA0: 'c8f2cfad-5de6-491f-bad8-2acede4dd764'
+}
+User connected with ID: c8f2cfad-5de6-491f-bad8-2acede4dd764
+{
+  SxZK9WfOj1aWivHKAAAy: '2c0f621c-26db-4b00-8647-3088002a0529',
+  Wx0Ymi3lJ5MJstDpAAA0: 'c8f2cfad-5de6-491f-bad8-2acede4dd764',
+  yHZ9e3EWNLpwENXbAAA2: '33b158f0-b0ad-45c5-8b72-8827930c36bf'
+}
+User connected with ID: 33b158f0-b0ad-45c5-8b72-8827930c36bf
+User with ID c8f2cfad-5de6-491f-bad8-2acede4dd764 disconnected
+User with ID 33b158f0-b0ad-45c5-8b72-8827930c36bf disconnected
+User with ID 2c0f621c-26db-4b00-8647-3088002a0529 disconnected
+{ edMyITynDtxjSPI9AAA4: 'c4a79ea3-0d75-43cd-a33d-c92182a33d78' }
+User connected with ID: c4a79ea3-0d75-43cd-a33d-c92182a33d78
+{
+  edMyITynDtxjSPI9AAA4: 'c4a79ea3-0d75-43cd-a33d-c92182a33d78',
+  'pDURwAQa3-KPjI8GAAA6': '8f7378e9-5584-4171-8c05-7028a26b7bc3'
+}
+User connected with ID: 8f7378e9-5584-4171-8c05-7028a26b7bc3
+{
+  edMyITynDtxjSPI9AAA4: 'c4a79ea3-0d75-43cd-a33d-c92182a33d78',
+  'pDURwAQa3-KPjI8GAAA6': '8f7378e9-5584-4171-8c05-7028a26b7bc3',
+  'gyY1JXs-ldI8S3GpAAA8': '63f6b05f-e784-41bc-bfc0-c0622974f82a'
+}
+User connected with ID: 63f6b05f-e784-41bc-bfc0-c0622974f82a
+User with ID c4a79ea3-0d75-43cd-a33d-c92182a33d78 disconnected
+{
+  'pDURwAQa3-KPjI8GAAA6': '8f7378e9-5584-4171-8c05-7028a26b7bc3',
+  'gyY1JXs-ldI8S3GpAAA8': '63f6b05f-e784-41bc-bfc0-c0622974f82a',
+  RGWpzdl_PuIPZh_aAAA_: 'bbb52ce3-5a5d-47c7-b3cc-e933f3bc9502'
+}
+User connected with ID: bbb52ce3-5a5d-47c7-b3cc-e933f3bc9502
+User with ID bbb52ce3-5a5d-47c7-b3cc-e933f3bc9502 disconnected
+User with ID 8f7378e9-5584-4171-8c05-7028a26b7bc3 disconnected
+User with ID 63f6b05f-e784-41bc-bfc0-c0622974f82a disconnected
+{ bv59SnkL70WXw5D_AABB: '6e862569-8c23-44a5-a1b5-9bb24a317ce6' }
+User connected with ID: 6e862569-8c23-44a5-a1b5-9bb24a317ce6
+{
+  bv59SnkL70WXw5D_AABB: '6e862569-8c23-44a5-a1b5-9bb24a317ce6',
+  'js_avBCyr-ByPEDxAABD': 'a837b0ad-4c09-4069-a255-dec1c506b6da'
+}
+User connected with ID: a837b0ad-4c09-4069-a255-dec1c506b6da
+{
+  bv59SnkL70WXw5D_AABB: '6e862569-8c23-44a5-a1b5-9bb24a317ce6',
+  'js_avBCyr-ByPEDxAABD': 'a837b0ad-4c09-4069-a255-dec1c506b6da',
+  D6S9LNzoU9vY7_bdAABF: '7c4666ab-44b1-4937-9d89-8da3d2b6d4a5'
+}
+User connected with ID: 7c4666ab-44b1-4937-9d89-8da3d2b6d4a5
+User with ID 6e862569-8c23-44a5-a1b5-9bb24a317ce6 disconnected
+User with ID a837b0ad-4c09-4069-a255-dec1c506b6da disconnected
+User with ID 7c4666ab-44b1-4937-9d89-8da3d2b6d4a5 disconnected
+{ '6avvK4TTf03zuA0UAABI': '6ef5c98c-69fc-4608-b62b-35b91bc1207b' }
+User connected with ID: 6ef5c98c-69fc-4608-b62b-35b91bc1207b
+{
+  '6avvK4TTf03zuA0UAABI': '6ef5c98c-69fc-4608-b62b-35b91bc1207b',
+  AOwfH4tiZ8TGq0jKAABK: '3d52658c-df6a-415b-8895-2a5aa495a1e2'
+}
+User connected with ID: 3d52658c-df6a-415b-8895-2a5aa495a1e2
+{
+  '6avvK4TTf03zuA0UAABI': '6ef5c98c-69fc-4608-b62b-35b91bc1207b',
+  AOwfH4tiZ8TGq0jKAABK: '3d52658c-df6a-415b-8895-2a5aa495a1e2',
+  WAqb7WD7iWDMYTfLAABM: 'e502d308-f5dc-4720-920c-dcc0cbc684a6'
+}
+User connected with ID: e502d308-f5dc-4720-920c-dcc0cbc684a6
+User with ID 6ef5c98c-69fc-4608-b62b-35b91bc1207b disconnected
+User with ID e502d308-f5dc-4720-920c-dcc0cbc684a6 disconnected
+User with ID 3d52658c-df6a-415b-8895-2a5aa495a1e2 disconnected
+{ 'QrV-U6IOtaOVvvQXAABP': 'e5b28acb-f5f2-4f43-8182-aef37f82e2e5' }
+User connected with ID: e5b28acb-f5f2-4f43-8182-aef37f82e2e5
+{
+  'QrV-U6IOtaOVvvQXAABP': 'e5b28acb-f5f2-4f43-8182-aef37f82e2e5',
+  Y9VTGo4IAVfsyHl8AABR: 'f94b0bb4-9df2-45f0-a046-cd9b22589c87'
+}
+User connected with ID: f94b0bb4-9df2-45f0-a046-cd9b22589c87
+{
+  'QrV-U6IOtaOVvvQXAABP': 'e5b28acb-f5f2-4f43-8182-aef37f82e2e5',
+  Y9VTGo4IAVfsyHl8AABR: 'f94b0bb4-9df2-45f0-a046-cd9b22589c87',
+  OCEFuy5T7gccXwnnAABT: '8eada427-0101-42f7-b7d8-16d6fdb7f7d0'
+}
+User connected with ID: 8eada427-0101-42f7-b7d8-16d6fdb7f7d0
+User with ID e5b28acb-f5f2-4f43-8182-aef37f82e2e5 disconnected
+User with ID 8eada427-0101-42f7-b7d8-16d6fdb7f7d0 disconnected
+User with ID f94b0bb4-9df2-45f0-a046-cd9b22589c87 disconnected
+{ PpKRDHxmUehYTg5WAABW: 'aad2fc54-4cb9-46d6-a6d7-2032724dd507' }
+User connected with ID: aad2fc54-4cb9-46d6-a6d7-2032724dd507
+{
+  PpKRDHxmUehYTg5WAABW: 'aad2fc54-4cb9-46d6-a6d7-2032724dd507',
+  wTvr1xcl1oJTigEAAABY: '1e26aebe-a660-4f5c-ae9a-dff1755701ec'
+}
+User connected with ID: 1e26aebe-a660-4f5c-ae9a-dff1755701ec
+{
+  PpKRDHxmUehYTg5WAABW: 'aad2fc54-4cb9-46d6-a6d7-2032724dd507',
+  wTvr1xcl1oJTigEAAABY: '1e26aebe-a660-4f5c-ae9a-dff1755701ec',
+  iGX0M3McZ8bPybmLAABa: 'd923138c-5211-434b-9151-ca8dd4ee5305'
+}
+User connected with ID: d923138c-5211-434b-9151-ca8dd4ee5305
+createParty Entry
+roomName room2
+aad2fc54-4cb9-46d6-a6d7-2032724dd507 has joined the room2
+socket.rooms Set(2) { 'PpKRDHxmUehYTg5WAABW', 'room2' }
+roomsList [ 'defaultRoom', 'room1', 'room2' ]
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ 'r-gPjxF1rTYvqFjhAAAB': '717385d5-a38a-4233-92fc-2b2b15c7967a' }
+User connected with ID: 717385d5-a38a-4233-92fc-2b2b15c7967a
+{
+  'r-gPjxF1rTYvqFjhAAAB': '717385d5-a38a-4233-92fc-2b2b15c7967a',
+  'wcgfLqB9Gpr2V7-XAAAD': '27a7dadd-c29b-455c-9528-2fcfdcbaf26e'
+}
+User connected with ID: 27a7dadd-c29b-455c-9528-2fcfdcbaf26e
+{
+  'r-gPjxF1rTYvqFjhAAAB': '717385d5-a38a-4233-92fc-2b2b15c7967a',
+  'wcgfLqB9Gpr2V7-XAAAD': '27a7dadd-c29b-455c-9528-2fcfdcbaf26e',
+  h2LTS1qHwDjylgXUAAAF: 'e57aa0dc-2d53-4dd0-b469-a628be15d702'
+}
+User connected with ID: e57aa0dc-2d53-4dd0-b469-a628be15d702
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ vMl73ZU_57Npxcm0AAAB: 'f8b2a239-dc1e-45fa-9bf4-a0bf7a7be42c' }
+User connected with ID: f8b2a239-dc1e-45fa-9bf4-a0bf7a7be42c
+{
+  vMl73ZU_57Npxcm0AAAB: 'f8b2a239-dc1e-45fa-9bf4-a0bf7a7be42c',
+  idW1GH884aFGmdd_AAAD: '28e91ebf-1d3a-4536-ae0b-6a8fd7718b2e'
+}
+User connected with ID: 28e91ebf-1d3a-4536-ae0b-6a8fd7718b2e
+{
+  vMl73ZU_57Npxcm0AAAB: 'f8b2a239-dc1e-45fa-9bf4-a0bf7a7be42c',
+  idW1GH884aFGmdd_AAAD: '28e91ebf-1d3a-4536-ae0b-6a8fd7718b2e',
+  yXL7bSx8J6pFmtEvAAAF: '810f8c34-6d95-4a4b-94f1-84e0e57f9d1d'
+}
+User connected with ID: 810f8c34-6d95-4a4b-94f1-84e0e57f9d1d
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+Server running at http://localhost:3001
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ qNZlD7DmOex3qk1mAAAB: 'e7abfe2c-fd76-4f98-b4c5-5e94ed73a782' }
+User connected with ID: e7abfe2c-fd76-4f98-b4c5-5e94ed73a782
+{
+  qNZlD7DmOex3qk1mAAAB: 'e7abfe2c-fd76-4f98-b4c5-5e94ed73a782',
+  '7SzdgavUR1XOydQaAAAD': '1cc99488-096c-4182-9843-2676c5201981'
+}
+User connected with ID: 1cc99488-096c-4182-9843-2676c5201981
+{
+  qNZlD7DmOex3qk1mAAAB: 'e7abfe2c-fd76-4f98-b4c5-5e94ed73a782',
+  '7SzdgavUR1XOydQaAAAD': '1cc99488-096c-4182-9843-2676c5201981',
+  m6ZX_yWZR6YFxRWZAAAF: '173958d8-15d3-44a3-98da-c92a36fd33c5'
+}
+User connected with ID: 173958d8-15d3-44a3-98da-c92a36fd33c5
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ rTfIgKitCoQzPvwVAAAB: 'c292b623-7f52-49fb-b3eb-4f31c5101209' }
+User connected with ID: c292b623-7f52-49fb-b3eb-4f31c5101209
+{
+  rTfIgKitCoQzPvwVAAAB: 'c292b623-7f52-49fb-b3eb-4f31c5101209',
+  rXQmGQfJQz91H9gkAAAD: 'e83e6c95-3605-4cfd-b679-385c7e42abf0'
+}
+User connected with ID: e83e6c95-3605-4cfd-b679-385c7e42abf0
+{
+  rTfIgKitCoQzPvwVAAAB: 'c292b623-7f52-49fb-b3eb-4f31c5101209',
+  rXQmGQfJQz91H9gkAAAD: 'e83e6c95-3605-4cfd-b679-385c7e42abf0',
+  'rll6L-aeGiSjWgWVAAAF': '09c4f1c2-3289-4bfb-988c-71e262106aab'
+}
+User connected with ID: 09c4f1c2-3289-4bfb-988c-71e262106aab
+User with ID c292b623-7f52-49fb-b3eb-4f31c5101209 disconnected
+{
+  rXQmGQfJQz91H9gkAAAD: 'e83e6c95-3605-4cfd-b679-385c7e42abf0',
+  'rll6L-aeGiSjWgWVAAAF': '09c4f1c2-3289-4bfb-988c-71e262106aab',
+  xabFKyp1UVEMDJNoAAAH: '45849292-6e29-4311-96e0-a4dfda4b8b76'
+}
+User connected with ID: 45849292-6e29-4311-96e0-a4dfda4b8b76
+changeName Entry
+{
+  rXQmGQfJQz91H9gkAAAD: 'e83e6c95-3605-4cfd-b679-385c7e42abf0',
+  'rll6L-aeGiSjWgWVAAAF': '09c4f1c2-3289-4bfb-988c-71e262106aab',
+  xabFKyp1UVEMDJNoAAAH: 'Ab'
+}
+chatMessage Entry
+inside chatMessage Set(2) { 'xabFKyp1UVEMDJNoAAAH', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom Ab said: hi
+Ab said: hi
+already in a room
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ Go_kVwvc_GPmfsHCAAAB: 'e431da6e-12fd-4425-9a0f-2912dab447f8' }
+User connected with ID: e431da6e-12fd-4425-9a0f-2912dab447f8
+{
+  Go_kVwvc_GPmfsHCAAAB: 'e431da6e-12fd-4425-9a0f-2912dab447f8',
+  tgrue9IqydCRs3JSAAAD: 'e845f36c-a6f1-46de-b474-da9a65f54d0f'
+}
+User connected with ID: e845f36c-a6f1-46de-b474-da9a65f54d0f
+{
+  Go_kVwvc_GPmfsHCAAAB: 'e431da6e-12fd-4425-9a0f-2912dab447f8',
+  tgrue9IqydCRs3JSAAAD: 'e845f36c-a6f1-46de-b474-da9a65f54d0f',
+  PhcMBnbILVqdIw9KAAAF: '43628272-1c60-49d0-9ae9-e8f01b9315f6'
+}
+User connected with ID: 43628272-1c60-49d0-9ae9-e8f01b9315f6
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ 'Z3Dtrm-Ilfyvp43oAAAB': 'adbf3b3d-fd25-42de-94ce-76784fb7e181' }
+User connected with ID: adbf3b3d-fd25-42de-94ce-76784fb7e181
+{
+  'Z3Dtrm-Ilfyvp43oAAAB': 'adbf3b3d-fd25-42de-94ce-76784fb7e181',
+  EULQXsenpHui3wd4AAAD: '7ecccb3b-19f7-4ed6-ae5c-a9d0a0c39158'
+}
+User connected with ID: 7ecccb3b-19f7-4ed6-ae5c-a9d0a0c39158
+{
+  'Z3Dtrm-Ilfyvp43oAAAB': 'adbf3b3d-fd25-42de-94ce-76784fb7e181',
+  EULQXsenpHui3wd4AAAD: '7ecccb3b-19f7-4ed6-ae5c-a9d0a0c39158',
+  tCZ_NX_fcmdyVWTLAAAF: 'c7226e7e-6c73-4966-aeff-5593256fcfd2'
+}
+User connected with ID: c7226e7e-6c73-4966-aeff-5593256fcfd2
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ WvD5rUOmvSsE_ii3AAAB: 'd72ef070-9968-4600-80bc-24675c81c877' }
+User connected with ID: d72ef070-9968-4600-80bc-24675c81c877
+{
+  WvD5rUOmvSsE_ii3AAAB: 'd72ef070-9968-4600-80bc-24675c81c877',
+  'lc_XQU07Eq0A8Z-8AAAD': '2734c539-81cb-458c-b1e9-2622697002c8'
+}
+User connected with ID: 2734c539-81cb-458c-b1e9-2622697002c8
+{
+  WvD5rUOmvSsE_ii3AAAB: 'd72ef070-9968-4600-80bc-24675c81c877',
+  'lc_XQU07Eq0A8Z-8AAAD': '2734c539-81cb-458c-b1e9-2622697002c8',
+  zXtBiv3vJcJa9TG7AAAF: '5562d023-ae5a-4d53-9497-179f6a0b229d'
+}
+User connected with ID: 5562d023-ae5a-4d53-9497-179f6a0b229d
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ kUc6_2WyxdRicSc0AAAB: 'f083938e-3497-46de-bdb1-35c63955c91a' }
+User connected with ID: f083938e-3497-46de-bdb1-35c63955c91a
+{
+  kUc6_2WyxdRicSc0AAAB: 'f083938e-3497-46de-bdb1-35c63955c91a',
+  n2C5dvfTBqGG9f_OAAAD: '41caeca0-f97c-4822-8e82-038a5a94086c'
+}
+User connected with ID: 41caeca0-f97c-4822-8e82-038a5a94086c
+{
+  kUc6_2WyxdRicSc0AAAB: 'f083938e-3497-46de-bdb1-35c63955c91a',
+  n2C5dvfTBqGG9f_OAAAD: '41caeca0-f97c-4822-8e82-038a5a94086c',
+  nlmKkcN0nIcMIACZAAAF: '64852cc8-fc4e-4271-a0d0-01b80887199e'
+}
+User connected with ID: 64852cc8-fc4e-4271-a0d0-01b80887199e
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ '7M7AL6RBjwJ_UIrOAAAB': '9b073f60-6c41-4469-b0b6-9d1b9cfeed9e' }
+User connected with ID: 9b073f60-6c41-4469-b0b6-9d1b9cfeed9e
+{
+  '7M7AL6RBjwJ_UIrOAAAB': '9b073f60-6c41-4469-b0b6-9d1b9cfeed9e',
+  OK5FowsqW4KvaZNaAAAD: '1ac53eb3-040c-494a-a2ab-e10eb328a84f'
+}
+User connected with ID: 1ac53eb3-040c-494a-a2ab-e10eb328a84f
+{
+  '7M7AL6RBjwJ_UIrOAAAB': '9b073f60-6c41-4469-b0b6-9d1b9cfeed9e',
+  OK5FowsqW4KvaZNaAAAD: '1ac53eb3-040c-494a-a2ab-e10eb328a84f',
+  F5CUXW4wUfQOSMBCAAAF: 'bb37feb9-49c9-49e7-aede-50f2980a0f73'
+}
+User connected with ID: bb37feb9-49c9-49e7-aede-50f2980a0f73
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ qGkzX19yQjI_e6rTAAAB: '742b25bb-7fa1-4ab7-969e-4c048c6240d9' }
+User connected with ID: 742b25bb-7fa1-4ab7-969e-4c048c6240d9
+{
+  qGkzX19yQjI_e6rTAAAB: '742b25bb-7fa1-4ab7-969e-4c048c6240d9',
+  vSjbhKtaS50rIdKGAAAD: 'd918509d-6a23-4634-b684-bec1dcdbd53a'
+}
+User connected with ID: d918509d-6a23-4634-b684-bec1dcdbd53a
+{
+  qGkzX19yQjI_e6rTAAAB: '742b25bb-7fa1-4ab7-969e-4c048c6240d9',
+  vSjbhKtaS50rIdKGAAAD: 'd918509d-6a23-4634-b684-bec1dcdbd53a',
+  bAbZkwwXEB7bcZHwAAAF: 'e064c630-c6ef-4ae5-9b00-2bf6301e12c5'
+}
+User connected with ID: e064c630-c6ef-4ae5-9b00-2bf6301e12c5
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ '3i3N1EZI6t6sIrRNAAAB': '2d55facf-8e5c-4cc7-b4e0-fb9650adc8ba' }
+User connected with ID: 2d55facf-8e5c-4cc7-b4e0-fb9650adc8ba
+{
+  '3i3N1EZI6t6sIrRNAAAB': '2d55facf-8e5c-4cc7-b4e0-fb9650adc8ba',
+  LjlELOkaxIwetDdfAAAD: '89da1a59-e136-4c31-8e37-57f887b505ca'
+}
+User connected with ID: 89da1a59-e136-4c31-8e37-57f887b505ca
+{
+  '3i3N1EZI6t6sIrRNAAAB': '2d55facf-8e5c-4cc7-b4e0-fb9650adc8ba',
+  LjlELOkaxIwetDdfAAAD: '89da1a59-e136-4c31-8e37-57f887b505ca',
+  'iH-OtdRNe9Y2Qk-xAAAF': '67d1bd55-f5af-4b6e-ac52-2e244898d15a'
+}
+User connected with ID: 67d1bd55-f5af-4b6e-ac52-2e244898d15a
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ '3Mqv0yfjsm3MT4FBAAAB': 'd2639505-60c2-4a1c-8d3f-1aedc2112cfb' }
+User connected with ID: d2639505-60c2-4a1c-8d3f-1aedc2112cfb
+{
+  '3Mqv0yfjsm3MT4FBAAAB': 'd2639505-60c2-4a1c-8d3f-1aedc2112cfb',
+  'PoZEt0UOYu-wfPAxAAAD': '45daa061-6717-4352-9fd1-3f89fe6e0f1d'
+}
+User connected with ID: 45daa061-6717-4352-9fd1-3f89fe6e0f1d
+{
+  '3Mqv0yfjsm3MT4FBAAAB': 'd2639505-60c2-4a1c-8d3f-1aedc2112cfb',
+  'PoZEt0UOYu-wfPAxAAAD': '45daa061-6717-4352-9fd1-3f89fe6e0f1d',
+  '9H4xL8PIEay4xdwDAAAF': '85a91bb6-9f3e-4398-b838-a87b72258404'
+}
+User connected with ID: 85a91bb6-9f3e-4398-b838-a87b72258404
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ rkmOIw8aTtDpnAhSAAAB: '3b447d06-16d2-4fae-a0f2-a92920b9aea7' }
+User connected with ID: 3b447d06-16d2-4fae-a0f2-a92920b9aea7
+{
+  rkmOIw8aTtDpnAhSAAAB: '3b447d06-16d2-4fae-a0f2-a92920b9aea7',
+  '3PaxDkpfHUwRYxb7AAAD': '65dd1760-3343-41e1-a1c8-a457fc0818f8'
+}
+User connected with ID: 65dd1760-3343-41e1-a1c8-a457fc0818f8
+{
+  rkmOIw8aTtDpnAhSAAAB: '3b447d06-16d2-4fae-a0f2-a92920b9aea7',
+  '3PaxDkpfHUwRYxb7AAAD': '65dd1760-3343-41e1-a1c8-a457fc0818f8',
+  '4cJkT6LGD2NH8otYAAAF': '799b611e-b10b-4d74-9005-db09d20b172c'
+}
+User connected with ID: 799b611e-b10b-4d74-9005-db09d20b172c
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ ZoEXFlv7Q38UO0xzAAAB: '31a357a6-653a-4787-815b-b4d7a717b686' }
+User connected with ID: 31a357a6-653a-4787-815b-b4d7a717b686
+{
+  ZoEXFlv7Q38UO0xzAAAB: '31a357a6-653a-4787-815b-b4d7a717b686',
+  iCKEW_KUBFPykhMpAAAD: '564ec143-0ded-434f-9310-f782fac69a36'
+}
+User connected with ID: 564ec143-0ded-434f-9310-f782fac69a36
+{
+  ZoEXFlv7Q38UO0xzAAAB: '31a357a6-653a-4787-815b-b4d7a717b686',
+  iCKEW_KUBFPykhMpAAAD: '564ec143-0ded-434f-9310-f782fac69a36',
+  '-IDPOeVRLYS-d1e7AAAF': '1062d99d-004d-46ac-950d-4aa6d386f7a8'
+}
+User connected with ID: 1062d99d-004d-46ac-950d-4aa6d386f7a8
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ VAS8yfy5nKutsyTzAAAB: '5056ba62-8856-47a5-9624-df61739049ea' }
+User connected with ID: 5056ba62-8856-47a5-9624-df61739049ea
+{
+  VAS8yfy5nKutsyTzAAAB: '5056ba62-8856-47a5-9624-df61739049ea',
+  '6JtfYxNsF7iUMyEvAAAD': 'cfb57022-f512-4676-bd12-ed4718981bca'
+}
+User connected with ID: cfb57022-f512-4676-bd12-ed4718981bca
+{
+  VAS8yfy5nKutsyTzAAAB: '5056ba62-8856-47a5-9624-df61739049ea',
+  '6JtfYxNsF7iUMyEvAAAD': 'cfb57022-f512-4676-bd12-ed4718981bca',
+  D5bkcEx558Ngyji4AAAF: '3cfede55-0e39-492b-ac2e-efb0fffbe699'
+}
+User connected with ID: 3cfede55-0e39-492b-ac2e-efb0fffbe699
+User with ID cfb57022-f512-4676-bd12-ed4718981bca disconnected
+{
+  VAS8yfy5nKutsyTzAAAB: '5056ba62-8856-47a5-9624-df61739049ea',
+  D5bkcEx558Ngyji4AAAF: '3cfede55-0e39-492b-ac2e-efb0fffbe699',
+  HTLUFwbBuSrjYlrbAAAI: 'f7294ceb-6931-4cb7-8e01-d6cd57a64f42'
+}
+User connected with ID: f7294ceb-6931-4cb7-8e01-d6cd57a64f42
+User with ID 3cfede55-0e39-492b-ac2e-efb0fffbe699 disconnected
+User with ID 5056ba62-8856-47a5-9624-df61739049ea disconnected
+{
+  HTLUFwbBuSrjYlrbAAAI: 'f7294ceb-6931-4cb7-8e01-d6cd57a64f42',
+  CCa0jLDrcSUheBCjAAAK: '7ca8a605-1b02-4e3a-9d1f-48771be91ded'
+}
+User connected with ID: 7ca8a605-1b02-4e3a-9d1f-48771be91ded
+{
+  HTLUFwbBuSrjYlrbAAAI: 'f7294ceb-6931-4cb7-8e01-d6cd57a64f42',
+  CCa0jLDrcSUheBCjAAAK: '7ca8a605-1b02-4e3a-9d1f-48771be91ded',
+  'vLgaUdoDB-zzQ_L5AAAN': 'bf9810a2-085a-4202-9c7a-4145d304af1f'
+}
+User connected with ID: bf9810a2-085a-4202-9c7a-4145d304af1f
+changeName Entry
+{
+  HTLUFwbBuSrjYlrbAAAI: 'f7294ceb-6931-4cb7-8e01-d6cd57a64f42',
+  CCa0jLDrcSUheBCjAAAK: 'Abhijit',
+  'vLgaUdoDB-zzQ_L5AAAN': 'bf9810a2-085a-4202-9c7a-4145d304af1f'
+}
+createParty Entry
+roomName room1
+Abhijit has joined the room1
+socket.rooms Set(2) { 'CCa0jLDrcSUheBCjAAAK', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+User with ID Abhijit disconnected
+{
+  HTLUFwbBuSrjYlrbAAAI: 'f7294ceb-6931-4cb7-8e01-d6cd57a64f42',
+  'vLgaUdoDB-zzQ_L5AAAN': 'bf9810a2-085a-4202-9c7a-4145d304af1f',
+  LJyG8UebgOz206B3AAAP: '4cd2037c-fb4e-49fa-ac64-f33085eae845'
+}
+User connected with ID: 4cd2037c-fb4e-49fa-ac64-f33085eae845
+changeName Entry
+{
+  HTLUFwbBuSrjYlrbAAAI: 'f7294ceb-6931-4cb7-8e01-d6cd57a64f42',
+  'vLgaUdoDB-zzQ_L5AAAN': 'bf9810a2-085a-4202-9c7a-4145d304af1f',
+  LJyG8UebgOz206B3AAAP: 'Abhijit'
+}
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ Z2akexFp55TSJ9G5AAAB: 'b1562789-cb5d-4678-950d-5ddc2a5613a1' }
+User connected with ID: b1562789-cb5d-4678-950d-5ddc2a5613a1
+{
+  Z2akexFp55TSJ9G5AAAB: 'b1562789-cb5d-4678-950d-5ddc2a5613a1',
+  VHq69jEBNNNX96hzAAAD: '4657e370-da65-4327-b11b-e069591b24c6'
+}
+User connected with ID: 4657e370-da65-4327-b11b-e069591b24c6
+{
+  Z2akexFp55TSJ9G5AAAB: 'b1562789-cb5d-4678-950d-5ddc2a5613a1',
+  VHq69jEBNNNX96hzAAAD: '4657e370-da65-4327-b11b-e069591b24c6',
+  'N3BNedeTBd-6agDSAAAF': 'f5461b3f-73a6-4a1b-99b4-704e46dace81'
+}
+User connected with ID: f5461b3f-73a6-4a1b-99b4-704e46dace81
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ kj9o7WcEE59rWogdAAAB: '9c2b2b46-38cb-4291-b0fd-5438b4a5e803' }
+User connected with ID: 9c2b2b46-38cb-4291-b0fd-5438b4a5e803
+{
+  kj9o7WcEE59rWogdAAAB: '9c2b2b46-38cb-4291-b0fd-5438b4a5e803',
+  srnkfXvBw7fCeVexAAAD: 'bba6d6c2-e129-4d9e-b5b1-bbe0c70ff2cc'
+}
+User connected with ID: bba6d6c2-e129-4d9e-b5b1-bbe0c70ff2cc
+{
+  kj9o7WcEE59rWogdAAAB: '9c2b2b46-38cb-4291-b0fd-5438b4a5e803',
+  srnkfXvBw7fCeVexAAAD: 'bba6d6c2-e129-4d9e-b5b1-bbe0c70ff2cc',
+  'e1KINpDBfxPsA-LPAAAF': '04041994-ec2c-42b7-b938-907ca8481811'
+}
+User connected with ID: 04041994-ec2c-42b7-b938-907ca8481811
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ vcG5TxSFscFOIHE3AAAB: '14c61525-78c9-4b22-abc9-62607a313ca4' }
+User connected with ID: 14c61525-78c9-4b22-abc9-62607a313ca4
+{
+  vcG5TxSFscFOIHE3AAAB: '14c61525-78c9-4b22-abc9-62607a313ca4',
+  '87x8g1Axn2WMxZ1wAAAD': '4470336b-5806-49c6-86c4-e598dc354c95'
+}
+User connected with ID: 4470336b-5806-49c6-86c4-e598dc354c95
+{
+  vcG5TxSFscFOIHE3AAAB: '14c61525-78c9-4b22-abc9-62607a313ca4',
+  '87x8g1Axn2WMxZ1wAAAD': '4470336b-5806-49c6-86c4-e598dc354c95',
+  'EOKZrujJnhzHoa-kAAAF': '6e8f5880-4d27-4b5f-9e20-524144fbc5dd'
+}
+User connected with ID: 6e8f5880-4d27-4b5f-9e20-524144fbc5dd
+User with ID 6e8f5880-4d27-4b5f-9e20-524144fbc5dd disconnected
+{
+  vcG5TxSFscFOIHE3AAAB: '14c61525-78c9-4b22-abc9-62607a313ca4',
+  '87x8g1Axn2WMxZ1wAAAD': '4470336b-5806-49c6-86c4-e598dc354c95',
+  POwZ7M4Ds02wo8OaAAAH: 'f71e8f24-c5ce-45f8-85ec-6643b2ab13e7'
+}
+User connected with ID: f71e8f24-c5ce-45f8-85ec-6643b2ab13e7
+User with ID 4470336b-5806-49c6-86c4-e598dc354c95 disconnected
+User with ID 14c61525-78c9-4b22-abc9-62607a313ca4 disconnected
+{
+  POwZ7M4Ds02wo8OaAAAH: 'f71e8f24-c5ce-45f8-85ec-6643b2ab13e7',
+  MY4qNtUqp3B_TE9rAAAJ: 'a7327c9b-cda8-476c-9dfe-332fb6d67d61'
+}
+User connected with ID: a7327c9b-cda8-476c-9dfe-332fb6d67d61
+{
+  POwZ7M4Ds02wo8OaAAAH: 'f71e8f24-c5ce-45f8-85ec-6643b2ab13e7',
+  MY4qNtUqp3B_TE9rAAAJ: 'a7327c9b-cda8-476c-9dfe-332fb6d67d61',
+  VxiohrTEJkm3znSsAAAL: '86dfeb16-66f9-4dd0-afb0-9f0c978ae3a6'
+}
+User connected with ID: 86dfeb16-66f9-4dd0-afb0-9f0c978ae3a6
+changeName Entry
+{
+  POwZ7M4Ds02wo8OaAAAH: 'Abhijit',
+  MY4qNtUqp3B_TE9rAAAJ: 'a7327c9b-cda8-476c-9dfe-332fb6d67d61',
+  VxiohrTEJkm3znSsAAAL: '86dfeb16-66f9-4dd0-afb0-9f0c978ae3a6'
+}
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'POwZ7M4Ds02wo8OaAAAH', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom Abhijit said: Hello
+Abhijit said: Hello
+chatMessage Exit
+createParty Entry
+roomName room1
+Abhijit has joined the room1
+socket.rooms Set(2) { 'POwZ7M4Ds02wo8OaAAAH', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+User with ID Abhijit disconnected
+{
+  MY4qNtUqp3B_TE9rAAAJ: 'a7327c9b-cda8-476c-9dfe-332fb6d67d61',
+  VxiohrTEJkm3znSsAAAL: '86dfeb16-66f9-4dd0-afb0-9f0c978ae3a6',
+  SsNUJbGJafza0_ZzAAAN: 'beac49af-e24c-4211-beb7-7d5d4b32e8a3'
+}
+User connected with ID: beac49af-e24c-4211-beb7-7d5d4b32e8a3
+changeName Entry
+{
+  MY4qNtUqp3B_TE9rAAAJ: 'a7327c9b-cda8-476c-9dfe-332fb6d67d61',
+  VxiohrTEJkm3znSsAAAL: '86dfeb16-66f9-4dd0-afb0-9f0c978ae3a6',
+  SsNUJbGJafza0_ZzAAAN: 'Abhi'
+}
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'SsNUJbGJafza0_ZzAAAN', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom Abhi said: hi
+Abhi said: hi
+chatMessage Exit
+createParty Entry
+roomName room2
+Abhi has joined the room2
+socket.rooms Set(2) { 'SsNUJbGJafza0_ZzAAAN', 'room2' }
+roomsList [ 'defaultRoom', 'room1', 'room2' ]
+createParty Exit
+leaveParty Entry
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ jklTyYRmBLa70AkAAAAB: 'fc949618-033a-4167-8437-ca91e7a42929' }
+User connected with ID: fc949618-033a-4167-8437-ca91e7a42929
+{
+  jklTyYRmBLa70AkAAAAB: 'fc949618-033a-4167-8437-ca91e7a42929',
+  aSbDbyQMkadzHqkaAAAD: 'c1ea2db6-47c4-47fd-abe6-4b3e9c6b6918'
+}
+User connected with ID: c1ea2db6-47c4-47fd-abe6-4b3e9c6b6918
+{
+  jklTyYRmBLa70AkAAAAB: 'fc949618-033a-4167-8437-ca91e7a42929',
+  aSbDbyQMkadzHqkaAAAD: 'c1ea2db6-47c4-47fd-abe6-4b3e9c6b6918',
+  PLVEZcaHRUb3AwWtAAAF: 'feba6268-3191-4d24-b522-0e3d6cd4087c'
+}
+User connected with ID: feba6268-3191-4d24-b522-0e3d6cd4087c
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ '8LSd2PIdH9XlkKbMAAAB': 'f82abeec-750b-491a-a9ae-4adeb98d61a3' }
+User connected with ID: f82abeec-750b-491a-a9ae-4adeb98d61a3
+{
+  '8LSd2PIdH9XlkKbMAAAB': 'f82abeec-750b-491a-a9ae-4adeb98d61a3',
+  ogR0bPKDArhgFnM5AAAD: '8a1518c2-5d20-48ec-ae5a-0985c06313c4'
+}
+User connected with ID: 8a1518c2-5d20-48ec-ae5a-0985c06313c4
+{
+  '8LSd2PIdH9XlkKbMAAAB': 'f82abeec-750b-491a-a9ae-4adeb98d61a3',
+  ogR0bPKDArhgFnM5AAAD: '8a1518c2-5d20-48ec-ae5a-0985c06313c4',
+  lHvEQqo0VsNTJXZcAAAF: '696eeec4-5b6f-4c4c-9ba4-a3eccda15640'
+}
+User connected with ID: 696eeec4-5b6f-4c4c-9ba4-a3eccda15640
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ 'MvX-s7X_fk31g0SkAAAB': '817817a0-b9ca-4b37-8c54-17446946731d' }
+User connected with ID: 817817a0-b9ca-4b37-8c54-17446946731d
+{
+  'MvX-s7X_fk31g0SkAAAB': '817817a0-b9ca-4b37-8c54-17446946731d',
+  '4mqGl1HYhlGODPvoAAAD': '8a22a858-08be-4833-8549-647dd5a69a99'
+}
+User connected with ID: 8a22a858-08be-4833-8549-647dd5a69a99
+{
+  'MvX-s7X_fk31g0SkAAAB': '817817a0-b9ca-4b37-8c54-17446946731d',
+  '4mqGl1HYhlGODPvoAAAD': '8a22a858-08be-4833-8549-647dd5a69a99',
+  BCJL9InbpL1rfkzrAAAF: 'd2db0a1b-e7ab-4659-8497-56c22f33c108'
+}
+User connected with ID: d2db0a1b-e7ab-4659-8497-56c22f33c108
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ dG2C9xVhb11SePm7AAAB: '912a94d4-949e-4d11-bf08-9a61bfde9cee' }
+User connected with ID: 912a94d4-949e-4d11-bf08-9a61bfde9cee
+{
+  dG2C9xVhb11SePm7AAAB: '912a94d4-949e-4d11-bf08-9a61bfde9cee',
+  O4yF9ZXQMJDCodeXAAAD: 'a9babb80-98a1-4715-9ab6-936fbf7054ad'
+}
+User connected with ID: a9babb80-98a1-4715-9ab6-936fbf7054ad
+{
+  dG2C9xVhb11SePm7AAAB: '912a94d4-949e-4d11-bf08-9a61bfde9cee',
+  O4yF9ZXQMJDCodeXAAAD: 'a9babb80-98a1-4715-9ab6-936fbf7054ad',
+  '1FsGl2YlmoRes4ZmAAAF': '4ca6eabc-2eb0-46b3-8955-4869d88d40a7'
+}
+User connected with ID: 4ca6eabc-2eb0-46b3-8955-4869d88d40a7
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ woD45sJGhzKnmXZAAAAB: 'ac88316f-3388-4778-88f2-eae844369ba8' }
+User connected with ID: ac88316f-3388-4778-88f2-eae844369ba8
+{
+  woD45sJGhzKnmXZAAAAB: 'ac88316f-3388-4778-88f2-eae844369ba8',
+  '-9ykfDLvYomBPVHDAAAD': 'c10203b0-e029-4301-8df9-25e4ea94a140'
+}
+User connected with ID: c10203b0-e029-4301-8df9-25e4ea94a140
+{
+  woD45sJGhzKnmXZAAAAB: 'ac88316f-3388-4778-88f2-eae844369ba8',
+  '-9ykfDLvYomBPVHDAAAD': 'c10203b0-e029-4301-8df9-25e4ea94a140',
+  A_Iplc1WnTk129XJAAAF: 'c5ee531f-26fc-40c7-8ff5-a31bc9fef7b4'
+}
+User connected with ID: c5ee531f-26fc-40c7-8ff5-a31bc9fef7b4
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ F_8Z2T4lk2IbqWLsAAAB: 'd5c4b628-4217-4311-8bf8-281e34e0060c' }
+User connected with ID: d5c4b628-4217-4311-8bf8-281e34e0060c
+{
+  F_8Z2T4lk2IbqWLsAAAB: 'd5c4b628-4217-4311-8bf8-281e34e0060c',
+  OVhSqqJfj_l4S9vNAAAD: 'd6866b0b-d005-4b47-ade2-208e0ab78709'
+}
+User connected with ID: d6866b0b-d005-4b47-ade2-208e0ab78709
+{
+  F_8Z2T4lk2IbqWLsAAAB: 'd5c4b628-4217-4311-8bf8-281e34e0060c',
+  OVhSqqJfj_l4S9vNAAAD: 'd6866b0b-d005-4b47-ade2-208e0ab78709',
+  'PwMk5Rht-fdgmnx1AAAF': '6a1772ac-56a3-40b7-a4da-3bca8b7d2e03'
+}
+User connected with ID: 6a1772ac-56a3-40b7-a4da-3bca8b7d2e03
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ Yjf_rfIwCfevAEiDAAAB: '6178d934-a115-4147-8836-28ece2e69ee6' }
+User connected with ID: 6178d934-a115-4147-8836-28ece2e69ee6
+{
+  Yjf_rfIwCfevAEiDAAAB: '6178d934-a115-4147-8836-28ece2e69ee6',
+  jwmIUDLB1eDhOxCtAAAD: '4cdb8b9a-cf02-426f-9a38-7c920e5f3a6d'
+}
+User connected with ID: 4cdb8b9a-cf02-426f-9a38-7c920e5f3a6d
+{
+  Yjf_rfIwCfevAEiDAAAB: '6178d934-a115-4147-8836-28ece2e69ee6',
+  jwmIUDLB1eDhOxCtAAAD: '4cdb8b9a-cf02-426f-9a38-7c920e5f3a6d',
+  ou5C02MzkbrFw7LcAAAF: '4d9c9df3-530d-4088-aeaa-8023e0e1c74a'
+}
+User connected with ID: 4d9c9df3-530d-4088-aeaa-8023e0e1c74a
+User with ID 6178d934-a115-4147-8836-28ece2e69ee6 disconnected
+{
+  jwmIUDLB1eDhOxCtAAAD: '4cdb8b9a-cf02-426f-9a38-7c920e5f3a6d',
+  ou5C02MzkbrFw7LcAAAF: '4d9c9df3-530d-4088-aeaa-8023e0e1c74a',
+  '4jqpYJYOSCrEpW40AAAH': '1eea0316-5680-4e05-9977-9b1613bc1851'
+}
+User connected with ID: 1eea0316-5680-4e05-9977-9b1613bc1851
+User with ID 4d9c9df3-530d-4088-aeaa-8023e0e1c74a disconnected
+User with ID 4cdb8b9a-cf02-426f-9a38-7c920e5f3a6d disconnected
+{
+  '4jqpYJYOSCrEpW40AAAH': '1eea0316-5680-4e05-9977-9b1613bc1851',
+  KFqaAixdnA0ZTW26AAAK: '14ff5451-29d0-4b9d-b8fb-1d8e4157e5f9'
+}
+User connected with ID: 14ff5451-29d0-4b9d-b8fb-1d8e4157e5f9
+{
+  '4jqpYJYOSCrEpW40AAAH': '1eea0316-5680-4e05-9977-9b1613bc1851',
+  KFqaAixdnA0ZTW26AAAK: '14ff5451-29d0-4b9d-b8fb-1d8e4157e5f9',
+  'oNY-ptSupBZsx1b1AAAN': '0b16c441-2665-4768-ac02-683e35bbd8be'
+}
+User connected with ID: 0b16c441-2665-4768-ac02-683e35bbd8be
+changeName Entry
+{
+  '4jqpYJYOSCrEpW40AAAH': 'Abhijit',
+  KFqaAixdnA0ZTW26AAAK: '14ff5451-29d0-4b9d-b8fb-1d8e4157e5f9',
+  'oNY-ptSupBZsx1b1AAAN': '0b16c441-2665-4768-ac02-683e35bbd8be'
+}
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { '4jqpYJYOSCrEpW40AAAH', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom Abhijit said: hi
+Abhijit said: hi
+chatMessage Exit
+createParty Entry
+roomName room1
+Abhijit has joined the room1
+socket.rooms Set(2) { '4jqpYJYOSCrEpW40AAAH', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+leaveParty Entry
+before Set(2) { '4jqpYJYOSCrEpW40AAAH', 'room1' }
+after Set(2) { '4jqpYJYOSCrEpW40AAAH', 'room1' }
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ '136IYqlWXId1UNuIAAAB': '54ae86b8-8dd1-4639-a1b9-5e1411f9d027' }
+User connected with ID: 54ae86b8-8dd1-4639-a1b9-5e1411f9d027
+{
+  '136IYqlWXId1UNuIAAAB': '54ae86b8-8dd1-4639-a1b9-5e1411f9d027',
+  rAyXvhzobnGO8fslAAAD: '6aa46fc5-4e17-46c1-9b8c-283f781c5fea'
+}
+User connected with ID: 6aa46fc5-4e17-46c1-9b8c-283f781c5fea
+{
+  '136IYqlWXId1UNuIAAAB': '54ae86b8-8dd1-4639-a1b9-5e1411f9d027',
+  rAyXvhzobnGO8fslAAAD: '6aa46fc5-4e17-46c1-9b8c-283f781c5fea',
+  VJ8mJdKDIen3GSFqAAAF: '35458060-194b-4048-8495-2bd9d8989ad3'
+}
+User connected with ID: 35458060-194b-4048-8495-2bd9d8989ad3
+User with ID 6aa46fc5-4e17-46c1-9b8c-283f781c5fea disconnected
+{
+  '136IYqlWXId1UNuIAAAB': '54ae86b8-8dd1-4639-a1b9-5e1411f9d027',
+  VJ8mJdKDIen3GSFqAAAF: '35458060-194b-4048-8495-2bd9d8989ad3',
+  'HtWm-CVvZHAmB-pnAAAH': '3e03da5a-08fe-4c56-8d40-c17718dfb65d'
+}
+User connected with ID: 3e03da5a-08fe-4c56-8d40-c17718dfb65d
+changeName Entry
+{
+  '136IYqlWXId1UNuIAAAB': '54ae86b8-8dd1-4639-a1b9-5e1411f9d027',
+  VJ8mJdKDIen3GSFqAAAF: '35458060-194b-4048-8495-2bd9d8989ad3',
+  'HtWm-CVvZHAmB-pnAAAH': 'abhi'
+}
+changeName Exit
+createParty Entry
+roomName room1
+abhi has joined the room1
+socket.rooms Set(2) { 'HtWm-CVvZHAmB-pnAAAH', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+leaveParty Entry
+{ roomName: 'room1' }
+before Set(2) { 'HtWm-CVvZHAmB-pnAAAH', 'room1' }
+after Set(2) { 'HtWm-CVvZHAmB-pnAAAH', 'room1' }
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/socketController.js:86
+        socket.on('leaveParty', ({roomName) => {
+                                          ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ Ta6lBiIJBYyt_fBoAAAB: '1672ad9f-cce3-4a65-a773-4698a66ae9a5' }
+User connected with ID: 1672ad9f-cce3-4a65-a773-4698a66ae9a5
+{
+  Ta6lBiIJBYyt_fBoAAAB: '1672ad9f-cce3-4a65-a773-4698a66ae9a5',
+  LE8PGUoT04Cvigx6AAAD: '3b2eae4c-c515-4e99-ac38-38086d13f3b6'
+}
+User connected with ID: 3b2eae4c-c515-4e99-ac38-38086d13f3b6
+{
+  Ta6lBiIJBYyt_fBoAAAB: '1672ad9f-cce3-4a65-a773-4698a66ae9a5',
+  LE8PGUoT04Cvigx6AAAD: '3b2eae4c-c515-4e99-ac38-38086d13f3b6',
+  _H8CndIDt0h_1j3qAAAF: 'ce310a62-102e-425d-86ea-078ce1c0b632'
+}
+User connected with ID: ce310a62-102e-425d-86ea-078ce1c0b632
+User with ID 3b2eae4c-c515-4e99-ac38-38086d13f3b6 disconnected
+{
+  Ta6lBiIJBYyt_fBoAAAB: '1672ad9f-cce3-4a65-a773-4698a66ae9a5',
+  _H8CndIDt0h_1j3qAAAF: 'ce310a62-102e-425d-86ea-078ce1c0b632',
+  iGVb8X8xvmUUgZsJAAAH: 'fc15d28c-f567-4031-8472-3c1c2ec96b76'
+}
+User connected with ID: fc15d28c-f567-4031-8472-3c1c2ec96b76
+createParty Entry
+roomName room1
+fc15d28c-f567-4031-8472-3c1c2ec96b76 has joined the room1
+socket.rooms Set(2) { 'iGVb8X8xvmUUgZsJAAAH', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+leaveParty Entry
+room1
+before Set(2) { 'iGVb8X8xvmUUgZsJAAAH', 'room1' }
+after Set(1) { 'iGVb8X8xvmUUgZsJAAAH' }
+leaveParty Exit
+User with ID fc15d28c-f567-4031-8472-3c1c2ec96b76 disconnected
+{
+  Ta6lBiIJBYyt_fBoAAAB: '1672ad9f-cce3-4a65-a773-4698a66ae9a5',
+  _H8CndIDt0h_1j3qAAAF: 'ce310a62-102e-425d-86ea-078ce1c0b632',
+  'YPx5pPe-39dR3H4YAAAJ': '9b9ee294-9c9d-4cc3-a167-65fc49abd5d6'
+}
+User connected with ID: 9b9ee294-9c9d-4cc3-a167-65fc49abd5d6
+createParty Entry
+roomName room2
+9b9ee294-9c9d-4cc3-a167-65fc49abd5d6 has joined the room2
+socket.rooms Set(2) { 'YPx5pPe-39dR3H4YAAAJ', 'room2' }
+roomsList [ 'defaultRoom', 'room1', 'room2' ]
+createParty Exit
+leaveParty Entry
+room2
+before Set(2) { 'YPx5pPe-39dR3H4YAAAJ', 'room2' }
+after Set(1) { 'YPx5pPe-39dR3H4YAAAJ' }
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ '-37wgyzhL8CYtBwDAAAB': '1133b6e8-0bf3-401f-a98e-f5a153dc9b21' }
+User connected with ID: 1133b6e8-0bf3-401f-a98e-f5a153dc9b21
+{
+  '-37wgyzhL8CYtBwDAAAB': '1133b6e8-0bf3-401f-a98e-f5a153dc9b21',
+  Jg9e6N2vNeuvLZRuAAAD: 'c3ba1180-c082-4750-b727-c89c0f052769'
+}
+User connected with ID: c3ba1180-c082-4750-b727-c89c0f052769
+{
+  '-37wgyzhL8CYtBwDAAAB': '1133b6e8-0bf3-401f-a98e-f5a153dc9b21',
+  Jg9e6N2vNeuvLZRuAAAD: 'c3ba1180-c082-4750-b727-c89c0f052769',
+  Up2VsRzFstwfRvxVAAAF: '5c0439ce-b293-46e2-a133-26ff420bd4cd'
+}
+User connected with ID: 5c0439ce-b293-46e2-a133-26ff420bd4cd
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ Id1JCFuRFoChMpQVAAAB: '1af0c363-25e3-4a8c-aa79-f33d26c919fa' }
+User connected with ID: 1af0c363-25e3-4a8c-aa79-f33d26c919fa
+{
+  Id1JCFuRFoChMpQVAAAB: '1af0c363-25e3-4a8c-aa79-f33d26c919fa',
+  jIQEX1VFBPzmFRZoAAAD: '7637a94c-95f9-4d97-bd2d-d4c7adf29713'
+}
+User connected with ID: 7637a94c-95f9-4d97-bd2d-d4c7adf29713
+{
+  Id1JCFuRFoChMpQVAAAB: '1af0c363-25e3-4a8c-aa79-f33d26c919fa',
+  jIQEX1VFBPzmFRZoAAAD: '7637a94c-95f9-4d97-bd2d-d4c7adf29713',
+  'tNBZZ_JuEcxvb-eKAAAF': '26568727-c4cd-408b-9c93-4695f0028a8c'
+}
+User connected with ID: 26568727-c4cd-408b-9c93-4695f0028a8c
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/socketController.js:95
+        })
+         ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ vwN3mMuDPnCIXVL4AAAB: '67b97b25-ae25-44de-ac4a-5ece81de2ff0' }
+User connected with ID: 67b97b25-ae25-44de-ac4a-5ece81de2ff0
+{
+  vwN3mMuDPnCIXVL4AAAB: '67b97b25-ae25-44de-ac4a-5ece81de2ff0',
+  ma4z1b6FtPqmWLijAAAD: 'bcff76c1-ec35-4d3c-82a6-6c59b6d17cdc'
+}
+User connected with ID: bcff76c1-ec35-4d3c-82a6-6c59b6d17cdc
+{
+  vwN3mMuDPnCIXVL4AAAB: '67b97b25-ae25-44de-ac4a-5ece81de2ff0',
+  ma4z1b6FtPqmWLijAAAD: 'bcff76c1-ec35-4d3c-82a6-6c59b6d17cdc',
+  'gVob-JlrSubB6I1dAAAF': '0c375137-ddee-4c50-8e91-8f30fb77f352'
+}
+User connected with ID: 0c375137-ddee-4c50-8e91-8f30fb77f352
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ XQdo1Dz0HgtXs8JdAAAB: 'c0e4adbd-c3bd-49b7-9e78-6583ec840f91' }
+User connected with ID: c0e4adbd-c3bd-49b7-9e78-6583ec840f91
+{
+  XQdo1Dz0HgtXs8JdAAAB: 'c0e4adbd-c3bd-49b7-9e78-6583ec840f91',
+  'YbB-wIdF64Hp_XwqAAAD': '875a804c-f0ad-4bd0-8767-7ac7e9320008'
+}
+User connected with ID: 875a804c-f0ad-4bd0-8767-7ac7e9320008
+[32m[nodemon] restarting due to changes...[39m
+{
+  XQdo1Dz0HgtXs8JdAAAB: 'c0e4adbd-c3bd-49b7-9e78-6583ec840f91',
+  'YbB-wIdF64Hp_XwqAAAD': '875a804c-f0ad-4bd0-8767-7ac7e9320008',
+  kHVBT62Ao8cITAGEAAAF: 'd460cbf9-9379-4c0a-9a05-f153c8232b55'
+}
+User connected with ID: d460cbf9-9379-4c0a-9a05-f153c8232b55
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ 'Hw6DPdIj-v4Ru8aWAAAB': '781763e2-b4c9-43fa-9518-16d179033639' }
+User connected with ID: 781763e2-b4c9-43fa-9518-16d179033639
+{
+  'Hw6DPdIj-v4Ru8aWAAAB': '781763e2-b4c9-43fa-9518-16d179033639',
+  mh2DtzoqdVYZiTYBAAAD: '98311083-c534-449a-98bd-9717e1174506'
+}
+User connected with ID: 98311083-c534-449a-98bd-9717e1174506
+[32m[nodemon] restarting due to changes...[39m
+{
+  'Hw6DPdIj-v4Ru8aWAAAB': '781763e2-b4c9-43fa-9518-16d179033639',
+  mh2DtzoqdVYZiTYBAAAD: '98311083-c534-449a-98bd-9717e1174506',
+  lhUGhK6wkPwYGG2rAAAF: '797870cf-5a20-4adc-b7d7-ece54eb7602d'
+}
+User connected with ID: 797870cf-5a20-4adc-b7d7-ece54eb7602d
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ 'wO5AnEazXGArWy-1AAAB': 'cc75b1a8-db1b-4f25-956b-71abea6355f2' }
+User connected with ID: cc75b1a8-db1b-4f25-956b-71abea6355f2
+{
+  'wO5AnEazXGArWy-1AAAB': 'cc75b1a8-db1b-4f25-956b-71abea6355f2',
+  '9KhWdT9HEhln52N-AAAD': '7754a042-e1aa-4014-a9c5-23b8ad818da6'
+}
+User connected with ID: 7754a042-e1aa-4014-a9c5-23b8ad818da6
+{
+  'wO5AnEazXGArWy-1AAAB': 'cc75b1a8-db1b-4f25-956b-71abea6355f2',
+  '9KhWdT9HEhln52N-AAAD': '7754a042-e1aa-4014-a9c5-23b8ad818da6',
+  j81b_OuG65G7DBZvAAAF: '0fa0b9de-854b-4c5a-aa67-5f3025b2e7e5'
+}
+User connected with ID: 0fa0b9de-854b-4c5a-aa67-5f3025b2e7e5
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ y_fRgo1tb9FL5AtcAAAB: 'ed103972-8338-4ae0-8996-a6cdcd93e693' }
+User connected with ID: ed103972-8338-4ae0-8996-a6cdcd93e693
+{
+  y_fRgo1tb9FL5AtcAAAB: 'ed103972-8338-4ae0-8996-a6cdcd93e693',
+  QKjqCiprzuIOD18nAAAD: '66d6f503-61a6-46dc-8c43-c0cab80407e8'
+}
+User connected with ID: 66d6f503-61a6-46dc-8c43-c0cab80407e8
+{
+  y_fRgo1tb9FL5AtcAAAB: 'ed103972-8338-4ae0-8996-a6cdcd93e693',
+  QKjqCiprzuIOD18nAAAD: '66d6f503-61a6-46dc-8c43-c0cab80407e8',
+  UY1ZAcxUvwiSXF2sAAAF: '594c35f1-88fd-4f29-ab55-29ec8ffc374f'
+}
+User connected with ID: 594c35f1-88fd-4f29-ab55-29ec8ffc374f
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ '7nN_77aC4Khsh3JLAAAB': 'e42cd959-811c-44d8-ae2a-bddc18db4e5c' }
+User connected with ID: e42cd959-811c-44d8-ae2a-bddc18db4e5c
+{
+  '7nN_77aC4Khsh3JLAAAB': 'e42cd959-811c-44d8-ae2a-bddc18db4e5c',
+  VAimzGOwsqV5ePpNAAAD: 'e7d8d7cc-38d4-4571-b7fd-f4597be1894a'
+}
+User connected with ID: e7d8d7cc-38d4-4571-b7fd-f4597be1894a
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/socketController.js:93
+                io.to(socket.id).emit(leaveParty');
+                                      ^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ ngQR2paG0FNuN4_gAAAB: 'f74aafa8-a8e9-4eb9-9f2e-51aa06312af7' }
+User connected with ID: f74aafa8-a8e9-4eb9-9f2e-51aa06312af7
+{
+  ngQR2paG0FNuN4_gAAAB: 'f74aafa8-a8e9-4eb9-9f2e-51aa06312af7',
+  'RhUVq-KlYLCUzDBvAAAD': '6e595b5f-c172-43f2-8b26-0c924820ad55'
+}
+User connected with ID: 6e595b5f-c172-43f2-8b26-0c924820ad55
+{
+  ngQR2paG0FNuN4_gAAAB: 'f74aafa8-a8e9-4eb9-9f2e-51aa06312af7',
+  'RhUVq-KlYLCUzDBvAAAD': '6e595b5f-c172-43f2-8b26-0c924820ad55',
+  EVvGRtJvkgq4KikfAAAF: '713ada58-f393-4b00-a7a6-83a2b1212e6a'
+}
+User connected with ID: 713ada58-f393-4b00-a7a6-83a2b1212e6a
+User with ID 713ada58-f393-4b00-a7a6-83a2b1212e6a disconnected
+{
+  ngQR2paG0FNuN4_gAAAB: 'f74aafa8-a8e9-4eb9-9f2e-51aa06312af7',
+  'RhUVq-KlYLCUzDBvAAAD': '6e595b5f-c172-43f2-8b26-0c924820ad55',
+  '6JznGlqHfWCvyU_OAAAH': 'aa597064-e48e-4a2c-8671-a3f0804d71f6'
+}
+User connected with ID: aa597064-e48e-4a2c-8671-a3f0804d71f6
+createParty Entry
+roomName room1
+aa597064-e48e-4a2c-8671-a3f0804d71f6 has joined the room1
+socket.rooms Set(2) { '6JznGlqHfWCvyU_OAAAH', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+leaveParty Entry
+room1
+before Set(2) { '6JznGlqHfWCvyU_OAAAH', 'room1' }
+after Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+leaveParty Exit
+createParty Entry
+roomName room2
+aa597064-e48e-4a2c-8671-a3f0804d71f6 has joined the room2
+socket.rooms Set(2) { '6JznGlqHfWCvyU_OAAAH', 'room2' }
+roomsList [ 'defaultRoom', 'room1', 'room2' ]
+createParty Exit
+leaveParty Entry
+room2
+before Set(2) { '6JznGlqHfWCvyU_OAAAH', 'room2' }
+after Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+leaveParty Exit
+leaveParty Entry
+room2
+before Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+after Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+leaveParty Exit
+leaveParty Entry
+room2
+before Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+after Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+leaveParty Exit
+leaveParty Entry
+room2
+before Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+after Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+leaveParty Exit
+leaveParty Entry
+room2
+before Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+after Set(1) { '6JznGlqHfWCvyU_OAAAH' }
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ uURzgJbslO6eTpiTAAAB: 'bbff46c8-1d0e-4e6e-9d0f-310e35d05f56' }
+User connected with ID: bbff46c8-1d0e-4e6e-9d0f-310e35d05f56
+{
+  uURzgJbslO6eTpiTAAAB: 'bbff46c8-1d0e-4e6e-9d0f-310e35d05f56',
+  '2dbYZX0uVwA8dwNWAAAD': '0f33521d-773d-4c28-861e-1db38925f7e3'
+}
+User connected with ID: 0f33521d-773d-4c28-861e-1db38925f7e3
+{
+  uURzgJbslO6eTpiTAAAB: 'bbff46c8-1d0e-4e6e-9d0f-310e35d05f56',
+  '2dbYZX0uVwA8dwNWAAAD': '0f33521d-773d-4c28-861e-1db38925f7e3',
+  '8Qc0e3ffhcsdPsyAAAAF': '2bb9fa7b-9417-43f3-8d96-88a0343b9d8f'
+}
+User connected with ID: 2bb9fa7b-9417-43f3-8d96-88a0343b9d8f
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ fHw4jj91qxM6wdqhAAAB: '445ff2d1-2590-490e-98c0-997ecfc8b761' }
+User connected with ID: 445ff2d1-2590-490e-98c0-997ecfc8b761
+{
+  fHw4jj91qxM6wdqhAAAB: '445ff2d1-2590-490e-98c0-997ecfc8b761',
+  '0oiQETLNNuH7cdtxAAAD': '10857e60-88cb-48ff-a5fc-3d27386c89b8'
+}
+User connected with ID: 10857e60-88cb-48ff-a5fc-3d27386c89b8
+{
+  fHw4jj91qxM6wdqhAAAB: '445ff2d1-2590-490e-98c0-997ecfc8b761',
+  '0oiQETLNNuH7cdtxAAAD': '10857e60-88cb-48ff-a5fc-3d27386c89b8',
+  voWR_r93CSfNhaQjAAAF: 'fbf87699-ce15-460e-8d26-d2686f71aa9c'
+}
+User connected with ID: fbf87699-ce15-460e-8d26-d2686f71aa9c
+createParty Entry
+roomName room1
+10857e60-88cb-48ff-a5fc-3d27386c89b8 has joined the room1
+socket.rooms Set(2) { '0oiQETLNNuH7cdtxAAAD', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+leaveParty Entry
+room1
+before Set(2) { '0oiQETLNNuH7cdtxAAAD', 'room1' }
+after Set(1) { '0oiQETLNNuH7cdtxAAAD' }
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ CqkTa3auYzEmtr88AAAB: '56093e25-88d9-4104-801b-a0474ef3e398' }
+User connected with ID: 56093e25-88d9-4104-801b-a0474ef3e398
+{
+  CqkTa3auYzEmtr88AAAB: '56093e25-88d9-4104-801b-a0474ef3e398',
+  uRMsWU5Ym5ZLASnLAAAD: '36c45dc7-8d0d-4a98-9a26-77b0868ee1cd'
+}
+User connected with ID: 36c45dc7-8d0d-4a98-9a26-77b0868ee1cd
+[32m[nodemon] restarting due to changes...[39m
+{
+  CqkTa3auYzEmtr88AAAB: '56093e25-88d9-4104-801b-a0474ef3e398',
+  uRMsWU5Ym5ZLASnLAAAD: '36c45dc7-8d0d-4a98-9a26-77b0868ee1cd',
+  '-gyrKtt76bwhWPkcAAAF': '4622c2ba-44eb-44d5-a668-9d4cb7ffcbfa'
+}
+User connected with ID: 4622c2ba-44eb-44d5-a668-9d4cb7ffcbfa
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ Lq9CNzuahO4XZo8wAAAB: 'b8b9e93a-7937-47ef-996e-914e68094fbd' }
+User connected with ID: b8b9e93a-7937-47ef-996e-914e68094fbd
+{
+  Lq9CNzuahO4XZo8wAAAB: 'b8b9e93a-7937-47ef-996e-914e68094fbd',
+  MKknXepZ1WJJeADWAAAD: '3cfe8b8c-f22e-4d89-bf27-8f7ae4ec8dec'
+}
+User connected with ID: 3cfe8b8c-f22e-4d89-bf27-8f7ae4ec8dec
+{
+  Lq9CNzuahO4XZo8wAAAB: 'b8b9e93a-7937-47ef-996e-914e68094fbd',
+  MKknXepZ1WJJeADWAAAD: '3cfe8b8c-f22e-4d89-bf27-8f7ae4ec8dec',
+  hHfbFcgholYpLQtqAAAF: 'e3d5e060-f717-4503-8ed3-836d94237ee1'
+}
+User connected with ID: e3d5e060-f717-4503-8ed3-836d94237ee1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ EFls95M2XkfKmEGIAAAB: '2038a1f4-b1e1-4541-bde6-36dc21ecbb57' }
+User connected with ID: 2038a1f4-b1e1-4541-bde6-36dc21ecbb57
+{
+  EFls95M2XkfKmEGIAAAB: '2038a1f4-b1e1-4541-bde6-36dc21ecbb57',
+  '-XNP3DSTFnmHboSKAAAD': '1ca3a65d-9151-4d05-a611-e1eb8e78a039'
+}
+User connected with ID: 1ca3a65d-9151-4d05-a611-e1eb8e78a039
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ r6mPMhA5DoJ5NSPMAAAB: 'e4b82aba-cff7-430e-87c3-459f7be48157' }
+User connected with ID: e4b82aba-cff7-430e-87c3-459f7be48157
+{
+  r6mPMhA5DoJ5NSPMAAAB: 'e4b82aba-cff7-430e-87c3-459f7be48157',
+  'UXAj_cz-mnXqX1lyAAAD': '48cbdd82-d4af-4f54-b941-4fcf7e762338'
+}
+User connected with ID: 48cbdd82-d4af-4f54-b941-4fcf7e762338
+{
+  r6mPMhA5DoJ5NSPMAAAB: 'e4b82aba-cff7-430e-87c3-459f7be48157',
+  'UXAj_cz-mnXqX1lyAAAD': '48cbdd82-d4af-4f54-b941-4fcf7e762338',
+  WXk5SmQjxDGD2BBRAAAF: '1cd96184-570e-4cbb-b091-beea414dcf4e'
+}
+User connected with ID: 1cd96184-570e-4cbb-b091-beea414dcf4e
+User with ID e4b82aba-cff7-430e-87c3-459f7be48157 disconnected
+{
+  'UXAj_cz-mnXqX1lyAAAD': '48cbdd82-d4af-4f54-b941-4fcf7e762338',
+  WXk5SmQjxDGD2BBRAAAF: '1cd96184-570e-4cbb-b091-beea414dcf4e',
+  qv3XTinSduBTDdNNAAAH: 'fe3d529c-9109-441c-b446-a77cae0d1fc4'
+}
+User connected with ID: fe3d529c-9109-441c-b446-a77cae0d1fc4
+createParty Entry
+roomName room1
+fe3d529c-9109-441c-b446-a77cae0d1fc4 has joined the room1
+socket.rooms Set(2) { 'qv3XTinSduBTDdNNAAAH', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+leaveParty Entry
+room1
+before Set(2) { 'qv3XTinSduBTDdNNAAAH', 'room1' }
+undefined
+after Set(1) { 'qv3XTinSduBTDdNNAAAH' }
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/socketController.js:91
+            console.log(socket.rooms].length);
+                               ^^^^^
+
+SyntaxError: missing ) after argument list
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ YQj__5sItFWVXNvgAAAB: '839f0b2b-13b3-44b5-8732-d553bf7ee906' }
+User connected with ID: 839f0b2b-13b3-44b5-8732-d553bf7ee906
+{
+  YQj__5sItFWVXNvgAAAB: '839f0b2b-13b3-44b5-8732-d553bf7ee906',
+  EqrTiAReTczTLklyAAAD: '045663eb-5a70-429c-8ddf-1fcfc01d793a'
+}
+User connected with ID: 045663eb-5a70-429c-8ddf-1fcfc01d793a
+createParty Entry
+roomName room1
+045663eb-5a70-429c-8ddf-1fcfc01d793a has joined the room1
+socket.rooms Set(2) { 'EqrTiAReTczTLklyAAAD', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+{
+  YQj__5sItFWVXNvgAAAB: '839f0b2b-13b3-44b5-8732-d553bf7ee906',
+  EqrTiAReTczTLklyAAAD: '045663eb-5a70-429c-8ddf-1fcfc01d793a',
+  '-gGMKkrHYbCbwW9dAAAF': '09769a7f-6271-45a8-8951-dbc654b114fe'
+}
+User connected with ID: 09769a7f-6271-45a8-8951-dbc654b114fe
+leaveParty Entry
+room1
+before Set(2) { 'EqrTiAReTczTLklyAAAD', 'room1' }
+1
+after Set(1) { 'EqrTiAReTczTLklyAAAD' }
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/socketController.js:92
+            if ([socket.rooms.length === 1) {
+                                          ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ eArd5EkAW5OLW4SqAAAB: '78842d58-51ab-4e94-881d-693854da7b87' }
+User connected with ID: 78842d58-51ab-4e94-881d-693854da7b87
+{
+  eArd5EkAW5OLW4SqAAAB: '78842d58-51ab-4e94-881d-693854da7b87',
+  KulFlh5hKK9QOGuJAAAD: '7e18022e-7d1e-4de2-84a3-1df2bee22eb9'
+}
+User connected with ID: 7e18022e-7d1e-4de2-84a3-1df2bee22eb9
+{
+  eArd5EkAW5OLW4SqAAAB: '78842d58-51ab-4e94-881d-693854da7b87',
+  KulFlh5hKK9QOGuJAAAD: '7e18022e-7d1e-4de2-84a3-1df2bee22eb9',
+  EPy31tDv8zzWkYUgAAAF: '197a51f6-2cdd-47a9-b968-7438bc9c52e5'
+}
+User connected with ID: 197a51f6-2cdd-47a9-b968-7438bc9c52e5
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/socketController.js:92
+            if ([...socket.rooms.length === 1) {
+                                             ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ pyBjid6XEsSUhU0RAAAB: '377f8b43-4d46-4867-8da8-7bdbf7c02a3a' }
+User connected with ID: 377f8b43-4d46-4867-8da8-7bdbf7c02a3a
+{
+  pyBjid6XEsSUhU0RAAAB: '377f8b43-4d46-4867-8da8-7bdbf7c02a3a',
+  rF91ls7ETLsM8n3ZAAAD: '682f3490-2f1b-4bcb-aebb-371c0a2d2eb7'
+}
+User connected with ID: 682f3490-2f1b-4bcb-aebb-371c0a2d2eb7
+{
+  pyBjid6XEsSUhU0RAAAB: '377f8b43-4d46-4867-8da8-7bdbf7c02a3a',
+  rF91ls7ETLsM8n3ZAAAD: '682f3490-2f1b-4bcb-aebb-371c0a2d2eb7',
+  'ObKGsSf-Kx3CnARqAAAF': '88117189-0456-41b0-b639-177553601cdd'
+}
+User connected with ID: 88117189-0456-41b0-b639-177553601cdd
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ blXsJHj949V3CFVXAAAB: 'b7783b77-a540-4778-a913-3e2070bac010' }
+User connected with ID: b7783b77-a540-4778-a913-3e2070bac010
+{
+  blXsJHj949V3CFVXAAAB: 'b7783b77-a540-4778-a913-3e2070bac010',
+  'BKuXVejQV-wKEDSMAAAD': 'd65b2517-ab5b-4bc7-b85f-75f326e54146'
+}
+User connected with ID: d65b2517-ab5b-4bc7-b85f-75f326e54146
+{
+  blXsJHj949V3CFVXAAAB: 'b7783b77-a540-4778-a913-3e2070bac010',
+  'BKuXVejQV-wKEDSMAAAD': 'd65b2517-ab5b-4bc7-b85f-75f326e54146',
+  '9jtUFkiUAV38DvuDAAAF': 'c358b900-26d2-44a4-8865-48f1706807cd'
+}
+User connected with ID: c358b900-26d2-44a4-8865-48f1706807cd
+User with ID d65b2517-ab5b-4bc7-b85f-75f326e54146 disconnected
+{
+  blXsJHj949V3CFVXAAAB: 'b7783b77-a540-4778-a913-3e2070bac010',
+  '9jtUFkiUAV38DvuDAAAF': 'c358b900-26d2-44a4-8865-48f1706807cd',
+  'MLEmbqjD4d-2IhZMAAAH': '2cc34579-a614-42ae-ba21-a0865b940364'
+}
+User connected with ID: 2cc34579-a614-42ae-ba21-a0865b940364
+createParty Entry
+roomName room1
+2cc34579-a614-42ae-ba21-a0865b940364 has joined the room1
+socket.rooms Set(2) { 'MLEmbqjD4d-2IhZMAAAH', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+leaveParty Entry
+room1
+before Set(2) { 'MLEmbqjD4d-2IhZMAAAH', 'room1' }
+after Set(2) { 'MLEmbqjD4d-2IhZMAAAH', 'defaultRoom' }
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ 'ZEy-dIpb2WVLCBuLAAAB': '0b0b9b44-9b82-44c7-85a2-d042dc018582' }
+User connected with ID: 0b0b9b44-9b82-44c7-85a2-d042dc018582
+{
+  'ZEy-dIpb2WVLCBuLAAAB': '0b0b9b44-9b82-44c7-85a2-d042dc018582',
+  lXsVhWNwLOrKEIOgAAAD: '49feed1a-db84-4113-93a2-79157792a6ef'
+}
+User connected with ID: 49feed1a-db84-4113-93a2-79157792a6ef
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ R3JximkUrYiuPxzoAAAB: 'c9e51bd3-c089-4c1d-8430-51356ef3a571' }
+User connected with ID: c9e51bd3-c089-4c1d-8430-51356ef3a571
+{
+  R3JximkUrYiuPxzoAAAB: 'c9e51bd3-c089-4c1d-8430-51356ef3a571',
+  M4IS2HcZ_H7_PPm1AAAD: '41f90165-2c2b-49ba-a608-5029699e81c4'
+}
+User connected with ID: 41f90165-2c2b-49ba-a608-5029699e81c4
+{
+  R3JximkUrYiuPxzoAAAB: 'c9e51bd3-c089-4c1d-8430-51356ef3a571',
+  M4IS2HcZ_H7_PPm1AAAD: '41f90165-2c2b-49ba-a608-5029699e81c4',
+  m9VQESoJ2eQW2oxvAAAF: 'b736c649-a5e9-44ae-99b3-45f8cdfc4a20'
+}
+User connected with ID: b736c649-a5e9-44ae-99b3-45f8cdfc4a20
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ heCBxFTIDZBZfzumAAAB: 'b5949ec9-ad1d-4e43-8040-dacb69780f0a' }
+User connected with ID: b5949ec9-ad1d-4e43-8040-dacb69780f0a
+{
+  heCBxFTIDZBZfzumAAAB: 'b5949ec9-ad1d-4e43-8040-dacb69780f0a',
+  '2J60fxz7qTagP0aIAAAD': '2b2d179b-5a2b-4c5c-bcda-6d47423ca947'
+}
+User connected with ID: 2b2d179b-5a2b-4c5c-bcda-6d47423ca947
+{
+  heCBxFTIDZBZfzumAAAB: 'b5949ec9-ad1d-4e43-8040-dacb69780f0a',
+  '2J60fxz7qTagP0aIAAAD': '2b2d179b-5a2b-4c5c-bcda-6d47423ca947',
+  '3SLJMc1Y69pWMytnAAAF': 'f9e4c445-c7ec-4c4e-acc3-582107158cee'
+}
+User connected with ID: f9e4c445-c7ec-4c4e-acc3-582107158cee
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ n7EvyHKAEch8m_cAAAAB: '72e14216-f9d8-4729-b73e-e3e2cbdb73a4' }
+User connected with ID: 72e14216-f9d8-4729-b73e-e3e2cbdb73a4
+{
+  n7EvyHKAEch8m_cAAAAB: '72e14216-f9d8-4729-b73e-e3e2cbdb73a4',
+  Yp4gZLQXFJyWMHJzAAAD: '25de0fed-e206-405d-989c-70cad665baf0'
+}
+User connected with ID: 25de0fed-e206-405d-989c-70cad665baf0
+{
+  n7EvyHKAEch8m_cAAAAB: '72e14216-f9d8-4729-b73e-e3e2cbdb73a4',
+  Yp4gZLQXFJyWMHJzAAAD: '25de0fed-e206-405d-989c-70cad665baf0',
+  'yrXvKrdzs-AZGlXkAAAF': 'f09eaf68-e579-4c56-a298-1244b9aa4958'
+}
+User connected with ID: f09eaf68-e579-4c56-a298-1244b9aa4958
+createParty Entry
+roomName room1
+72e14216-f9d8-4729-b73e-e3e2cbdb73a4 has joined the room1
+socket.rooms Set(2) { 'n7EvyHKAEch8m_cAAAAB', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+createParty Entry
+roomName room2
+72e14216-f9d8-4729-b73e-e3e2cbdb73a4 has joined the room2
+socket.rooms Set(3) { 'n7EvyHKAEch8m_cAAAAB', 'room1', 'room2' }
+roomsList [ 'defaultRoom', 'room1', 'room2' ]
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ FwM3hkp4I12a9TxFAAAB: 'abdcfda0-727e-4ecd-9803-4c87ec76b275' }
+User connected with ID: abdcfda0-727e-4ecd-9803-4c87ec76b275
+{
+  FwM3hkp4I12a9TxFAAAB: 'abdcfda0-727e-4ecd-9803-4c87ec76b275',
+  KhfaHkRWrCfZGjaMAAAD: 'e874fa21-52b2-4019-960a-dde11dc49cd8'
+}
+User connected with ID: e874fa21-52b2-4019-960a-dde11dc49cd8
+{
+  FwM3hkp4I12a9TxFAAAB: 'abdcfda0-727e-4ecd-9803-4c87ec76b275',
+  KhfaHkRWrCfZGjaMAAAD: 'e874fa21-52b2-4019-960a-dde11dc49cd8',
+  'qW-MbYy1sDPDx5PRAAAF': '4b9a9727-5d4d-4dd5-a3b8-8131623d0861'
+}
+User connected with ID: 4b9a9727-5d4d-4dd5-a3b8-8131623d0861
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/socketController.js:53
+            if(socket.)
+                      ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ 'J3Ou7BIMD5lMvqx-AAAB': 'dccee1c2-bc05-4c5e-bf1a-9c08034a0b35' }
+User connected with ID: dccee1c2-bc05-4c5e-bf1a-9c08034a0b35
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ M9LZnZ7Z91YGvZcLAAAB: 'f508354b-b937-4d2a-bc11-41401076b321' }
+User connected with ID: f508354b-b937-4d2a-bc11-41401076b321
+{
+  M9LZnZ7Z91YGvZcLAAAB: 'f508354b-b937-4d2a-bc11-41401076b321',
+  c9J3xmsNlN0uUKX1AAAD: '87ba51eb-343e-4887-b45e-3c7882722c39'
+}
+User connected with ID: 87ba51eb-343e-4887-b45e-3c7882722c39
+{
+  M9LZnZ7Z91YGvZcLAAAB: 'f508354b-b937-4d2a-bc11-41401076b321',
+  c9J3xmsNlN0uUKX1AAAD: '87ba51eb-343e-4887-b45e-3c7882722c39',
+  '-IsA8J53eKqruFAOAAAF': 'e7737ce3-d8d0-4d3e-a1e1-b8d6fac3682a'
+}
+User connected with ID: e7737ce3-d8d0-4d3e-a1e1-b8d6fac3682a
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ JTBYfBQQlFPm_hwuAAAB: '7a014a52-fbfc-4264-8e85-03afafc7ed1d' }
+User connected with ID: 7a014a52-fbfc-4264-8e85-03afafc7ed1d
+{
+  JTBYfBQQlFPm_hwuAAAB: '7a014a52-fbfc-4264-8e85-03afafc7ed1d',
+  vvb_JRbL5t3gPzQvAAAD: 'adb6898a-83d8-4851-9456-bc5e2f4e7391'
+}
+User connected with ID: adb6898a-83d8-4851-9456-bc5e2f4e7391
+{
+  JTBYfBQQlFPm_hwuAAAB: '7a014a52-fbfc-4264-8e85-03afafc7ed1d',
+  vvb_JRbL5t3gPzQvAAAD: 'adb6898a-83d8-4851-9456-bc5e2f4e7391',
+  UCguX4AdzoiLmmCLAAAF: '3a3f4c3f-8587-417e-96a1-f8ba1c2978dc'
+}
+User connected with ID: 3a3f4c3f-8587-417e-96a1-f8ba1c2978dc
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/socketController.js:64
+        })
+         ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ ybyqbgXYrWJvyRqXAAAB: '5bef0ce9-85a3-478b-9535-e7bb8a273412' }
+User connected with ID: 5bef0ce9-85a3-478b-9535-e7bb8a273412
+{
+  ybyqbgXYrWJvyRqXAAAB: '5bef0ce9-85a3-478b-9535-e7bb8a273412',
+  GrToRxXgjBMtbqOcAAAD: '390c6c2a-5e46-4851-b7e3-41eb8e051081'
+}
+User connected with ID: 390c6c2a-5e46-4851-b7e3-41eb8e051081
+{
+  ybyqbgXYrWJvyRqXAAAB: '5bef0ce9-85a3-478b-9535-e7bb8a273412',
+  GrToRxXgjBMtbqOcAAAD: '390c6c2a-5e46-4851-b7e3-41eb8e051081',
+  j2b6c3IAAWn7yfgxAAAF: '9191935a-7f9e-42d9-b342-ea630ceb08af'
+}
+User connected with ID: 9191935a-7f9e-42d9-b342-ea630ceb08af
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ VGvCl6dqsC43Sbd1AAAB: '64463313-4f59-4a3d-8ea9-3c3ffba682c0' }
+User connected with ID: 64463313-4f59-4a3d-8ea9-3c3ffba682c0
+{
+  VGvCl6dqsC43Sbd1AAAB: '64463313-4f59-4a3d-8ea9-3c3ffba682c0',
+  'qpk341NTd5i1x-ciAAAD': 'c7e77b27-f011-4cb1-a6b4-dfb7ad60b9d4'
+}
+User connected with ID: c7e77b27-f011-4cb1-a6b4-dfb7ad60b9d4
+{
+  VGvCl6dqsC43Sbd1AAAB: '64463313-4f59-4a3d-8ea9-3c3ffba682c0',
+  'qpk341NTd5i1x-ciAAAD': 'c7e77b27-f011-4cb1-a6b4-dfb7ad60b9d4',
+  UAgACngcZw86Mk0tAAAF: 'b79fc1ff-1386-475f-aa11-f0b4824bdac4'
+}
+User connected with ID: b79fc1ff-1386-475f-aa11-f0b4824bdac4
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ 'r7P5OCBzlgM5-2VoAAAB': '31fa4b6a-a374-46f1-9708-c86c571f228c' }
+User connected with ID: 31fa4b6a-a374-46f1-9708-c86c571f228c
+{
+  'r7P5OCBzlgM5-2VoAAAB': '31fa4b6a-a374-46f1-9708-c86c571f228c',
+  wtvNjVfXZVhWzfeuAAAD: '60bbcbfb-b9e7-43d4-8c0a-02d3a0dfb7f0'
+}
+User connected with ID: 60bbcbfb-b9e7-43d4-8c0a-02d3a0dfb7f0
+{
+  'r7P5OCBzlgM5-2VoAAAB': '31fa4b6a-a374-46f1-9708-c86c571f228c',
+  wtvNjVfXZVhWzfeuAAAD: '60bbcbfb-b9e7-43d4-8c0a-02d3a0dfb7f0',
+  jnUTcxRdvmezM0nHAAAF: '8b534c28-262c-4191-93f2-a59d16e54b29'
+}
+User connected with ID: 8b534c28-262c-4191-93f2-a59d16e54b29
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node index.js`[39m
+Server running at http://localhost:3001
+{ '-qXOOVwg3LBzpNP6AAAB': '066d5be8-af2f-47d8-b179-4e644155fb72' }
+User connected with ID: 066d5be8-af2f-47d8-b179-4e644155fb72
+{
+  '-qXOOVwg3LBzpNP6AAAB': '066d5be8-af2f-47d8-b179-4e644155fb72',
+  'JGRdEh-yEWJot1JUAAAD': '611fe43b-375f-4646-872d-d0c6516ca42b'
+}
+User connected with ID: 611fe43b-375f-4646-872d-d0c6516ca42b
+{
+  '-qXOOVwg3LBzpNP6AAAB': '066d5be8-af2f-47d8-b179-4e644155fb72',
+  'JGRdEh-yEWJot1JUAAAD': '611fe43b-375f-4646-872d-d0c6516ca42b',
+  ST6uUPZ4ZFTiMNzwAAAF: '000dad5e-92e0-41b3-a7f4-d4250ad2705a'
+}
+User connected with ID: 000dad5e-92e0-41b3-a7f4-d4250ad2705a
