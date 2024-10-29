@@ -3,8 +3,8 @@
 	"version": "0.1.0",
 	"type": "module",
 	"scripts": {
-		"devlog": "nodemon index.js > app.log 2>&1",
-		"dev": "node index.js"
+		"devlog": "nodemon ./src/index.js > app.log 2>&1",
+		"dev": "node ./src/index.js"
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
