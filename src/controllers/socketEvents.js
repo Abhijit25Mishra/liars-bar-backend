@@ -1,9 +1,12 @@
 // socketEvents.js
 import { v4 as uuidv4 } from 'uuid';
+import { setupRoomEvents } from './roomEvents.js';
 
 const users = {}; // Keep users in a module-level variable
 const defaultRoom = 'defaultRoom' ;
 const roomsList = [defaultRoom];
+const roomPassword = new Map();
+
 
 export const socketController = (io) => {
     io.on('connection', (socket) => {
@@ -45,7 +48,9 @@ export const socketController = (io) => {
 
         });
 
+        setupRoomEvents(io, socket);
 
+/*
         socket.on('createParty', () => {
             console.log('createParty Entry');
             const roomName = `room${Object.keys(roomsList).length}`;
@@ -101,10 +106,11 @@ export const socketController = (io) => {
                 socket.join(defaultRoom);
                 io.to(socket.id).emit('leaveParty');
             }
+            clearEmptyRooms(roomName);
             console.log('after',socket.rooms);
             console.log('leaveParty Exit');
         })
-
+*/
         socket.on('disconnect', () => {
             console.log(`User with ID ${users[socket.id]} disconnected`);
             delete users[socket.id];
