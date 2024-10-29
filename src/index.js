@@ -3,6 +3,7 @@ import cors from 'cors';
 import { createServer } from 'node:http';
 import { Server } from 'socket.io';
 import { socketController } from './controllers/socketEvents.js';
+import { setIo } from './config/global.js';
 
 const app = express();
 const server = createServer(app);
@@ -17,6 +18,8 @@ const io = new Server(server, {
     transports: ['websocket', 'polling']  // Enable WebSocket and polling
 });
 
+setIo(io);
+
 app.use(cors({
     origin: 'http://localhost:3000',  // Allow the frontend domain
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],  // Allow HTTP methods
@@ -25,7 +28,7 @@ app.use(cors({
 }));
 app.options('*', cors());  // Handle preflight requests
 
-socketController(io);
+socketController();
 
 server.listen(3001, () => {
     console.log('Server running at http://localhost:3001');
