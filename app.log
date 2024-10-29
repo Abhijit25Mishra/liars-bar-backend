@@ -2,49 +2,108 @@
 [33m[nodemon] to restart at any time, enter `rs`[39m
 [33m[nodemon] watching path(s): *.*[39m
 [33m[nodemon] watching extensions: js,mjs,cjs,json[39m
-[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+node:internal/modules/esm/resolve:854
+  throw new ERR_MODULE_NOT_FOUND(packageName, fileURLToPath(base), null);
+        ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@config/global.js' imported from /Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/src/controllers/roomEvents.js
+    at packageResolve (node:internal/modules/esm/resolve:854:9)
+    at moduleResolve (node:internal/modules/esm/resolve:927:18)
+    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:542:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:510:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
+    at link (node:internal/modules/esm/module_job:95:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
 Server running at http://localhost:3001
-{ 'nXS-HmRks9nh039yAAAB': 'c8aa4a3a-a0e9-40c4-809a-eb002abbdc23' }
-User connected with ID: c8aa4a3a-a0e9-40c4-809a-eb002abbdc23
-{
-  'nXS-HmRks9nh039yAAAB': 'c8aa4a3a-a0e9-40c4-809a-eb002abbdc23',
-  LIWE1TYsrMHvhBkzAAAD: '6bf67b4c-488b-46f3-9210-27865b1c469b'
-}
-User connected with ID: 6bf67b4c-488b-46f3-9210-27865b1c469b
-{
-  'nXS-HmRks9nh039yAAAB': 'c8aa4a3a-a0e9-40c4-809a-eb002abbdc23',
-  LIWE1TYsrMHvhBkzAAAD: '6bf67b4c-488b-46f3-9210-27865b1c469b',
-  f6YIYZZDph7Ezm6NAAAF: 'ad1dadd0-e916-4214-a275-2366973b0e63'
-}
-User connected with ID: ad1dadd0-e916-4214-a275-2366973b0e63
-User with ID c8aa4a3a-a0e9-40c4-809a-eb002abbdc23 disconnected
-{
-  LIWE1TYsrMHvhBkzAAAD: '6bf67b4c-488b-46f3-9210-27865b1c469b',
-  f6YIYZZDph7Ezm6NAAAF: 'ad1dadd0-e916-4214-a275-2366973b0e63',
-  IkZJAzWBN2YJH6bSAAAH: 'e3151e41-ac1f-4ea5-86c8-238564488381'
-}
-User connected with ID: e3151e41-ac1f-4ea5-86c8-238564488381
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'LOVmb4ItbKU48-v0AAAB': 'fe43a2ec-a57f-490e-a64e-f08a519a9722' }
+User connected with ID: fe43a2ec-a57f-490e-a64e-f08a519a9722
+chatMessage Entry
+inside chatMessage Set(2) { 'LOVmb4ItbKU48-v0AAAB', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom fe43a2ec-a57f-490e-a64e-f08a519a9722 said: hi
+fe43a2ec-a57f-490e-a64e-f08a519a9722 said: hi
+chatMessage Exit
 changeName Entry
-{
-  LIWE1TYsrMHvhBkzAAAD: '6bf67b4c-488b-46f3-9210-27865b1c469b',
-  f6YIYZZDph7Ezm6NAAAF: 'ad1dadd0-e916-4214-a275-2366973b0e63',
-  IkZJAzWBN2YJH6bSAAAH: 'Abhi'
-}
+{ 'LOVmb4ItbKU48-v0AAAB': 'Avhi' }
 changeName Exit
 chatMessage Entry
-inside chatMessage Set(2) { 'IkZJAzWBN2YJH6bSAAAH', 'defaultRoom' }
+inside chatMessage Set(2) { 'LOVmb4ItbKU48-v0AAAB', 'defaultRoom' }
 [ 'defaultRoom' ]
-emiited to room  defaultRoom Abhi said: hi
-Abhi said: hi
+emiited to room  defaultRoom Avhi said: hi
+Avhi said: hi
 chatMessage Exit
+changeName Entry
+{ 'LOVmb4ItbKU48-v0AAAB': 'Abhijit' }
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'LOVmb4ItbKU48-v0AAAB', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom Abhijit said: hi
+Abhijit said: hi
+chatMessage Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '6hK87hRUydTdqa2dAAAB': '316ca6aa-8d3c-4135-b810-92b3ff6d586b' }
+User connected with ID: 316ca6aa-8d3c-4135-b810-92b3ff6d586b
+User with ID 316ca6aa-8d3c-4135-b810-92b3ff6d586b disconnected
+{ iVnp36qYTrRHETIGAAAD: '2facb23c-b807-406f-ac1c-9494d72fc82c' }
+User connected with ID: 2facb23c-b807-406f-ac1c-9494d72fc82c
+User with ID 2facb23c-b807-406f-ac1c-9494d72fc82c disconnected
+{ w3eQPuGE8b2Yvb34AAAG: '83dcd913-d951-491a-9d3c-cb0ec13fcd80' }
+User connected with ID: 83dcd913-d951-491a-9d3c-cb0ec13fcd80
+changeName Entry
+{ w3eQPuGE8b2Yvb34AAAG: 'Abhijit' }
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'w3eQPuGE8b2Yvb34AAAG', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom Abhijit said: Hi
+Abhijit said: Hi
+chatMessage Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ XtDGI2tLXWDza2_PAAAB: '0c9fff4e-705a-4b03-9d6a-50cfb55c10c1' }
+User connected with ID: 0c9fff4e-705a-4b03-9d6a-50cfb55c10c1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ EHj6minClVYsZrEvAAAB: '2395b773-758c-4f82-b536-f088690ae7ba' }
+User connected with ID: 2395b773-758c-4f82-b536-f088690ae7ba
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ mnyU_iLXijz2zRqqAAAB: '7e6c489b-d7f2-4e67-973c-c64242b56ca9' }
+User connected with ID: 7e6c489b-d7f2-4e67-973c-c64242b56ca9
 createParty Entry
 roomName room1
-file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/roomEvents.js:13
-            const joinMessage = `${users[socket.id]} has joined the ${roomName}`;
-                                ^
+undefined has joined the room1
+socket.rooms Set(2) { 'mnyU_iLXijz2zRqqAAAB', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+joinParty Entry
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:35
+        if (socket.rooms.size === 2 && [...socket.rooms].contain(defaultRoom)) {
+                                                         ^
 
-ReferenceError: users is not defined
-    at Socket.<anonymous> (file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/roomEvents.js:13:33)
+TypeError: [(...socket.rooms)].contain is not a function
+    at Socket.<anonymous> (file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:35:58)
     at Socket.emit (node:events:519:28)
     at Socket.emitUntyped (/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/typed-events.js:69:22)
     at /Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/socket.js:697:39
@@ -53,110 +112,1492 @@ ReferenceError: users is not defined
 Node.js v20.18.0
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
 [32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node index.js`[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
 Server running at http://localhost:3001
-{ '4QEw7dusBOqaZWPzAAAB': '22aaa648-b53d-49d7-9949-81dfc62f1a6d' }
-User connected with ID: 22aaa648-b53d-49d7-9949-81dfc62f1a6d
-{
-  '4QEw7dusBOqaZWPzAAAB': '22aaa648-b53d-49d7-9949-81dfc62f1a6d',
-  Cm8GyaNXXZPsDd5uAAAD: 'fac56383-8827-4463-9952-248e4a3da2ac'
-}
-User connected with ID: fac56383-8827-4463-9952-248e4a3da2ac
-{
-  '4QEw7dusBOqaZWPzAAAB': '22aaa648-b53d-49d7-9949-81dfc62f1a6d',
-  Cm8GyaNXXZPsDd5uAAAD: 'fac56383-8827-4463-9952-248e4a3da2ac',
-  '0XDT0UrDRZuuo0gjAAAF': '18ebfd15-9fe0-43ed-8e49-6ad4c905fcde'
-}
-User connected with ID: 18ebfd15-9fe0-43ed-8e49-6ad4c905fcde
 [32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
 [32m[nodemon] restarting due to changes...[39m
+Server running at http://localhost:3001
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
 [32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
 [32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node index.js`[39m
-node:internal/modules/esm/resolve:265
-    throw new ERR_MODULE_NOT_FOUND(
-          ^
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:45
+            const notfication = {'already in a room';
+                                                    ^
 
-Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/controllers/socketEvents.js' imported from /Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/index.js
-    at finalizeResolution (node:internal/modules/esm/resolve:265:11)
-    at moduleResolve (node:internal/modules/esm/resolve:933:10)
-    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
-    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:542:12)
-    at ModuleLoader.resolve (node:internal/modules/esm/loader:510:25)
-    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
-    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
-    at link (node:internal/modules/esm/module_job:95:36) {
-  code: 'ERR_MODULE_NOT_FOUND',
-  url: 'file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/controllers/socketEvents.js'
-}
+SyntaxError: Unexpected token ';'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
 
 Node.js v20.18.0
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
 [32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node index.js`[39m
-Server running at http://localhost:3001
-{ Qrz7mi_vqn6LLonYAAAB: '3b49e968-7fe0-4644-9b4f-5ec74a705d69' }
-User connected with ID: 3b49e968-7fe0-4644-9b4f-5ec74a705d69
-{
-  Qrz7mi_vqn6LLonYAAAB: '3b49e968-7fe0-4644-9b4f-5ec74a705d69',
-  hGMgaNXmcYgnkzrPAAAD: '5fe19063-1bb5-4903-8d45-d125a4365290'
-}
-User connected with ID: 5fe19063-1bb5-4903-8d45-d125a4365290
-{
-  Qrz7mi_vqn6LLonYAAAB: '3b49e968-7fe0-4644-9b4f-5ec74a705d69',
-  hGMgaNXmcYgnkzrPAAAD: '5fe19063-1bb5-4903-8d45-d125a4365290',
-  MZqcIhj_OpRzlNf2AAAF: '4e365722-f839-4d4a-8047-9b504ae5aa2a'
-}
-User connected with ID: 4e365722-f839-4d4a-8047-9b504ae5aa2a
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node index.js`[39m
-Server running at http://localhost:3001
-{ 'MgcZkJxzEbO2t-vGAAAB': '88a16019-8fad-4440-968a-54c7a184fda8' }
-User connected with ID: 88a16019-8fad-4440-968a-54c7a184fda8
-{
-  'MgcZkJxzEbO2t-vGAAAB': '88a16019-8fad-4440-968a-54c7a184fda8',
-  u4sNotlHFyEyd17lAAAD: '22a25fce-77b6-4984-90d9-987c84ffd1ec'
-}
-User connected with ID: 22a25fce-77b6-4984-90d9-987c84ffd1ec
-{
-  'MgcZkJxzEbO2t-vGAAAB': '88a16019-8fad-4440-968a-54c7a184fda8',
-  u4sNotlHFyEyd17lAAAD: '22a25fce-77b6-4984-90d9-987c84ffd1ec',
-  CMYaPtH0tRRDnhmAAAAF: '902f2c64-b251-4f4d-9938-4ad38b4b31f0'
-}
-User connected with ID: 902f2c64-b251-4f4d-9938-4ad38b4b31f0
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node index.js`[39m
-node:internal/modules/cjs/loader:1228
-  throw err;
-  ^
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:45
+            const notfication = { 'already in a room'};
+                                  ^^^^^^^^^^^^^^^^^^^
 
-Error: Cannot find module '/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/index.js'
-    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
-    at Module._load (node:internal/modules/cjs/loader:1051:27)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
-    at node:internal/main/run_main_module:28:49 {
-  code: 'MODULE_NOT_FOUND',
-  requireStack: []
-}
+SyntaxError: Unexpected string
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
 
 Node.js v20.18.0
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
 [32m[nodemon] restarting due to changes...[39m
-[32m[nodemon] starting `node index.js`[39m
-node:internal/modules/cjs/loader:1228
-  throw err;
-  ^
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:46
+                'already in a room'};
+                ^^^^^^^^^^^^^^^^^^^
 
-Error: Cannot find module '/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/index.js'
-    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
-    at Module._load (node:internal/modules/cjs/loader:1051:27)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
-    at node:internal/main/run_main_module:28:49 {
-  code: 'MODULE_NOT_FOUND',
-  requireStack: []
-}
+SyntaxError: Unexpected string
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
 
 Node.js v20.18.0
 [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:46
+                'already in a room'
+                ^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:46
+                'already in a room'};
+                ^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ NEmnQwi9Ijl6oMbpAAAB: 'acee3be3-7a39-495f-8c22-9bc6d20644a8' }
+User connected with ID: acee3be3-7a39-495f-8c22-9bc6d20644a8
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ LSBfa4KH0B2WJuWWAAAB: 'f7222ecf-e0bd-47e1-a667-731d820b25e1' }
+User connected with ID: f7222ecf-e0bd-47e1-a667-731d820b25e1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ VW9cJyTGUhiLa6arAAAB: 'e0d8b8dd-f100-46b9-86a9-398c7bb927a1' }
+User connected with ID: e0d8b8dd-f100-46b9-86a9-398c7bb927a1
+chatMessage Entry
+inside chatMessage Set(2) { 'VW9cJyTGUhiLa6arAAAB', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom e0d8b8dd-f100-46b9-86a9-398c7bb927a1 said: hi
+e0d8b8dd-f100-46b9-86a9-398c7bb927a1 said: hi
+chatMessage Exit
+User with ID e0d8b8dd-f100-46b9-86a9-398c7bb927a1 disconnected
+{ '2jFYbCIPyeQ2I39WAAAD': '85f2407e-4483-4635-84bf-eb14ca849944' }
+User connected with ID: 85f2407e-4483-4635-84bf-eb14ca849944
+createParty Entry
+roomName room1
+undefined has joined the room1
+socket.rooms Set(2) { '2jFYbCIPyeQ2I39WAAAD', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+joinParty Entry
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:35
+        if (socket.rooms.size === 2 && [...socket.rooms].contain(defaultRoom)) {
+                                                         ^
+
+TypeError: [(...socket.rooms)].contain is not a function
+    at Socket.<anonymous> (file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:35:58)
+    at Socket.emit (node:events:519:28)
+    at Socket.emitUntyped (/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/socket.js:697:39
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ kC3OqNnGBl65zkKkAAAB: '7aca41dc-71a5-4a1f-ab65-581bcabb383f' }
+User connected with ID: 7aca41dc-71a5-4a1f-ab65-581bcabb383f
+changeName Entry
+{ kC3OqNnGBl65zkKkAAAB: 'abc' }
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'kC3OqNnGBl65zkKkAAAB', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom abc said: hi
+abc said: hi
+chatMessage Exit
+createParty Entry
+roomName room1
+undefined has joined the room1
+socket.rooms Set(2) { 'kC3OqNnGBl65zkKkAAAB', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '7QiQbwh-rf74o3M_AAAB': '8b072c16-6573-4c3f-97ee-fe3b5a5d4ad3' }
+User connected with ID: 8b072c16-6573-4c3f-97ee-fe3b5a5d4ad3
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/socketEvents.js:14
+        users[socket.id] = userId;  // Track connected user by socket ID
+        ^
+
+ReferenceError: users is not defined
+    at Namespace.<anonymous> (file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/socketEvents.js:14:9)
+    at Namespace.emit (node:events:519:28)
+    at Namespace.emitReserved (/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/typed-events.js:56:22)
+    at Namespace._doConnect (/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/namespace.js:276:14)
+    at /Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/namespace.js:238:22
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'dxYvIdvu-3Nxg78aAAAB': '888f9114-2929-4c1c-9aa9-b1f51b137830' }
+User connected with ID: 888f9114-2929-4c1c-9aa9-b1f51b137830
+User with ID 888f9114-2929-4c1c-9aa9-b1f51b137830 disconnected
+{ GKfaihDZyM9XVHioAAAD: '9b46006a-54cc-4bb2-984e-f39c40a52e9b' }
+User connected with ID: 9b46006a-54cc-4bb2-984e-f39c40a52e9b
+changeName Entry
+{ GKfaihDZyM9XVHioAAAD: 'abcxd' }
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'GKfaihDZyM9XVHioAAAD', 'defaultRoom' }
+[ 'defaultRoom' ]
+emiited to room  defaultRoom abcxd said: hi
+abcxd said: hi
+chatMessage Exit
+createParty Entry
+roomName room1
+abcxd has joined the room1
+socket.rooms Set(2) { 'GKfaihDZyM9XVHioAAAD', 'room1' }
+roomsList [ 'defaultRoom', 'room1' ]
+createParty Exit
+joinParty Entry
+already in a room
+chatMessage Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ t3z5oCmNIBTP2356AAAB: '57c82932-22a4-4954-a8ee-32be7baee721' }
+User connected with ID: 57c82932-22a4-4954-a8ee-32be7baee721
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ kTOQH0C9Fb_gPG0yAAAB: 'a5131c67-568e-44e6-abe1-db18e2eed039' }
+User connected with ID: a5131c67-568e-44e6-abe1-db18e2eed039
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/socketEvents.js:14
+        socket.join(defaultRoom);
+                    ^
+
+ReferenceError: defaultRoom is not defined
+    at Namespace.<anonymous> (file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/socketEvents.js:14:21)
+    at Namespace.emit (node:events:519:28)
+    at Namespace.emitReserved (/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/typed-events.js:56:22)
+    at Namespace._doConnect (/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/namespace.js:276:14)
+    at /Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/namespace.js:238:22
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/socketEvents.js:4
+import { io, users, const defaultRoom = 'defaultRoom' ;
+                    ^^^^^
+
+SyntaxError: Unexpected reserved word
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/socketEvents.js:4
+import { io, users, defaultRoom } from '../config/global.js';
+                    ^^^^^^^^^^^
+SyntaxError: The requested module '../config/global.js' does not provide an export named 'defaultRoom'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:146:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:229:5)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/config/global.js:5
+export 
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ Mr3E0wGYPTVAYkNcAAAB: '5de35d3d-473d-46f2-a0e7-838ef4f30c47' }
+User connected with ID: 5de35d3d-473d-46f2-a0e7-838ef4f30c47
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ YTrYAlsLpJXedf5sAAAB: '3b176881-c4d7-4630-9cfb-e3ec35a10ac6' }
+User connected with ID: 3b176881-c4d7-4630-9cfb-e3ec35a10ac6
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'IbcDcToF-hZrc-MHAAAB': 'bc2f14b7-ae1c-47e9-b997-5f7618639705' }
+User connected with ID: bc2f14b7-ae1c-47e9-b997-5f7618639705
+User with ID bc2f14b7-ae1c-47e9-b997-5f7618639705 disconnected
+{ JZWhsDDV0LH2bY5_AAAD: '72258e3a-c5a0-4e94-9063-afe0a8d88bc2' }
+User connected with ID: 72258e3a-c5a0-4e94-9063-afe0a8d88bc2
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '6OdUP_urftzts42ZAAAB': '82acb17d-9796-4357-afbd-0d81c28a2048' }
+User connected with ID: 82acb17d-9796-4357-afbd-0d81c28a2048
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ i8EQqmSsslLc3QYIAAAB: '943b71ca-bcce-4e23-9ecc-16a168735687' }
+User connected with ID: 943b71ca-bcce-4e23-9ecc-16a168735687
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ gf8rzopVsnu7twnRAAAB: 'af6e9a16-392d-42e9-a331-1250e01abfe9' }
+User connected with ID: af6e9a16-392d-42e9-a331-1250e01abfe9
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '2ipfwckh_e7kprWFAAAB': '32c1c911-0aac-4aaa-869c-e8d98cfb4cb3' }
+User connected with ID: 32c1c911-0aac-4aaa-869c-e8d98cfb4cb3
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '5qBVCW830LCw1TzLAAAB': '78cea372-d41e-46e6-9623-86405a2190a0' }
+User connected with ID: 78cea372-d41e-46e6-9623-86405a2190a0
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ KgNv5IpoZxspI1frAAAB: '1f7c7774-4200-4841-b164-cd7fa2ac07f7' }
+User connected with ID: 1f7c7774-4200-4841-b164-cd7fa2ac07f7
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'u9yAE7ZCbAG-uJRQAAAB': '2c339f36-aa4d-47c9-853d-48f77284bfb1' }
+User connected with ID: 2c339f36-aa4d-47c9-853d-48f77284bfb1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ nIIVR60EZpFZyHjQAAAB: 'cb251025-154d-4693-8de6-fe711af4ba71' }
+User connected with ID: cb251025-154d-4693-8de6-fe711af4ba71
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ LWAFQv_JDYx5OdjbAAAB: 'a40e6ac0-d802-4976-a399-d4584c0893b3' }
+User connected with ID: a40e6ac0-d802-4976-a399-d4584c0893b3
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '3S3ywJn1pHa50yX_AAAB': 'f204bc45-99ed-4f7a-bf57-6bbdf846bc62' }
+User connected with ID: f204bc45-99ed-4f7a-bf57-6bbdf846bc62
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:28
+                ""
+                ^^
+
+SyntaxError: Unexpected string
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ LUpmSNbs_wV0WYlIAAAB: '3a2fea1a-9090-4718-aef7-042fa48d98d4' }
+User connected with ID: 3a2fea1a-9090-4718-aef7-042fa48d98d4
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ _qpL4RhwyvkRE19IAAAB: '8697821b-27ac-47c7-8a9d-e57a6a73bf5d' }
+User connected with ID: 8697821b-27ac-47c7-8a9d-e57a6a73bf5d
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ Narq0isWnPLD5d43AAAB: 'a82f4f75-4dfc-4aa1-8918-fa910040b1dc' }
+User connected with ID: a82f4f75-4dfc-4aa1-8918-fa910040b1dc
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '57d3gml9PbobWDnQAAAB': '2e5241ae-ddf8-4492-be6d-70d3cc403f46' }
+User connected with ID: 2e5241ae-ddf8-4492-be6d-70d3cc403f46
+changeName Entry
+{ '57d3gml9PbobWDnQAAAB': 'asdf' }
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { '57d3gml9PbobWDnQAAAB', 'Default Room' }
+[ 'Default Room' ]
+emiited to room  Default Room asdf said: hi
+asdf said: hi
+chatMessage Exit
+createParty Entry
+roomName room1
+already in a party
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ sEZZUzsHyClq5U31AAAB: '36001f95-3c7c-4454-953b-7fb7453052f6' }
+User connected with ID: 36001f95-3c7c-4454-953b-7fb7453052f6
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ eJaAqsIIS93TWe8bAAAB: '96f0ccd9-faa0-494d-ab7c-474b8ddf08a9' }
+User connected with ID: 96f0ccd9-faa0-494d-ab7c-474b8ddf08a9
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '5jbOnBpPrP5rOCVdAAAB': '6fcb902f-d3d9-40c5-bf2f-52cd8acce81f' }
+User connected with ID: 6fcb902f-d3d9-40c5-bf2f-52cd8acce81f
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '-c-aerwtOrAlIs5tAAAB': '4e265de8-c5ec-482c-9bac-46fac4497e2d' }
+User connected with ID: 4e265de8-c5ec-482c-9bac-46fac4497e2d
+User with ID 4e265de8-c5ec-482c-9bac-46fac4497e2d disconnected
+{ WyRC6yEGXL7YRpkYAAAD: 'cdc4e337-2bc9-4f38-95a2-55aa33ce4f07' }
+User connected with ID: cdc4e337-2bc9-4f38-95a2-55aa33ce4f07
+changeName Entry
+{ WyRC6yEGXL7YRpkYAAAD: 'Abhijit' }
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'WyRC6yEGXL7YRpkYAAAD', 'Default Room' }
+[ 'Default Room' ]
+emiited to room  Default Room Abhijit said: Hello
+Abhijit said: Hello
+chatMessage Exit
+createParty Entry
+roomName room1
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:31
+            io.emit('chatMessage', errorMsg);
+                                   ^
+
+ReferenceError: errorMsg is not defined
+    at Socket.<anonymous> (file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:31:36)
+    at Socket.emit (node:events:519:28)
+    at Socket.emitUntyped (/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/socket.js:697:39
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ Chyhwobyq0oVfRFMAAAB: '378fb299-2679-4f57-99dd-fea73236e3c4' }
+User connected with ID: 378fb299-2679-4f57-99dd-fea73236e3c4
+changeName Entry
+{ Chyhwobyq0oVfRFMAAAB: 'Priya' }
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'Chyhwobyq0oVfRFMAAAB', 'Default Room' }
+[ 'Default Room' ]
+emiited to room  Default Room Priya said: hello
+Priya said: hello
+chatMessage Exit
+createParty Entry
+roomName room1
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'T4imiZxA2hNbB-OKAAAB': '92d3d0a9-e67c-48bc-ba1e-ec884c1aba1d' }
+User connected with ID: 92d3d0a9-e67c-48bc-ba1e-ec884c1aba1d
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ hO3UCBvLXxPh56_pAAAB: '4b12ac60-34d5-4367-a6d0-344a5ce8cd53' }
+User connected with ID: 4b12ac60-34d5-4367-a6d0-344a5ce8cd53
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ FKnYssYJLPESmi1yAAAB: 'ffb9ce4f-ed3f-4fbd-bd8e-27ebe275831d' }
+User connected with ID: ffb9ce4f-ed3f-4fbd-bd8e-27ebe275831d
+changeName Entry
+{ FKnYssYJLPESmi1yAAAB: 'hi' }
+changeName Exit
+createParty Entry
+Set(2) { 'FKnYssYJLPESmi1yAAAB', 'Default Room' }
+roomName room1
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:11
+        console.log([...socket.rooms);
+                                    ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ i3l0cchEkolOpEVOAAAB: 'a2a75649-9968-47f9-af7a-92f68f581c21' }
+User connected with ID: a2a75649-9968-47f9-af7a-92f68f581c21
+changeName Entry
+{ i3l0cchEkolOpEVOAAAB: 'abc' }
+changeName Exit
+createParty Entry
+[ 'i3l0cchEkolOpEVOAAAB', 'Default Room' ]
+roomName room1
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:4
+const roomsList = [defaultRoom];
+                   ^
+
+ReferenceError: defaultRoom is not defined
+    at file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:4:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ vAYa9p8E3v7SehfwAAAB: 'b1633404-9ced-496d-a0a7-764351921c09' }
+User connected with ID: b1633404-9ced-496d-a0a7-764351921c09
+changeName Entry
+{ vAYa9p8E3v7SehfwAAAB: 'Priya' }
+changeName Exit
+createParty Entry
+[ 'vAYa9p8E3v7SehfwAAAB', 'Default Room' ]
+roomName room1
+Priya has joined the room1
+socket.rooms Set(2) { 'vAYa9p8E3v7SehfwAAAB', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ l52WBMjSKUvlG4c7AAAB: '00e6952c-dd72-41d4-ac84-bd1911168cda' }
+User connected with ID: 00e6952c-dd72-41d4-ac84-bd1911168cda
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ Aoqr10TlUoRyPC1tAAAB: '6c763ed9-2f21-4b64-b133-e04c0346bb71' }
+User connected with ID: 6c763ed9-2f21-4b64-b133-e04c0346bb71
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'O9Abvrl-Azzw8cKBAAAB': 'aafc72a6-ac4c-4f73-b38f-53fe6e6ad8e2' }
+User connected with ID: aafc72a6-ac4c-4f73-b38f-53fe6e6ad8e2
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '50Z1CeUTBoNfLHJNAAAB': 'fb2a0c52-b346-485b-b76e-17c83b845ccf' }
+User connected with ID: fb2a0c52-b346-485b-b76e-17c83b845ccf
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ a0tUynJcpuEQX8EpAAAB: 'f97ae9b2-60df-4e8d-8f1f-5e1a002b2126' }
+User connected with ID: f97ae9b2-60df-4e8d-8f1f-5e1a002b2126
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ x528YvmZbh8csne0AAAB: '0db5a3da-1f5f-4e15-99a5-2495a7aa1d67' }
+User connected with ID: 0db5a3da-1f5f-4e15-99a5-2495a7aa1d67
+User with ID 0db5a3da-1f5f-4e15-99a5-2495a7aa1d67 disconnected
+{ InMAtwnsM9jzdN25AAAD: '53562fef-3758-4d99-9715-8cbcf2d1eefd' }
+User connected with ID: 53562fef-3758-4d99-9715-8cbcf2d1eefd
+changeName Entry
+{ InMAtwnsM9jzdN25AAAD: 'abhijit' }
+changeName Exit
+createParty Entry
+[ 'InMAtwnsM9jzdN25AAAD', 'Default Room' ]
+roomName room1
+abhijit has joined the room1
+socket.rooms Set(2) { 'InMAtwnsM9jzdN25AAAD', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+createParty Exit
+joinParty Entry
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:53
+            io.emit('chatMessage', errorMsg);
+                                   ^
+
+ReferenceError: errorMsg is not defined
+    at Socket.<anonymous> (file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:53:36)
+    at Socket.emit (node:events:519:28)
+    at Socket.emitUntyped (/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/socket.js:697:39
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ l4jlTPAB4Fq072W5AAAB: '009f591d-24f1-4090-b136-adf167645e68' }
+User connected with ID: 009f591d-24f1-4090-b136-adf167645e68
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ GKvq9hOPkdojyfMdAAAB: '88ba96a4-f1e0-441a-ac84-1b7c78b27cae' }
+User connected with ID: 88ba96a4-f1e0-441a-ac84-1b7c78b27cae
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:53
+            io.emit('chatMessage', notification.);
+                                                ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ te_qTTd7aUnFc4SRAAAB: 'bc145542-a1c0-4399-b138-007cd6392161' }
+User connected with ID: bc145542-a1c0-4399-b138-007cd6392161
+User with ID bc145542-a1c0-4399-b138-007cd6392161 disconnected
+{ _ZcY6YVocACZIeaBAAAD: '0c8f489b-25d2-405f-88e2-3b66e3ce435b' }
+User connected with ID: 0c8f489b-25d2-405f-88e2-3b66e3ce435b
+changeName Entry
+{ _ZcY6YVocACZIeaBAAAD: 'Abhijit' }
+changeName Exit
+createParty Entry
+[ '_ZcY6YVocACZIeaBAAAD', 'Default Room' ]
+roomName room1
+Abhijit has joined the room1
+socket.rooms Set(2) { '_ZcY6YVocACZIeaBAAAD', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+createParty Exit
+joinParty Entry
+chatMessage Exit
+User with ID Abhijit disconnected
+{ FCF6XUoTCxrCO8t2AAAF: 'c1f6b983-0e47-4a68-9150-9192022a671c' }
+User connected with ID: c1f6b983-0e47-4a68-9150-9192022a671c
+changeName Entry
+{ FCF6XUoTCxrCO8t2AAAF: 'Abhijit' }
+changeName Exit
+joinParty Entry
+Abhijit has joined the room2
+socket.rooms Set(2) { 'FCF6XUoTCxrCO8t2AAAF', 'room2' }
+roomsList [ 'Default Room', 'room1' ]
+chatMessage Exit
+createParty Entry
+[ 'FCF6XUoTCxrCO8t2AAAF', 'room2' ]
+roomName room2
+createParty Exit
+leaveParty Entry
+defaultRoom
+before Set(2) { 'FCF6XUoTCxrCO8t2AAAF', 'room2' }
+after Set(2) { 'FCF6XUoTCxrCO8t2AAAF', 'room2' }
+leaveParty Exit
+User with ID Abhijit disconnected
+{ 'YIIQbMuI-8i30rLtAAAH': 'fb328c33-a83e-43cb-9e19-a25f631f9f0b' }
+User connected with ID: fb328c33-a83e-43cb-9e19-a25f631f9f0b
+changeName Entry
+{ 'YIIQbMuI-8i30rLtAAAH': 'a' }
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'YIIQbMuI-8i30rLtAAAH', 'Default Room' }
+[ 'Default Room' ]
+emiited to room  Default Room a said: aa
+a said: aa
+chatMessage Exit
+createParty Entry
+[ 'YIIQbMuI-8i30rLtAAAH', 'Default Room' ]
+roomName room2
+a has joined the room2
+socket.rooms Set(2) { 'YIIQbMuI-8i30rLtAAAH', 'room2' }
+roomsList [ 'Default Room', 'room1', 'room2' ]
+createParty Exit
+leaveParty Entry
+room2
+before Set(2) { 'YIIQbMuI-8i30rLtAAAH', 'room2' }
+after Set(2) { 'YIIQbMuI-8i30rLtAAAH', 'Default Room' }
+leaveParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '3Uj1QjGl1UHHyg1JAAAB': '8d4b255b-635e-4fba-b2bc-25ba1ff820a0' }
+User connected with ID: 8d4b255b-635e-4fba-b2bc-25ba1ff820a0
+User with ID 8d4b255b-635e-4fba-b2bc-25ba1ff820a0 disconnected
+{ vu2ZAHeo04UizIvIAAAE: 'd69420f5-c385-421c-bdc5-8c802bbe57ee' }
+User connected with ID: d69420f5-c385-421c-bdc5-8c802bbe57ee
+User with ID d69420f5-c385-421c-bdc5-8c802bbe57ee disconnected
+{ 'dNb5mkZ2AOR-KVWFAAAG': '32dd0835-aff6-40fe-823f-eb1d0be62d9c' }
+User connected with ID: 32dd0835-aff6-40fe-823f-eb1d0be62d9c
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ z_v2z068ABM6RSQEAAAB: '95b4851f-b6d0-467d-89c2-800aa8efe4f6' }
+User connected with ID: 95b4851f-b6d0-467d-89c2-800aa8efe4f6
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ aSTy72vKg8zwddWbAAAB: '0182beb1-aa71-40b7-813d-7a843e7eafd1' }
+User connected with ID: 0182beb1-aa71-40b7-813d-7a843e7eafd1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ pVo8J84pk1aqepx7AAAB: 'ecedf943-d00b-444e-ab87-2861b9976005' }
+User connected with ID: ecedf943-d00b-444e-ab87-2861b9976005
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ OlhF16fylA7i8vigAAAB: '0385d7c3-585e-460f-bad8-d5e7c00ba95f' }
+User connected with ID: 0385d7c3-585e-460f-bad8-d5e7c00ba95f
+changeName Entry
+{ OlhF16fylA7i8vigAAAB: 'Abhijit' }
+changeName Exit
+joinParty Entry
+room1 123421
+Abhijit has joined the room1
+socket.rooms Set(2) { 'OlhF16fylA7i8vigAAAB', 'room1' }
+roomsList [ 'Default Room' ]
+chatMessage Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '-j_kkcHucA7p_HE8AAAB': 'a5af2b66-cc7a-4d36-8e95-9675862d1a5f' }
+User connected with ID: a5af2b66-cc7a-4d36-8e95-9675862d1a5f
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ oTpifQJS17T9tAnsAAAB: '9dd65e70-ec6b-49f7-a1b0-7e3ea2419646' }
+User connected with ID: 9dd65e70-ec6b-49f7-a1b0-7e3ea2419646
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ AmPeHusbGwoG1wJBAAAB: '8752400e-c37c-42b1-a28d-a11b561a1ad7' }
+User connected with ID: 8752400e-c37c-42b1-a28d-a11b561a1ad7
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ eALhrJOEHZlJiUo4AAAB: '4bcf0bee-db19-44ee-a0a1-6308670d205d' }
+User connected with ID: 4bcf0bee-db19-44ee-a0a1-6308670d205d
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ bY4e7dzTBaJwRmMrAAAB: 'e0d71151-e0ae-4fcf-95e4-eb922775b1bd' }
+User connected with ID: e0d71151-e0ae-4fcf-95e4-eb922775b1bd
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/config/global.js:7
+export const room
+             ^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/config/global.js:7
+export const roomPassword
+             ^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/config/global.js:7
+export const roomPasswordMap
+             ^^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/config/global.js:9
+export const setIo = (socketIo) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ ysk2E9ua0K7FXwTbAAAB: '9a6c18ce-664f-4620-b283-bdeffc6c0673' }
+User connected with ID: 9a6c18ce-664f-4620-b283-bdeffc6c0673
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ pRjyxSkloJtZevyGAAAB: '86ec4b8e-8af5-4603-9f0a-2b431d7fd616' }
+User connected with ID: 86ec4b8e-8af5-4603-9f0a-2b431d7fd616
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ g8KraIacBaHeDEsIAAAB: '0db6e52b-d93a-4a2d-a125-64db876dfcb2' }
+User connected with ID: 0db6e52b-d93a-4a2d-a125-64db876dfcb2
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '1zIUUPU9QPL-xdYBAAAB': '1412fc3a-f646-4557-a68f-5c9c78a96996' }
+User connected with ID: 1412fc3a-f646-4557-a68f-5c9c78a96996
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ Ss2NQICUFgjp4ZTtAAAB: '3456731a-3fb8-464a-abe5-3cb517a7a81f' }
+User connected with ID: 3456731a-3fb8-464a-abe5-3cb517a7a81f
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ ttbtFf7T6TPI71hDAAAB: '1a4457be-8505-4e14-93b4-8b79d1f51d15' }
+User connected with ID: 1a4457be-8505-4e14-93b4-8b79d1f51d15
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ xR_7Fpsj9YEFQMHJAAAB: '9ad84f8e-a688-45a7-9f2c-af04240d1488' }
+User connected with ID: 9ad84f8e-a688-45a7-9f2c-af04240d1488
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '1kWnn-9X9gka6VI0AAAB': '8cf75032-2fae-4dbd-b77f-5587dc305783' }
+User connected with ID: 8cf75032-2fae-4dbd-b77f-5587dc305783
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ Wv_bJcMp22Tue2RRAAAB: '058c0504-8dfe-4b7a-ba79-1cf2d5e906f4' }
+User connected with ID: 058c0504-8dfe-4b7a-ba79-1cf2d5e906f4
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'fzUE0-72dVuC3shbAAAB': '6f56e020-124e-43bd-938e-ae43a15da1ac' }
+User connected with ID: 6f56e020-124e-43bd-938e-ae43a15da1ac
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ KRUTEbFaFtOM9rBoAAAB: 'd066747b-1b1c-416c-a37d-9b9a025b6380' }
+User connected with ID: d066747b-1b1c-416c-a37d-9b9a025b6380
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ G30ZYQFaOv0aIXanAAAB: '2657c8ee-b822-4746-9830-640c4befec13' }
+User connected with ID: 2657c8ee-b822-4746-9830-640c4befec13
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ eMEJ5_GOd8KTN4SfAAAB: '2e101549-452d-4b74-905d-af090c2a1d27' }
+User connected with ID: 2e101549-452d-4b74-905d-af090c2a1d27
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ xBTZwJTF3o0F4sYHAAAB: '71e646d8-8185-4e71-aef0-02014208d71b' }
+User connected with ID: 71e646d8-8185-4e71-aef0-02014208d71b
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ Tiy9Q80k1Aq0M3FOAAAB: 'cf6d9af7-9f30-485b-b9b3-a2fbe4c37a0c' }
+User connected with ID: cf6d9af7-9f30-485b-b9b3-a2fbe4c37a0c
+User with ID cf6d9af7-9f30-485b-b9b3-a2fbe4c37a0c disconnected
+{ o0YFmdasN4ykIn_wAAAD: '260ecd04-e7f9-4488-8c45-11dc19508d09' }
+User connected with ID: 260ecd04-e7f9-4488-8c45-11dc19508d09
+createParty Entry
+[ 'o0YFmdasN4ykIn_wAAAD', 'Default Room' ]
+Map(1) { 'room1' => [Function: generateRandomPassword] }
+roomName room1
+260ecd04-e7f9-4488-8c45-11dc19508d09 has joined the room1
+socket.rooms Set(2) { 'o0YFmdasN4ykIn_wAAAD', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '4SRF_ddKeu1etFA8AAAB': 'ab1a12b7-8924-4aea-b0d2-b8be86175711' }
+User connected with ID: ab1a12b7-8924-4aea-b0d2-b8be86175711
+User with ID ab1a12b7-8924-4aea-b0d2-b8be86175711 disconnected
+{ '5ybmJPsA7_SzYG2pAAAD': '04cced08-f178-4487-af29-dd5e217fbfd3' }
+User connected with ID: 04cced08-f178-4487-af29-dd5e217fbfd3
+createParty Entry
+[ '5ybmJPsA7_SzYG2pAAAD', 'Default Room' ]
+Map(1) { 'room1' => '906534' }
+roomName room1
+04cced08-f178-4487-af29-dd5e217fbfd3 has joined the room1
+socket.rooms Set(2) { '5ybmJPsA7_SzYG2pAAAD', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '-I6eWeSEuOiypQHKAAAB': '407a4700-d80c-4b2a-87e8-8e8262f5cd78' }
+User connected with ID: 407a4700-d80c-4b2a-87e8-8e8262f5cd78
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ x18bV_7qbfaWs9vfAAAB: '5e4ef082-5d10-413e-a8a1-d34aa6fc5a37' }
+User connected with ID: 5e4ef082-5d10-413e-a8a1-d34aa6fc5a37
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ rGPACbaJOICefBq8AAAB: '783cee43-781c-48dc-8638-f01b8633a014' }
+User connected with ID: 783cee43-781c-48dc-8638-f01b8633a014
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ ZA7EV7ON0fjSaVarAAAB: '8c7342a0-a361-4897-8d06-6bf0dc362d30' }
+User connected with ID: 8c7342a0-a361-4897-8d06-6bf0dc362d30
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ GKqXKylQxzWjyXQQAAAB: 'b7b0cb99-1a3f-4754-9dbf-0b01721f4e21' }
+User connected with ID: b7b0cb99-1a3f-4754-9dbf-0b01721f4e21
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ ttqiYal9pPFZ1rGvAAAB: '1afa32fa-eb91-4848-94d6-832aaf1c8998' }
+User connected with ID: 1afa32fa-eb91-4848-94d6-832aaf1c8998
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'hSZ9XUia_ZJc7oN-AAAB': '5d046f26-9747-4589-927d-9f219d5c2d47' }
+User connected with ID: 5d046f26-9747-4589-927d-9f219d5c2d47
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ qWwQY6SAkfnf0TRQAAAB: '61bb4cb6-7e5c-4294-bd41-54cf179135c3' }
+User connected with ID: 61bb4cb6-7e5c-4294-bd41-54cf179135c3
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ dvnda_ULeHTOB6aTAAAB: 'b0e7c754-a1eb-42e6-bb3f-a48072763793' }
+User connected with ID: b0e7c754-a1eb-42e6-bb3f-a48072763793
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ sFIQILCr750VtQ8_AAAB: '164adc74-b69b-4644-9059-7acf3b4d9d2d' }
+User connected with ID: 164adc74-b69b-4644-9059-7acf3b4d9d2d
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ xsfidDI6dx3tUUgaAAAB: 'a4615676-4b4f-4383-acb6-7fe45416458f' }
+User connected with ID: a4615676-4b4f-4383-acb6-7fe45416458f
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'gyXjxGo-qKYKO6k_AAAB': 'bf8537b2-0d06-46b5-bdcc-60d687f55f3b' }
+User connected with ID: bf8537b2-0d06-46b5-bdcc-60d687f55f3b
+User with ID bf8537b2-0d06-46b5-bdcc-60d687f55f3b disconnected
+{ laqtO0IJoAGqwFoUAAAD: '5150cf90-d48c-49e1-85c6-0fc0681ad958' }
+User connected with ID: 5150cf90-d48c-49e1-85c6-0fc0681ad958
+createParty Entry
+[ 'laqtO0IJoAGqwFoUAAAD', 'Default Room' ]
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:11
+        roomPasswordMap.set(roomName, generateRandomPassword());
+                            ^
+
+ReferenceError: generateRandomPassword is not defined
+    at Socket.<anonymous> (file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:11:29)
+    at Socket.emit (node:events:519:28)
+    at Socket.emitUntyped (/Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/typed-events.js:69:22)
+    at /Users/abhijit1.mishra/Desktop/Personal Project/liars-bar-backend/node_modules/socket.io/dist/socket.js:697:39
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ J6_c5_MOgf6TzQu1AAAB: '81a6abf9-e5fb-41cd-b76d-39235a9f9a34' }
+User connected with ID: 81a6abf9-e5fb-41cd-b76d-39235a9f9a34
+User with ID 81a6abf9-e5fb-41cd-b76d-39235a9f9a34 disconnected
+{ '41xIM9wabkGh3iMyAAAD': '9b315d71-d1d1-4c08-a62e-8c1904629f4c' }
+User connected with ID: 9b315d71-d1d1-4c08-a62e-8c1904629f4c
+createParty Entry
+[ '41xIM9wabkGh3iMyAAAD', 'Default Room' ]
+Map(1) { 'room1' => undefined }
+roomName room1
+9b315d71-d1d1-4c08-a62e-8c1904629f4c has joined the room1
+socket.rooms Set(2) { '41xIM9wabkGh3iMyAAAD', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ GsNXFqs5wjGFewjMAAAB: '097ccf57-521f-4595-8058-4bbbe724db45' }
+User connected with ID: 097ccf57-521f-4595-8058-4bbbe724db45
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/utils/roomUtils.js:6
+export const generateRandomPassword = (length = 6) => {    
+             ^
+
+SyntaxError: Identifier 'generateRandomPassword' has already been declared
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '1-ZI0GTdI8wa5eZBAAAB': 'b1b9f253-0bcc-49e4-b665-4f849eab00a6' }
+User connected with ID: b1b9f253-0bcc-49e4-b665-4f849eab00a6
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ GgAohg21WbHwa6wUAAAB: '2d3a3fdd-1b42-4d42-bae5-c98171d14ece' }
+User connected with ID: 2d3a3fdd-1b42-4d42-bae5-c98171d14ece
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ o8DlCY4BCIVips75AAAB: '7f62caf4-d1b9-47fa-ac73-15232bf263f1' }
+User connected with ID: 7f62caf4-d1b9-47fa-ac73-15232bf263f1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'RFErqm-1YTSD7U_WAAAB': 'e6d9baf3-42cc-4256-ba52-30188f33a216' }
+User connected with ID: e6d9baf3-42cc-4256-ba52-30188f33a216
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:23
+            io.to(socket.id).emit('createParty', roomName, roomPasswordMap[]);
+                                                                           ^
+
+SyntaxError: Unexpected token ']'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '69GPjIUBNZtZuOWQAAAB': 'fc2059e9-4056-4320-abd0-84d52b763003' }
+User connected with ID: fc2059e9-4056-4320-abd0-84d52b763003
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ lrg4YHwEBuPGOys3AAAB: '6e9a35cf-303b-4967-b9d4-ceafa48e2f47' }
+User connected with ID: 6e9a35cf-303b-4967-b9d4-ceafa48e2f47
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:43
+            if()
+               ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ kn7fpUTsrfEH2vyZAAAB: 'aca7dc45-eda9-403d-ac9b-53029f6f9297' }
+User connected with ID: aca7dc45-eda9-403d-ac9b-53029f6f9297
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:43
+            if(roomPassword == )
+                               ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:43
+            if(roomPassword === )
+                                ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'Y760xadrh4yXR-z9AAAB': 'ec604da4-6b83-4187-859f-c3185296f2c1' }
+User connected with ID: ec604da4-6b83-4187-859f-c3185296f2c1
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ tzWH8WA5I_pBAcqNAAAB: '27b4e481-b7d3-4606-bf6d-8b0400c9d83f' }
+User connected with ID: 27b4e481-b7d3-4606-bf6d-8b0400c9d83f
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:62
+    })
+     ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'xocfvccth-hp_f_EAAAB': '01f4b5fa-fef9-471f-910c-70f400df7bcc' }
+User connected with ID: 01f4b5fa-fef9-471f-910c-70f400df7bcc
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ Z_6s6Y99Cai4cbUOAAAB: 'd187efac-fdd5-44ea-8dfd-9b54cbb041f0' }
+User connected with ID: d187efac-fdd5-44ea-8dfd-9b54cbb041f0
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ fONFRL1vRrUi042OAAAB: '17f59856-c74e-47f9-87cd-9712f66d4582' }
+User connected with ID: 17f59856-c74e-47f9-87cd-9712f66d4582
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ _V9gokan2BPcHxUDAAAB: '3df90d9b-aed5-4574-b7af-8ad4083ef22a' }
+User connected with ID: 3df90d9b-aed5-4574-b7af-8ad4083ef22a
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'U4yu-0u_OT2TxgeQAAAB': 'dba99d7b-aafc-494c-916d-3c1662272290' }
+User connected with ID: dba99d7b-aafc-494c-916d-3c1662272290
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ t__N7DMNHZqnkATAAAAB: '28674b06-c1ac-404e-bfcb-4c40dc80acfa' }
+User connected with ID: 28674b06-c1ac-404e-bfcb-4c40dc80acfa
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '8rldyzu9_iDCqlU3AAAB': 'de13f572-da56-4e0e-9702-17942314d2cf' }
+User connected with ID: de13f572-da56-4e0e-9702-17942314d2cf
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ 'R-ix8K7DymWFy8WqAAAB': '0fafa079-0e79-420c-9dea-5ba8958be47f' }
+User connected with ID: 0fafa079-0e79-420c-9dea-5ba8958be47f
+User with ID 0fafa079-0e79-420c-9dea-5ba8958be47f disconnected
+{ 'C2h_PBkqKqE_-FrzAAAD': '50d1744e-1c69-4572-bc5b-223c4df44584' }
+User connected with ID: 50d1744e-1c69-4572-bc5b-223c4df44584
+changeName Entry
+{ 'C2h_PBkqKqE_-FrzAAAD': 'Abhijit' }
+changeName Exit
+createParty Entry
+[ 'C2h_PBkqKqE_-FrzAAAD', 'Default Room' ]
+Map(0) {}
+roomName room1
+Abhijit has joined the room1
+socket.rooms Set(2) { 'C2h_PBkqKqE_-FrzAAAD', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ aiov78zKGCVJDgMnAAAB: '21ef1f75-2c6e-4aa5-9200-029fcb2216f4' }
+User connected with ID: 21ef1f75-2c6e-4aa5-9200-029fcb2216f4
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ ZiRUBEOKtaQ0W_DxAAAB: '420164a5-f9d1-4c8b-9d34-602b4e07f150' }
+User connected with ID: 420164a5-f9d1-4c8b-9d34-602b4e07f150
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ nbJumE0GfG0BBKdOAAAB: '087a5b83-03b7-4158-8853-9f6e9df0dc5c' }
+User connected with ID: 087a5b83-03b7-4158-8853-9f6e9df0dc5c
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ dty6wzAAkinEnvo5AAAB: 'd10cace9-d28b-44cc-9611-2b4ce213c3a8' }
+User connected with ID: d10cace9-d28b-44cc-9611-2b4ce213c3a8
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+{ e2Mh3sVzmhQNN3cFAAAB: '0591a103-26c3-495c-bc54-0cd7e047c495' }
+User connected with ID: 0591a103-26c3-495c-bc54-0cd7e047c495
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ UqDfTbz1yOGtornrAAAB: 'bd7fde88-5815-4ee9-ac5d-7aa3f1077e6d' }
+User connected with ID: bd7fde88-5815-4ee9-ac5d-7aa3f1077e6d
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ helpHp7Kz2fPCau3AAAB: 'af752695-83c6-4c4c-bc50-776e3d8ab699' }
+User connected with ID: af752695-83c6-4c4c-bc50-776e3d8ab699
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ ngV6_lKCiiZn4m9VAAAB: '710643b6-09eb-456a-b1a9-9eea6778746e' }
+User connected with ID: 710643b6-09eb-456a-b1a9-9eea6778746e
+changeName Entry
+{ ngV6_lKCiiZn4m9VAAAB: 'Abhijit' }
+changeName Exit
+createParty Entry
+[ 'ngV6_lKCiiZn4m9VAAAB', 'Default Room' ]
+roomName room1
+Abhijit has joined the room1
+socket.rooms Set(2) { 'ngV6_lKCiiZn4m9VAAAB', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+roomPasswordMap Map(1) { 'room1' => undefined }
+createParty Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:3
+import { generateRandomPassword } from "../utils/roomUtils.js";
+         ^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: The requested module '../utils/roomUtils.js' does not provide an export named 'generateRandomPassword'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:146:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:229:5)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:3
+import { generateRandomPassword } from "../utils/roomUtils.js";
+         ^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: The requested module '../utils/roomUtils.js' does not provide an export named 'generateRandomPassword'
+    at ModuleJob._instantiate (node:internal/modules/esm/module_job:146:21)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:229:5)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '0Ey2VyGhmozgMXUWAAAB': '7ed00462-b5ff-4b4d-b993-6fce9fff8467' }
+User connected with ID: 7ed00462-b5ff-4b4d-b993-6fce9fff8467
+User with ID 7ed00462-b5ff-4b4d-b993-6fce9fff8467 disconnected
+{ _6foDk7iYfa2u7GFAAAD: '37cedcab-53d5-4088-bd04-747e925a2232' }
+User connected with ID: 37cedcab-53d5-4088-bd04-747e925a2232
+createParty Entry
+[ '_6foDk7iYfa2u7GFAAAD', 'Default Room' ]
+roomName room1
+37cedcab-53d5-4088-bd04-747e925a2232 has joined the room1
+socket.rooms Set(2) { '_6foDk7iYfa2u7GFAAAD', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+roomPasswordMap Map(1) { 'room1' => '118822' }
+createParty Exit
+{
+  _6foDk7iYfa2u7GFAAAD: '37cedcab-53d5-4088-bd04-747e925a2232',
+  SFl1fknHQzZitwNkAAAG: '4879e2a8-8128-4d39-a5e7-c416d73f5871'
+}
+User connected with ID: 4879e2a8-8128-4d39-a5e7-c416d73f5871
+changeName Entry
+{
+  _6foDk7iYfa2u7GFAAAD: '37cedcab-53d5-4088-bd04-747e925a2232',
+  SFl1fknHQzZitwNkAAAG: 'priya'
+}
+changeName Exit
+chatMessage Entry
+inside chatMessage Set(2) { 'SFl1fknHQzZitwNkAAAG', 'Default Room' }
+[ 'Default Room' ]
+emiited to room  Default Room priya said: hi
+priya said: hi
+chatMessage Exit
+joinParty Entry
+Map(1) { 'room1' => '118822' }
+room1 118822
+priya has joined the room1
+socket.rooms Set(2) { 'SFl1fknHQzZitwNkAAAG', 'room1' }
+roomsList [ 'Default Room', 'room1' ]
+chatMessage Exit
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:15
+            roomPasswordMap.set(roomName, {generateRandomPassword());
+                                                                   ^
+
+SyntaxError: Unexpected token ')'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:15
+            roomPasswordMap.set(roomName, { generateRandomPassword() });
+                                                                     ^
+
+SyntaxError: Unexpected token '}'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+file:///Users/abhijit1.mishra/Desktop/Personal%20Project/liars-bar-backend/src/controllers/roomEvents.js:15
+            roomPasswordMap.set(roomName, {"" generateRandomPassword() });
+                                              ^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'generateRandomPassword'
+    at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:428:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+
+Node.js v20.18.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ bHZGa1kulZtOEoRYAAAB: '1ea44f2b-342a-469d-b511-020ac31528d1' }
+User connected with ID: 1ea44f2b-342a-469d-b511-020ac31528d1
+{
+  bHZGa1kulZtOEoRYAAAB: '1ea44f2b-342a-469d-b511-020ac31528d1',
+  'fDinzaJJ-_7DXy91AAAD': '164765ac-3d7c-4fac-9c96-5666076e4d21'
+}
+User connected with ID: 164765ac-3d7c-4fac-9c96-5666076e4d21
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ fKJK0FuTKLoUVFCkAAAB: '5f2590de-b829-4bf0-90ea-32bfc1274473' }
+User connected with ID: 5f2590de-b829-4bf0-90ea-32bfc1274473
+{
+  fKJK0FuTKLoUVFCkAAAB: '5f2590de-b829-4bf0-90ea-32bfc1274473',
+  '-cvoXM1ZQtPAszomAAAD': 'c24e2878-48f5-4de5-9c94-2f45341fcd36'
+}
+User connected with ID: c24e2878-48f5-4de5-9c94-2f45341fcd36
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ V1UZmMy4lEHWvwTHAAAB: '71bdcddc-2a3e-40e3-bc4f-a9fe1ab3f930' }
+User connected with ID: 71bdcddc-2a3e-40e3-bc4f-a9fe1ab3f930
+{
+  V1UZmMy4lEHWvwTHAAAB: '71bdcddc-2a3e-40e3-bc4f-a9fe1ab3f930',
+  Y2FGP8ev9Jpar99cAAAD: 'f779ef2d-800e-453c-b9b0-3f5431996b59'
+}
+User connected with ID: f779ef2d-800e-453c-b9b0-3f5431996b59
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '5pfEtz5yNy4IuG1HAAAB': '13e53613-64c6-4100-89bb-a27717eef718' }
+User connected with ID: 13e53613-64c6-4100-89bb-a27717eef718
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ bcDgw6MVm7es1ReDAAAB: 'dc4e9f06-de7c-45d5-a022-1419bbcef588' }
+User connected with ID: dc4e9f06-de7c-45d5-a022-1419bbcef588
+{
+  bcDgw6MVm7es1ReDAAAB: 'dc4e9f06-de7c-45d5-a022-1419bbcef588',
+  PllQ3JD2NrT9U8a4AAAD: '53f20b12-3ca4-4b73-ad4e-18d1cf53dfd2'
+}
+User connected with ID: 53f20b12-3ca4-4b73-ad4e-18d1cf53dfd2
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '7poVpaU8Q8Sbh5gcAAAB': '8c14e5c9-a289-4131-97dc-a4029292ec38' }
+User connected with ID: 8c14e5c9-a289-4131-97dc-a4029292ec38
+{
+  '7poVpaU8Q8Sbh5gcAAAB': '8c14e5c9-a289-4131-97dc-a4029292ec38',
+  ey1ZuszwEfURBAQ_AAAD: 'fe7a2a83-8778-42e8-bacd-f516e0e4fff8'
+}
+User connected with ID: fe7a2a83-8778-42e8-bacd-f516e0e4fff8
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ T4TJJP3BJ8MhizXBAAAB: '62755ffa-2a92-4a85-b7f7-fd8baf4d5cdc' }
+User connected with ID: 62755ffa-2a92-4a85-b7f7-fd8baf4d5cdc
+{
+  T4TJJP3BJ8MhizXBAAAB: '62755ffa-2a92-4a85-b7f7-fd8baf4d5cdc',
+  hQC5xNkFYl7yglj1AAAD: '889463dd-c2b6-44e5-99a4-eeca11966d91'
+}
+User connected with ID: 889463dd-c2b6-44e5-99a4-eeca11966d91
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ '3h7JehGnBMTMDS_GAAAB': '75defbd5-b4b3-4189-b57f-a490846dee51' }
+User connected with ID: 75defbd5-b4b3-4189-b57f-a490846dee51
+{
+  '3h7JehGnBMTMDS_GAAAB': '75defbd5-b4b3-4189-b57f-a490846dee51',
+  Pw7b9FZIatNvF39MAAAD: '54c13e1a-2703-446f-b9e2-5ed9ec1c09e2'
+}
+User connected with ID: 54c13e1a-2703-446f-b9e2-5ed9ec1c09e2
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ ROFYn8yCMmkbsMgKAAAB: '869a8fde-d1e5-458b-bb7a-5f303868ed52' }
+User connected with ID: 869a8fde-d1e5-458b-bb7a-5f303868ed52
+{
+  ROFYn8yCMmkbsMgKAAAB: '869a8fde-d1e5-458b-bb7a-5f303868ed52',
+  XHNNZbgCARCROM2mAAAD: '2d6ddce9-ab9f-4420-8b28-32329b4e3662'
+}
+User connected with ID: 2d6ddce9-ab9f-4420-8b28-32329b4e3662
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Server running at http://localhost:3001
+{ uvl8aegijGO9c34wAAAB: 'ed41c27c-4b76-4391-880b-ab25d4d01e05' }
+User connected with ID: ed41c27c-4b76-4391-880b-ab25d4d01e05
+{
+  uvl8aegijGO9c34wAAAB: 'ed41c27c-4b76-4391-880b-ab25d4d01e05',
+  KltnRu9xZ8_6koErAAAD: 'e9053d0f-0600-4cd1-ac65-c2eae7f87790'
+}
+User connected with ID: e9053d0f-0600-4cd1-ac65-c2eae7f87790
