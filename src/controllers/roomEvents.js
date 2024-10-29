@@ -39,7 +39,6 @@ export const setupRoomEvents = (socket) => {
         console.log('joinParty Entry');
 
         const validationResult = validateJoinParty(socket, roomName, roomPassword);
-    
         if (!validationResult.success) {
             const { title, description } = validationResult.notification;
             io.to(socket.id).emit('notification', { title, description });
@@ -57,50 +56,6 @@ export const setupRoomEvents = (socket) => {
         io.to(socket.id).emit('joinParty', roomName);
         
         console.log('joinParty Exit');
-
-        // console.log(roomPasswordMap);
-        // console.log(roomName, roomPassword);
-
-        // if (socket.rooms.size === 2 && [...socket.rooms].includes(defaultRoom)) {
-        //     if (roomPassword == roomPasswordMap.get(roomName).password) {
-        //         if (roomPasswordMap.get(roomName).open) {
-        //             socket.join(roomName);
-        //             socket.leave(defaultRoom);
-        //             const joinMessage = `${users[socket.id]} has joined the ${roomName}`;
-        //             console.log(joinMessage);
-        //             console.log('socket.rooms', socket.rooms);
-        //             console.log('roomsList', roomsList);
-        //             io.to(roomName).emit('chatMessage', joinMessage);
-        //             io.to(socket.id).emit('joinParty', roomName);
-        //         }
-        //         else {
-        //             const notification = {
-        //                 "title": "Cannot Join Room!",
-        //                 "description":"Party is closed."
-        //             }
-        //             io.to(socket.id).emit('notification', notification);
-        //             io.emit('chatMessage', notification.title);            
-        //         }
-        //     }
-        //     else {
-        //         const notification = {
-        //             "title": "Cannot Join Room!",
-        //             "description":"You have entered incorrect password, Please try again."
-        //         }
-        //         io.to(socket.id).emit('notification', notification);
-        //         io.emit('chatMessage', notification.title);
-        //     }
-        // }
-        // else {
-        //     const notification = {
-        //         "title": "Cannot Join Room!",
-        //         "description":"You are already in another room."
-        //     }
-        //     io.to(socket.id).emit('notification', notification);
-        //     io.emit('chatMessage', notification.title);
-        // }
-
-        // console.log('joinParty Exit');
     })
 
     socket.on('leaveParty', ({ roomName }) => {
