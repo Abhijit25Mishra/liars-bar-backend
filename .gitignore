@@ -1,7 +1,9 @@
 node_modules
-./*/node_modules
+./node_modules
 
 ./app.log
 app.log
+
+./app*
 
 tempCodeRunnerFile
