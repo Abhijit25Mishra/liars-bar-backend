@@ -1,14 +1,11 @@
 // socketEvents.js
 import { v4 as uuidv4 } from 'uuid';
 import { setupRoomEvents } from './roomEvents.js';
-
-const users = {}; // Keep users in a module-level variable
-const defaultRoom = 'defaultRoom' ;
-const roomsList = [defaultRoom];
-const roomPassword = new Map();
+import { io, users, defaultRoom } from '../config/global.js';
 
 
-export const socketController = (io) => {
+export const socketController = () => {
+
     io.on('connection', (socket) => {
         const userId = uuidv4();
         users[socket.id] = userId;  // Track connected user by socket ID
@@ -48,69 +45,8 @@ export const socketController = (io) => {
 
         });
 
-        setupRoomEvents(io, socket);
+        setupRoomEvents(socket);
 
-/*
-        socket.on('createParty', () => {
-            console.log('createParty Entry');
-            const roomName = `room${Object.keys(roomsList).length}`;
-            console.log('roomName', roomName);
-            if (socket.rooms.size == 2 && [...socket.rooms].contain(defaultRoom)) {
-                socket.join(roomName);
-                socket.leave(defaultRoom);
-                const joinMessage = `${users[socket.id]} has joined the ${roomName}`;
-                console.log(joinMessage);
-                console.log('socket.rooms', socket.rooms);
-                roomsList.push(roomName);
-                console.log('roomsList', roomsList);
-                io.to(socket.id).emit('createParty', roomName);
-                io.to(roomName).emit('chatMessage', joinMessage);
-            }
-            else {
-                const errorMsg = 'already in a party';
-                console.log(errorMsg);
-                io.to( socket.id).emit('errorMsg', errorMsg);
-                io.emit('chatMessage', errorMsg);
-            }
-
-            console.log('createParty Exit');
-        })
-
-        socket.on('joinParty', ({ roomName }) => {
-            console.log('joinParty Entry');
-            if (socket.rooms.size === 2 && [...socket.rooms].contain(defaultRoom)) {
-                socket.join(roomName);
-                socket.leave(defaultRoom);
-                const joinMessage = `${users[socket.id]} has joined the ${roomName}`;
-                console.log(joinMessage);
-                console.log('socket.rooms', socket.rooms);
-                console.log('roomsList', roomsList);
-                io.to(roomName).emit('chatMessage', joinMessage);
-            }
-            else {
-                const errorMsg = 'already in a room';
-                console.log(errorMsg);
-                io.to( socket.id).emit('errorMsg', errorMsg);
-                io.emit('chatMessage', errorMsg);
-            }
-
-            console.log('chatMessage Exit');
-        })
-
-        socket.on('leaveParty', ({ roomName }) => {
-            console.log('leaveParty Entry');
-            console.log(roomName);
-            console.log('before',socket.rooms);
-            socket.leave(roomName);
-            if (socket.rooms.size === 1) {
-                socket.join(defaultRoom);
-                io.to(socket.id).emit('leaveParty');
-            }
-            clearEmptyRooms(roomName);
-            console.log('after',socket.rooms);
-            console.log('leaveParty Exit');
-        })
-*/
         socket.on('disconnect', () => {
             console.log(`User with ID ${users[socket.id]} disconnected`);
             delete users[socket.id];
