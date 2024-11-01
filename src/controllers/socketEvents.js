@@ -1,8 +1,8 @@
 // socketEvents.js
 import { v4 as uuidv4 } from 'uuid';
 import { setupRoomEvents } from './roomEvents.js';
-import { io, users, defaultRoom } from '../config/global.js';
-
+import { io, users, defaultRoom, roomsList, roomUserMap } from '../config/global.js';
+import { removeUserAndGetRoom } from '../utils/roomUtils.js';
 
 export const socketController = () => {
 
@@ -49,7 +49,12 @@ export const socketController = () => {
 
         socket.on('disconnect', () => {
             console.log(`User with ID ${users[socket.id]} disconnected`);
+            const roomNameTemp = removeUserAndGetRoom(roomUserMap, users[socket.id]);
+            io.to(roomNameTemp).emit('userListUpdate', roomUserMap.get(roomNameTemp));
+            console.log(roomUserMap);
+
             delete users[socket.id];
         });
+        
     });
 };
