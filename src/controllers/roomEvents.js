@@ -1,6 +1,6 @@
 // roomEvents.js
-import { io, users, defaultRoom, roomsList, roomPasswordMap } from "../config/global.js";
-import { generateRandomPassword, validateJoinParty } from "../utils/roomUtils.js";
+import { io, users, defaultRoom, roomsList, roomPasswordMap, roomUserMap  } from "../config/global.js";
+import { generateRandomPassword, validateJoinParty, findRoomByPassword } from "../utils/roomUtils.js";
 
 export const setupRoomEvents = (socket) => {
     
@@ -13,15 +13,27 @@ export const setupRoomEvents = (socket) => {
         if (socket.rooms.size === 2 && [...socket.rooms].includes(defaultRoom)) {
             socket.join(roomName);
             roomPasswordMap.set(roomName, {"password": generateRandomPassword(), "open": true });
-            
             socket.leave(defaultRoom);
             const joinMessage = `${users[socket.id]} has joined the ${roomName}`;
             console.log(joinMessage);
             console.log('socket.rooms', socket.rooms);
             roomsList.push(roomName);
             console.log('roomsList', roomsList);
-            console.log('roomPasswordMap',roomPasswordMap);
-            io.to(socket.id).emit('createParty', roomName, roomPasswordMap.get(roomName));
+            console.log('roomPasswordMap', roomPasswordMap);
+            console.log('roomPasswordMap for ', roomName, roomPasswordMap.get(roomName));
+            const roomData = {
+                roomName: roomName,
+                roomPassword: roomPasswordMap.get(roomName).password,
+                roomOpen:roomPasswordMap.get(roomName).open
+            }
+
+            // Initialize or update the user array for the room
+            const currentUsers = roomUserMap.get(roomName) || [];
+            currentUsers.push(users[socket.id]);
+            roomUserMap.set(roomName, currentUsers);
+            console.log(roomUserMap);
+
+            io.to(socket.id).emit('createParty', roomData);
             io.to(roomName).emit('chatMessage', joinMessage);
         }
         else {
@@ -38,7 +50,14 @@ export const setupRoomEvents = (socket) => {
     socket.on('joinParty', ({ roomName, roomPassword }) => {
         console.log('joinParty Entry');
 
-        const validationResult = validateJoinParty(socket, roomName, roomPassword);
+        let validationResult;
+        if (!roomName) {
+            console.log("roomName is not provided");
+            validationResult = findRoomByPassword(roomPassword);
+        } else {
+            validationResult = validateJoinParty(socket, roomName, roomPassword);
+        }
+
         if (!validationResult.success) {
             const { title, description } = validationResult.notification;
             io.to(socket.id).emit('notification', { title, description });
@@ -46,14 +65,29 @@ export const setupRoomEvents = (socket) => {
             console.log('joinParty Exit');
             return;
         }
-    
-        // Join the room if all checks are passed
+        
+        roomName = validationResult.roomName;
+
+        const currentUsers = roomUserMap.get(roomName) || [];
+        currentUsers.push(users[socket.id]);
+        roomUserMap.set(roomName, currentUsers);
+        console.log(roomUserMap);
+
         socket.join(roomName);
         socket.leave(defaultRoom);
         const joinMessage = `${users[socket.id]} has joined the ${roomName}`;
         console.log(joinMessage);
+        
+        const roomData = {
+            roomName: roomName,
+            roomPassword: roomPasswordMap.get(roomName).password,
+            roomOpen:roomPasswordMap.get(roomName).open
+        }
+
+
+        io.to(roomName).emit('userListUpdate', roomUserMap.get(roomName));
         io.to(roomName).emit('chatMessage', joinMessage);
-        io.to(socket.id).emit('joinParty', roomName);
+        io.to(socket.id).emit('joinParty', roomData);
         
         console.log('joinParty Exit');
     })
