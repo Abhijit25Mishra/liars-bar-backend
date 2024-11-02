@@ -1,3 +1,4 @@
+import { io } from "../config/global.js";
 import * as config from "../config/global.js";
 
 export const generateRandomPassword = (length = 6) => Array.from({ length }, () => Math.floor(Math.random() * 10)).join('');
@@ -16,6 +17,7 @@ export const validateJoinParty = (socket, roomName, roomPassword) => {
 
     // Check if the room exists and the password is correct
     const roomInfo = config.roomPasswordMap.get(roomName);
+    console.log(roomInfo);
     if (!roomInfo || roomPassword !== roomInfo.password) {
         return {
             success: false,
@@ -106,5 +108,15 @@ export const removeUserAndGetRoom = (roomUserMap, nameToRemove) => {
         }
     });
 
+    config.userReadyMap.set(nameToRemove, false);
+
     return roomOfRemovedUser; // Return the room name of the removed user
 };
+
+export const notifyError = (validationResult, socket)=> {
+    const { title, description } = validationResult.notification;
+    io.to(socket.id).emit('notification', { title, description });
+    io.to(socket.id).emit('chatMessage', title);
+    console.log('joinParty Exit');
+    return;
+}
