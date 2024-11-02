@@ -108,7 +108,7 @@ export const removeUserAndGetRoom = (roomUserMap, nameToRemove) => {
         }
     });
 
-    config.userReadyMap.set(nameToRemove, false);
+    config.userReadyMap.delete(nameToRemove);
 
     return roomOfRemovedUser; // Return the room name of the removed user
 };
@@ -119,4 +119,31 @@ export const notifyError = (validationResult, socket)=> {
     io.to(socket.id).emit('chatMessage', title);
     console.log('joinParty Exit');
     return;
+}
+
+export const cleanUp = () => {
+    console.log("CLEAN UP");
+    console.log("BEFORE");
+    console.log("roomUserMap", config.roomUserMap);
+    console.log("roomPasswordMap", config.roomPasswordMap);
+    console.log("roomsList", config.roomsList);
+    config.roomUserMap.forEach((users, roomName) => {
+        if (users.length === 0) {
+            config.roomUserMap.delete(roomName);
+            // Also remove the room from roomPasswordMap
+            if (config.roomPasswordMap.has(roomName)) {
+                config.roomPasswordMap.delete(roomName);
+            }
+            // Remove the room from roomsList
+            const index = config.roomsList.indexOf(roomName);
+            if (index > -1) {
+                config.roomsList.splice(index, 1);
+            }
+        }
+    });
+    console.log("AFTER");
+    console.log("roomUserMap", config.roomUserMap);
+    console.log("roomPasswordMap", config.roomPasswordMap);
+    console.log("roomsList", config.roomsList);
+    console.log("ALL CLEAN");
 }

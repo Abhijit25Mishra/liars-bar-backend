@@ -2,7 +2,7 @@
 import { v4 as uuidv4 } from 'uuid';
 import { setupRoomEvents } from './roomEvents.js';
 import { io, users, defaultRoom, roomsList, roomUserMap } from '../config/global.js';
-import { removeUserAndGetRoom } from '../utils/roomUtils.js';
+import { removeUserAndGetRoom, cleanUp } from '../utils/roomUtils.js';
 
 export const socketController = () => {
 
@@ -52,6 +52,7 @@ export const socketController = () => {
             const roomNameTemp = removeUserAndGetRoom(roomUserMap, users[socket.id]);
             io.to(roomNameTemp).emit('userListUpdate', roomUserMap.get(roomNameTemp));
             console.log(roomUserMap);
+            cleanUp(roomUserMap);
 
             delete users[socket.id];
         });
